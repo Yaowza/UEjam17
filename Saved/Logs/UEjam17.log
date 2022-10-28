@@ -1076,3 +1076,74 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.28-18.36.49:205][957]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
 [2022.10.28-18.36.49:250][958]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2022.10.28-18.37.34:404][219]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.260 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.28-18.49.39:254][ 87]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-18.49.39:255][ 87]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-18.49.39:756][ 87]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-18.49.39:757][ 87]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-18.49.40:258][ 87]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-18.49.40:268][ 87]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.28-18.49.40:268][ 87]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.28-18.49.40:268][ 87]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.28-18.49.40:269][ 87]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.28-18.49.40:269][ 87]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.28-18.49.40:269][ 87]LogWorldPartition: Display: GetPartitionedActors took 237 us
+[2022.10.28-18.49.40:269][ 87]LogWorldPartition: Display: GenerateStreaming took 923 us
+[2022.10.28-18.49.40:270][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-18.49.40:270][ 87]PIE: New page: PIE session: TopDownMap (28 oct. 2022 à 22:49:40)
+[2022.10.28-18.49.40:270][ 87]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.28-18.49.40:287][ 87]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.28-18.49.40:288][ 87]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016821s)
+[2022.10.28-18.49.40:288][ 87]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.017011s)
+[2022.10.28-18.49.40:288][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-18.49.40:289][ 87]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.28-18.49.40:291][ 87]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.28-18.49.40:292][ 87]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.28-18.49.40:295][ 87]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.10.28-18.49.40:295][ 87]LogPlayLevel: PIE: World Init took: (0.007186s)
+[2022.10.28-18.49.40:308][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.28-18.49.40:309][ 87]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.28-18.49.40:309][ 87]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-18.49.40:309][ 87]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-18.49.40:309][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-18.49.40:309][ 87]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-18.49.40:309][ 87]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-18.49.40:309][ 87]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-18.49.40:309][ 87]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-18.49.40:309][ 87]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-18.49.40:310][ 87]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-18.49.40:310][ 87]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-18.49.40:310][ 87]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-18.49.40:313][ 87]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-18.49.40:339][ 87]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.28-18.49.40:339][ 87]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-18.49.40:339][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-18.49.40:339][ 87]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-18.49.40:340][ 87]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.28-18.49.40:340][ 87]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.28-18.49.40:342][ 87]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.28-18.49.40:342][ 87]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.28-18.49.40:342][ 87]LogInit: FAudioDevice initialized.
+[2022.10.28-18.49.40:342][ 87]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2022.10.28-18.49.40:355][ 87]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.28-18.49.40:357][ 87]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.28-20.49.40
+[2022.10.28-18.49.40:357][ 87]LogWorld: Bringing up level for play took: 0.001443
+[2022.10.28-18.49.40:359][ 87]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2022.10.28-18.49.40:361][ 87]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1000.000 Y=1810.000 Z=98.338
+[2022.10.28-18.49.40:361][ 87]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.28-18.49.40:362][ 87]PIE: Server logged in
+[2022.10.28-18.49.40:362][ 87]PIE: Play in editor total start time 0,097 seconds.
+[2022.10.28-18.49.43:586][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-18.49.43:586][348]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.28-18.49.43:586][348]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-18.49.43:586][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-18.49.43:596][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-18.49.43:597][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-18.49.43:605][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-18.49.43:605][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.28-18.49.43:607][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.28-18.49.43:612][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.28-18.49.43:616][348]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-18.49.44:117][348]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-18.49.44:118][348]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-18.49.44:620][348]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-18.49.44:664][349]LogPlayLevel: Display: Destroying online subsystem :Context_2
