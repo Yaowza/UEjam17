@@ -685,3 +685,462 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.28-19.07.20:895][  0]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.10.28-19.07.21:957][ 69]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 3.218239 sec, no shader worker used.
 [2022.10.28-19.07.22:143][ 74]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.28-19.09.08:138][148]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.343 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.28-19.10.54:257][138]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.10.28-19.10.54:261][138]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.10.28-19.12.02:143][697]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-19.12.02:146][697]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.12.02:647][697]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.12.02:650][697]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.12.03:151][697]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.12.03:163][697]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.28-19.12.03:163][697]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.28-19.12.03:163][697]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.28-19.12.03:163][697]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.28-19.12.03:163][697]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.28-19.12.03:163][697]LogWorldPartition: Display: GetPartitionedActors took 184 us
+[2022.10.28-19.12.03:164][697]LogWorldPartition: Display: GenerateStreaming took 849 us
+[2022.10.28-19.12.03:164][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-19.12.03:165][697]PIE: New page: PIE session: TopDownMap (28 oct. 2022 à 23:12:03)
+[2022.10.28-19.12.03:173][697]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.28-19.12.03:173][697]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.28-19.12.03:173][697]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.28-19.12.03:189][697]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.28-19.12.03:189][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016144s)
+[2022.10.28-19.12.03:190][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.016360s)
+[2022.10.28-19.12.03:190][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-19.12.03:191][697]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.28-19.12.03:192][697]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.28-19.12.03:192][697]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.28-19.12.03:196][697]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.10.28-19.12.03:196][697]LogPlayLevel: PIE: World Init took: (0.006168s)
+[2022.10.28-19.12.03:212][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.28-19.12.03:213][697]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.28-19.12.03:213][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-19.12.03:213][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-19.12.03:213][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-19.12.03:213][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-19.12.03:213][697]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-19.12.03:213][697]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-19.12.03:213][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-19.12.03:213][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-19.12.03:214][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-19.12.03:214][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-19.12.03:214][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-19.12.03:217][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-19.12.03:238][697]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2022.10.28-19.12.03:239][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-19.12.03:239][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-19.12.03:239][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-19.12.03:239][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.28-19.12.03:239][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.28-19.12.03:241][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.28-19.12.03:241][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.28-19.12.03:241][697]LogInit: FAudioDevice initialized.
+[2022.10.28-19.12.03:241][697]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2022.10.28-19.12.03:262][697]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.28-19.12.03:263][697]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.28-21.12.03
+[2022.10.28-19.12.03:263][697]LogWorld: Bringing up level for play took: 0.001815
+[2022.10.28-19.12.03:265][697]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.10.28-19.12.03:283][697]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1000.000 Y=1810.000 Z=98.338
+[2022.10.28-19.12.03:283][697]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.28-19.12.03:283][697]PIE: Server logged in
+[2022.10.28-19.12.03:284][697]PIE: Play in editor total start time 0,126 seconds.
+[2022.10.28-19.12.22:333][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-19.12.22:333][388]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.28-19.12.22:334][388]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-19.12.22:334][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-19.12.22:346][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-19.12.22:348][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-19.12.22:356][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-19.12.22:356][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.28-19.12.22:357][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.28-19.12.22:361][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-19.12.22:362][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.28-19.12.22:375][388]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.12.22:876][388]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.12.22:878][388]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.12.23:379][388]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.12.23:440][389]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.10.28-19.12.26:673][676]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.28-19.12.26:679][676]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.28-19.12.33:444][270]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode
+[2022.10.28-19.12.33:444][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-19.12.36:480][431]LogSlate: Window 'BP_TopDownGameMode' being destroyed
+[2022.10.28-19.12.36:487][431]LogSlate: Window 'BP_TopDownGameMode' being destroyed
+[2022.10.28-19.12.36:490][431]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.12.36:991][431]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.12.36:993][431]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.12.37:495][431]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.12.37:497][431]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.12.37:998][431]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.12.37:999][431]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-19.12.37:999][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-19.12.39:415][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+[2022.10.28-19.12.39:416][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-19.12.39:925][548]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.28-19.13.21:364][ 87]LogSlate: Window 'BP_TopDownController' being destroyed
+[2022.10.28-19.16.45:033][490]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.10.28-19.17.01:921][141]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.28-19.17.01:935][141]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.28-19.17.01:944][142]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.28-19.17.05:215][457]LogContentBrowser: Attempting asset rename: NewFolder -> Jam
+[2022.10.28-19.17.05:215][457]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.28-19.17.08:338][745]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.28-19.17.09:475][745]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.28-19.17.09:483][745]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.28-19.17.09:489][745]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.28-19.17.09:508][747]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.10.28-19.17.10:673][856]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.10.28-19.17.10:682][856]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.28-19.17.12:767][948]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.28-19.17.12:774][948]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2022.10.28-19.17.12:780][948]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2022.10.28-19.17.12:790][949]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2022.10.28-19.17.13:410][  6]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> NewBlueprint1
+[2022.10.28-19.17.13:415][  6]LogContentBrowser: End creating deferred item NewBlueprint1
+[2022.10.28-19.17.14:575][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.28-19.17.15:702][115]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.28-19.17.15:741][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.10.28-19.17.16:619][196]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/NewBlueprint1.NewBlueprint1
+[2022.10.28-19.17.16:620][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-19.19.26:210][326]BlueprintLog: New page: Compile NewBlueprint1
+[2022.10.28-19.19.26:284][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.28-19.19.26:759][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/NewBlueprint1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/NewBlueprint1.uasset" SILENT=true
+[2022.10.28-19.19.26:766][361]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007061 seconds
+[2022.10.28-19.19.26:769][361]LogSavePackage: Moving output files for package: /Game/Jam/NewBlueprint1
+[2022.10.28-19.19.26:769][361]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/NewBlueprint122FAD5D0481A6E99280F6D8725141D4A.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/NewBlueprint1.uasset'
+[2022.10.28-19.19.26:781][361]AssetCheck: New page: Asset Save: NewBlueprint1
+[2022.10.28-19.19.26:781][361]LogContentValidation: Display: Validating Blueprint /Game/Jam/NewBlueprint1.NewBlueprint1
+[2022.10.28-19.19.29:513][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Jam/NewBlueprint1.NewBlueprint1_C
+[2022.10.28-19.19.29:513][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Jam/NewBlueprint1.NewBlueprint1_C
+[2022.10.28-19.19.29:514][608]LogActorFactory: Actor Factory spawned Blueprint /Game/Jam/NewBlueprint1.NewBlueprint1 as actor: NewBlueprint1_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NewBlueprint1_C_0
+[2022.10.28-19.19.29:515][608]LogActorFactory: Actor Factory spawned Blueprint /Game/Jam/NewBlueprint1.NewBlueprint1 as actor: NewBlueprint1_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NewBlueprint1_C_0
+[2022.10.28-19.19.30:246][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Jam/NewBlueprint1.NewBlueprint1_C
+[2022.10.28-19.19.30:247][683]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Jam/NewBlueprint1.NewBlueprint1_C
+[2022.10.28-19.19.30:250][683]LogActorFactory: Actor Factory spawned Blueprint /Game/Jam/NewBlueprint1.NewBlueprint1 as actor: NewBlueprint1_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NewBlueprint1_C_UAID_186024AD2D64584401_1312858455
+[2022.10.28-19.19.30:251][683]LogActorFactory: Actor Factory spawned Blueprint /Game/Jam/NewBlueprint1.NewBlueprint1 as actor: NewBlueprint1_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NewBlueprint1_C_UAID_186024AD2D64584401_1312858455
+[2022.10.28-19.19.44:208][510]LogSlate: Took 0.014352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.10.28-19.20.40:603][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.28-19.20.43:614][  6]LogSlate: Window 'Save Content' being destroyed
+[2022.10.28-19.21.54:325][ 13]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.21.54:826][ 13]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.21.54:827][ 13]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.21.55:328][ 13]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.21.55:330][ 13]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.21.55:831][ 13]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.21.55:910][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.28-19.21.55:915][ 13]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/8V/NUZXFL0Y0VYI817ZTIWQ7K_Auto1
+[2022.10.28-19.21.55:915][ 13]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/NUZXFL0Y0VYI817ZTIWQ7K_Auto1869B9639434B6A30DC3E618471997043.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/8V/NUZXFL0Y0VYI817ZTIWQ7K_Auto1.uasset'
+[2022.10.28-19.21.55:915][ 13]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.075
+[2022.10.28-19.21.55:915][ 13]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2022.10.28-19.21.55:916][ 13]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Jam/NewBlueprint1] ([2] browsable assets)...
+[2022.10.28-19.21.55:916][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jam/NewBlueprint1]
+[2022.10.28-19.21.55:916][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/NewBlueprint1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/Jam/NewBlueprint1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.10.28-19.21.55:919][ 13]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Jam/NewBlueprint1_Auto1
+[2022.10.28-19.21.55:919][ 13]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/NewBlueprint1_Auto1593B0EED4E7F13BF2F0A96803D4F0F58.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/Jam/NewBlueprint1_Auto1.uasset'
+[2022.10.28-19.21.55:920][ 13]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.10.28-19.24.52:104][ 82]LogSlate: Took 0.008593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.28-19.24.54:289][303]BlueprintLog: New page: Compile NewBlueprint1
+[2022.10.28-19.24.54:390][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.10.28-19.30.15:985][ 66]BlueprintLog: New page: Compile NewBlueprint1
+[2022.10.28-19.30.15:990][ 66]LogBlueprint: Error: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\NewBlueprint1.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Replace existing input connections' at  float / float
+[2022.10.28-19.30.16:077][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.28-19.30.16:558][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/NewBlueprint1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/NewBlueprint1.uasset" SILENT=true
+[2022.10.28-19.30.16:572][101]LogSavePackage: Moving output files for package: /Game/Jam/NewBlueprint1
+[2022.10.28-19.30.16:573][101]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/NewBlueprint1C1CAD4E1433EF93B8364E48EBFC5709B.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/NewBlueprint1.uasset'
+[2022.10.28-19.30.16:589][101]AssetCheck: New page: Asset Save: NewBlueprint1
+[2022.10.28-19.30.16:589][101]LogContentValidation: Display: Validating Blueprint /Game/Jam/NewBlueprint1.NewBlueprint1
+[2022.10.28-19.30.26:387][988]BlueprintLog: New page: Compile NewBlueprint1
+[2022.10.28-19.30.26:450][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.28-19.30.26:822][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/NewBlueprint1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/NewBlueprint1.uasset" SILENT=true
+[2022.10.28-19.30.26:833][ 21]LogSavePackage: Moving output files for package: /Game/Jam/NewBlueprint1
+[2022.10.28-19.30.26:833][ 21]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/NewBlueprint10C036A5344A00DAB6A5F74AB6E22EB91.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/NewBlueprint1.uasset'
+[2022.10.28-19.30.26:845][ 21]AssetCheck: New page: Asset Save: NewBlueprint1
+[2022.10.28-19.30.26:845][ 21]LogContentValidation: Display: Validating Blueprint /Game/Jam/NewBlueprint1.NewBlueprint1
+[2022.10.28-19.32.06:495][ 18]BlueprintLog: New page: Compile BP_TopDownController
+[2022.10.28-19.32.06:554][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.28-19.32.07:091][ 68]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownController
+[2022.10.28-19.32.07:091][ 68]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/BP_TopDownController8A9D05EC4F4848ABA1610E960F7D17F5.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/TopDown/Blueprints/BP_TopDownController.uasset'
+[2022.10.28-19.32.07:106][ 68]AssetCheck: New page: Asset Save: BP_TopDownController
+[2022.10.28-19.32.07:106][ 68]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+[2022.10.28-19.32.08:226][170]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.32.08:726][170]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.32.08:727][170]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.32.09:228][170]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.32.09:230][170]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.32.09:730][170]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.32.09:803][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.28-19.32.09:806][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/8V/NUZXFL0Y0VYI817ZTIWQ7K_Auto2
+[2022.10.28-19.32.09:806][170]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/NUZXFL0Y0VYI817ZTIWQ7K_Auto2C53C316A4C10DF7B7C4FC8BBB376D918.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/8V/NUZXFL0Y0VYI817ZTIWQ7K_Auto2.uasset'
+[2022.10.28-19.32.09:807][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.064
+[2022.10.28-19.32.09:807][170]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2022.10.28-19.32.10:309][203]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-19.32.10:312][203]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.32.10:813][203]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.32.10:816][203]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.32.11:317][203]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.32.11:319][203]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.32.11:820][203]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.32.11:829][203]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.28-19.32.11:829][203]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.28-19.32.11:829][203]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.28-19.32.11:829][203]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.28-19.32.11:830][203]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.28-19.32.11:830][203]LogWorldPartition: Display: GetPartitionedActors took 374 us
+[2022.10.28-19.32.11:830][203]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.10.28-19.32.11:843][203]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-19.32.11:844][203]PIE: New page: PIE session: TopDownMap (28 oct. 2022 à 23:32:11)
+[2022.10.28-19.32.11:844][203]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.28-19.32.11:852][203]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.28-19.32.11:852][203]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008137s)
+[2022.10.28-19.32.11:852][203]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.008220s)
+[2022.10.28-19.32.11:852][203]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-19.32.11:853][203]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.28-19.32.11:853][203]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.28-19.32.11:853][203]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.28-19.32.11:855][203]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.28-19.32.11:855][203]LogPlayLevel: PIE: World Init took: (0.003153s)
+[2022.10.28-19.32.11:893][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.10.28-19.32.11:895][203]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.28-19.32.11:895][203]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-19.32.11:895][203]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-19.32.11:895][203]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-19.32.11:895][203]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-19.32.11:895][203]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-19.32.11:895][203]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-19.32.11:895][203]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-19.32.11:895][203]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-19.32.11:895][203]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-19.32.11:895][203]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-19.32.11:895][203]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-19.32.11:897][203]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-19.32.11:912][203]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2022.10.28-19.32.11:913][203]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-19.32.11:913][203]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-19.32.11:913][203]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-19.32.11:914][203]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.28-19.32.11:914][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.28-19.32.11:916][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.28-19.32.11:916][203]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.28-19.32.11:916][203]LogInit: FAudioDevice initialized.
+[2022.10.28-19.32.11:916][203]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2022.10.28-19.32.11:926][203]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.28-19.32.11:928][203]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.28-21.32.11
+[2022.10.28-19.32.11:929][203]LogWorld: Bringing up level for play took: 0.002262
+[2022.10.28-19.32.11:931][203]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.10.28-19.32.11:931][203]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=940.000 Y=1380.000 Z=1050.000
+[2022.10.28-19.32.11:931][203]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.28-19.32.11:935][203]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.28-19.32.11:935][203]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.10.28-19.32.11:935][203]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.28-19.32.11:935][203]PIE: Server logged in
+[2022.10.28-19.32.11:935][203]PIE: Play in editor total start time 0,109 seconds.
+[2022.10.28-19.32.12:636][256]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.26:658][658]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.53:432][246]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.54:914][392]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.55:129][413]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.55:355][435]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.58:980][793]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.59:309][825]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.59:442][838]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.59:634][857]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.32.59:786][872]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.07:707][638]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.07:936][660]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.08:151][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-19.33.08:151][678]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.28-19.33.08:151][678]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-19.33.08:152][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-19.33.08:163][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-19.33.08:168][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-19.33.08:203][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-19.33.08:204][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.28-19.33.08:205][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.28-19.33.08:213][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.28-19.33.08:220][678]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.33.08:720][678]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.33.08:722][678]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.33.09:223][678]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.33.09:225][678]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.33.09:727][678]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.33.09:959][679]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.10.28-19.33.37:801][289]LogSlate: Window 'Message Log' being destroyed
+[2022.10.28-19.33.37:824][289]LogSlate: Window 'Message Log' being destroyed
+[2022.10.28-19.33.40:415][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C
+[2022.10.28-19.33.40:415][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C
+[2022.10.28-19.33.40:419][432]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter as actor: BP_TopDownCharacter_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0
+[2022.10.28-19.33.40:422][432]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter as actor: BP_TopDownCharacter_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_0
+[2022.10.28-19.33.40:796][451]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C
+[2022.10.28-19.33.40:796][451]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter_C
+[2022.10.28-19.33.40:803][451]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter as actor: BP_TopDownCharacter_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_UAID_186024AD2D64594401_1089665632
+[2022.10.28-19.33.40:806][451]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter as actor: BP_TopDownCharacter_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_UAID_186024AD2D64594401_1089665632
+[2022.10.28-19.33.42:778][553]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.28-19.33.42:781][553]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.33.43:283][553]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.33.43:285][553]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.33.43:787][553]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.33.43:789][553]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.33.44:290][553]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.33.44:303][553]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.28-19.33.44:303][553]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.28-19.33.44:303][553]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.28-19.33.44:303][553]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.28-19.33.44:304][553]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.28-19.33.44:304][553]LogWorldPartition: Display: GetPartitionedActors took 196 us
+[2022.10.28-19.33.44:304][553]LogWorldPartition: Display: GenerateStreaming took 917 us
+[2022.10.28-19.33.44:305][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.28-19.33.44:305][553]PIE: New page: PIE session: TopDownMap (28 oct. 2022 à 23:33:44)
+[2022.10.28-19.33.44:305][553]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.28-19.33.44:324][553]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.28-19.33.44:324][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019202s)
+[2022.10.28-19.33.44:324][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.019351s)
+[2022.10.28-19.33.44:325][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.28-19.33.44:325][553]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.28-19.33.44:326][553]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.28-19.33.44:326][553]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.28-19.33.44:328][553]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.10.28-19.33.44:329][553]LogPlayLevel: PIE: World Init took: (0.004207s)
+[2022.10.28-19.33.44:377][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.28-19.33.44:378][553]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.28-19.33.44:378][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.28-19.33.44:378][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.28-19.33.44:378][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.28-19.33.44:378][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.28-19.33.44:378][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.28-19.33.44:378][553]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.28-19.33.44:378][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.28-19.33.44:379][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.28-19.33.44:379][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.28-19.33.44:379][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.28-19.33.44:379][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.28-19.33.44:381][553]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.28-19.33.44:396][553]LogAudioMixer: Display: Using Audio Hardware Device X2483/2481 (NVIDIA High Definition Audio)
+[2022.10.28-19.33.44:397][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.28-19.33.44:397][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.28-19.33.44:397][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.28-19.33.44:398][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.10.28-19.33.44:398][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.10.28-19.33.44:399][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.10.28-19.33.44:399][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.10.28-19.33.44:399][553]LogInit: FAudioDevice initialized.
+[2022.10.28-19.33.44:399][553]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2022.10.28-19.33.44:409][553]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.28-19.33.44:412][553]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.28-21.33.44
+[2022.10.28-19.33.44:412][553]LogWorld: Bringing up level for play took: 0.003158
+[2022.10.28-19.33.44:414][553]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.10.28-19.33.44:415][553]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=940.000 Y=1380.000 Z=1050.000
+[2022.10.28-19.33.44:415][553]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.28-19.33.44:415][553]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.28-19.33.44:415][553]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.10.28-19.33.44:415][553]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.28-19.33.44:415][553]PIE: Server logged in
+[2022.10.28-19.33.44:416][553]PIE: Play in editor total start time 0,117 seconds.
+[2022.10.28-19.33.45:019][598]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.45:659][657]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.46:184][704]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.46:490][732]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.46:643][746]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.47:641][838]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.47:943][866]PIE: Warning: SimpleMove failed for BP_TopDownController_C_0: movement not allowed
+[2022.10.28-19.33.48:411][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-19.33.48:411][905]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.28-19.33.48:411][905]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-19.33.48:411][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-19.33.48:424][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.28-19.33.48:428][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-19.33.48:464][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.28-19.33.48:464][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.28-19.33.48:466][905]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.10.28-19.33.48:469][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.28-19.33.48:472][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.28-19.33.48:480][905]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.33.48:982][905]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.33.48:985][905]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.33.49:486][905]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.33.49:488][905]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.33.49:989][905]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.33.50:225][906]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.10.28-19.33.50:993][943]LogSlate: Window 'Message Log' being destroyed
+[2022.10.28-19.33.51:015][943]LogSlate: Window 'Message Log' being destroyed
+[2022.10.28-19.35.23:706][310]Cmd: DELETE
+[2022.10.28-19.35.23:706][310]Cmd: ACTOR DELETE
+[2022.10.28-19.35.23:728][310]LogEditorActor: Deleted Actor: BP_TopDownCharacter_C
+[2022.10.28-19.35.23:775][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.10.28-19.35.23:778][310]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2022.10.28-19.35.24:884][398]LogWorldPartition: Warning: Actor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TopDownCharacter_C_UAID_186024AD2D64594401_1089665632 is unreachable without properly detaching object /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/XT/SSQLN3AR1EJ0K3VOTJU1SZ.PackageMetaData in its package
+[2022.10.28-19.35.24:886][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.28-19.35.24:922][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.28-19.35.24:958][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.28-19.35.24:960][398]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/8V/NUZXFL0Y0VYI817ZTIWQ7K
+[2022.10.28-19.35.24:961][398]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/NUZXFL0Y0VYI817ZTIWQ7K1F2B9AC94C9442D6961B21BCD635B990.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/8V/NUZXFL0Y0VYI817ZTIWQ7K.uasset'
+[2022.10.28-19.35.24:976][398]AssetCheck: New page: Asset Save: NewBlueprint1_C_UAID_186024AD2D64584401_1312858455
+[2022.10.28-19.35.24:976][398]LogContentValidation: Display: Validating NewBlueprint1_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NewBlueprint1_C_UAID_186024AD2D64584401_1312858455
+[2022.10.28-19.35.25:012][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.28-19.35.26:643][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.28-19.35.27:863][546]LogSlate: Window 'Save Content' being destroyed
+[2022.10.28-19.35.28:002][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.28-19.35.28:038][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.28-19.35.28:074][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.28-19.35.28:083][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.35.28:584][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.35.28:587][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.35.29:088][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.35.29:090][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.35.29:591][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.35.29:591][546]LogStall: Shutdown...
+[2022.10.28-19.35.29:597][546]LogStall: Shutdown complete.
+[2022.10.28-19.35.29:640][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.35.30:141][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.35.30:144][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.35.30:644][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.35.30:647][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.35.31:149][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.35.31:191][546]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-19.35.31:191][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-19.35.31:283][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.35.31:785][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.35.31:787][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.35.32:288][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.35.32:289][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.35.32:791][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.35.32:792][546]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.28-19.35.32:793][546]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.28-19.35.32:793][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.28-19.35.32:865][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.35.33:365][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.35.33:365][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.35.33:867][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.35.33:869][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.35.34:371][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.35.34:384][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.35.34:884][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.35.34:887][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.35.35:388][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.35.35:390][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.35.35:891][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.35.35:894][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.35.36:395][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.35.36:398][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.35.36:900][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.35.36:904][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.35.37:404][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.35.37:410][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.35.37:910][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.35.37:912][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.35.38:413][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.35.38:416][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.35.38:917][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.35.38:926][546]LogSlate: Window 'UEjam17 - Unreal Editor' being destroyed
+[2022.10.28-19.35.38:938][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.35.39:439][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.35.39:439][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.35.39:941][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.35.39:943][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.28-19.35.40:444][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.28-19.35.40:459][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.28-19.35.40:961][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.28-19.35.40:963][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.28-19.35.41:464][546]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.28-19.35.41:466][546]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
