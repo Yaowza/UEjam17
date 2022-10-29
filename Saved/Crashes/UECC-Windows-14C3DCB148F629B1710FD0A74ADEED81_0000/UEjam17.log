@@ -1,0 +1,1321 @@
+﻿Log file open, 10/29/22 13:27:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UEjam17
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-0"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.1-0+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\y_perrette\Documents\GitHub\UEjam17\UEjam17.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="95d103d142a5fc763f245dadc7cd7bce"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.288274
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-14C3DCB148F629B1710FD0A74ADEED81
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-0
+LogInit: Engine Version: 5.0.1-0+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-0+++UE5+Release-5.0
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (21H2) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): May 16 2022 15:05:37
+LogInit: Compiled with Visual C++: 19.29.30145.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/EpicGames/unreal_engine/5.0.1/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.29-11.27.48:765][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.29-11.27.48:765][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.29-11.27.48:765][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.29-11.27.48:766][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.29-11.27.48:771][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.29-11.27.48:851][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.29-11.27.48:851][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.29-11.27.49:007][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1070 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.29-11.27.49:007][  0]LogD3D12RHI: Adapter has 8088MB of dedicated video memory, 0MB of dedicated system memory, and 8152MB of shared system memory, 2 output[s]
+[2022.10.29-11.27.49:013][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.29-11.27.49:013][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8152MB of shared system memory, 0 output[s]
+[2022.10.29-11.27.49:013][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.29-11.27.49:013][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.29-11.27.49:013][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.29-11.27.49:013][  0]LogHAL: Display: Platform has ~ 16 GB [17096609792 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.29-11.27.49:013][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.29-11.27.49:013][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.29-11.27.49:013][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.29-11.27.49:016][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.29-11.27.49:016][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/y_perrette/Documents/GitHub/UEjam17/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.29-11.27.49:016][  0]LogInit: Computer: MOI-LAB03-PC15
+[2022.10.29-11.27.49:016][  0]LogInit: User: yperrette
+[2022.10.29-11.27.49:016][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.29-11.27.49:016][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.29-11.27.49:017][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.29-11.27.49:017][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.29-11.27.49:017][  0]LogMemory: Process Physical Memory: 260.70 MB used, 270.77 MB peak
+[2022.10.29-11.27.49:017][  0]LogMemory: Process Virtual Memory: 204.01 MB used, 204.01 MB peak
+[2022.10.29-11.27.49:017][  0]LogMemory: Physical Memory: 8124.78 MB used,  8179.82 MB free, 16304.60 MB total
+[2022.10.29-11.27.49:017][  0]LogMemory: Virtual Memory: 18886.43 MB used,  4962.06 MB free, 23848.49 MB total
+[2022.10.29-11.27.49:017][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.29-11.27.49:022][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.29-11.27.49:125][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.29-11.27.49:126][  0]LogInit: Using OS detected language (en-US).
+[2022.10.29-11.27.49:126][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.10.29-11.27.49:183][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.29-11.27.49:378][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.29-11.27.49:413][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.29-11.27.49:413][  0]LogWindowsTextInputMethodSystem:   - French (France) - (Keyboard).
+[2022.10.29-11.27.49:413][  0]LogWindowsTextInputMethodSystem:   - French (France) - Touch Input Correction (TSF IME).
+[2022.10.29-11.27.49:413][  0]LogWindowsTextInputMethodSystem: Activated input method: French (France) - (Keyboard).
+[2022.10.29-11.27.49:464][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.29-11.27.49:464][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.29-11.27.51:499][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.29-11.27.51:502][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.29-11.27.51:502][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.29-11.27.51:562][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.29-11.27.51:615][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.29-11.27.51:620][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.29-11.27.51:628][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.29-11.27.51:637][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.29-11.27.51:637][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.29-11.27.51:680][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.10.29-11.27.51:680][  0]LogD3D12RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.29-11.27.51:680][  0]LogWindows: EnumDisplayDevices:
+[2022.10.29-11.27.51:680][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2022.10.29-11.27.51:680][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2022.10.29-11.27.51:680][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.10.29-11.27.51:680][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.10.29-11.27.51:681][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.29-11.27.51:681][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.10.29-11.27.51:681][  0]LogD3D12RHI:   Driver Version: 511.09 (internal:30.0.15.1109, unified:511.09)
+[2022.10.29-11.27.51:681][  0]LogD3D12RHI:      Driver Date: 12-29-2021
+[2022.10.29-11.27.51:681][  0]LogRHI: Texture pool is 4611 MB (70% of 6588 MB)
+[2022.10.29-11.27.51:681][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.29-11.27.51:681][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.29-11.27.51:691][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.29-11.27.51:731][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/y_perrette/Documents/GitHub/UEjam17/UEjam17.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/y_perrette/Documents/GitHub/UEjam17/Intermediate/TurnkeyReport_0.log" -log="C:/Users/y_perrette/Documents/GitHub/UEjam17/Intermediate/TurnkeyLog_0.log" -project="C:/Users/y_perrette/Documents/GitHub/UEjam17/UEjam17.uproject"  -platform=all'
+[2022.10.29-11.27.51:731][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/EpicGames/unreal_engine/5.0.1/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/y_perrette/Documents/GitHub/UEjam17/UEjam17.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/y_perrette/Documents/GitHub/UEjam17/Intermediate/TurnkeyReport_0.log" -log="C:/Users/y_perrette/Documents/GitHub/UEjam17/Intermediate/TurnkeyLog_0.log" -project="C:/Users/y_perrette/Documents/GitHub/UEjam17/UEjam17.uproject"  -platform=all" ]
+[2022.10.29-11.27.51:849][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.29-11.27.51:909][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.29-11.27.51:909][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.29-11.27.51:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.29-11.27.51:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.29-11.27.51:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.29-11.27.51:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.29-11.27.51:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.29-11.27.51:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.29-11.27.51:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.29-11.27.51:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.29-11.27.51:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.29-11.27.51:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.29-11.27.51:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.29-11.27.51:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.29-11.27.52:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.29-11.27.52:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.29-11.27.52:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.29-11.27.52:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.29-11.27.52:034][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.29-11.27.52:122][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.29-11.27.52:140][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.29-11.27.52:140][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.29-11.27.52:140][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.29-11.27.52:140][  0]LogTargetPlatformManager:   PCM
+[2022.10.29-11.27.52:157][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.29-11.27.52:157][  0]LogTargetPlatformManager:   BINKA
+[2022.10.29-11.27.52:157][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.29-11.27.52:157][  0]LogTargetPlatformManager:   OGG
+[2022.10.29-11.27.52:157][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.29-11.27.52:157][  0]LogTargetPlatformManager:   OPUS
+[2022.10.29-11.27.52:354][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.29-11.27.52:355][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.29-11.27.52:359][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.29-11.27.52:359][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.29-11.27.52:362][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.29-11.27.52:365][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.29-11.27.52:365][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.29-11.27.52:365][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.29-11.27.52:365][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchy Hierarchy.
+[2022.10.29-11.27.52:415][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.05 seconds
+[2022.10.29-11.27.52:415][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=22.26MBs, RandomWriteSpeed=130.61MBs. Assigned SpeedClass 'Local'
+[2022.10.29-11.27.52:416][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2022.10.29-11.27.52:416][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.29-11.27.52:416][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.29-11.27.52:423][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.29-11.27.52:423][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.29-11.27.52:424][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Intermediate/Shaders/WorkingDirectory/15144/).
+[2022.10.29-11.27.52:424][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/y_perrette/AppData/Local/Temp/UnrealShaderWorkingDir/A8B03C3A4FEE7630A818C4A4AB93F9FB/'.
+[2022.10.29-11.27.52:424][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.29-11.27.52:425][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.10.29-11.27.57:265][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.29-11.27.57:279][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.29-11.27.57:327][  0]LogAssetRegistry: FAssetRegistry took 0.0116 seconds to start up
+[2022.10.29-11.27.57:332][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.29-11.27.57:536][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.29-11.27.57:538][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.29-11.27.57:792][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.29-11.27.57:793][  0]LogDeviceProfileManager: Active device profile: [00000659CDF80E00][00000659C5207800 50] WindowsEditor
+[2022.10.29-11.27.57:793][  0]LogDeviceProfileManager: Profiles: [00000659CDF808C0][00000659C5202800 50] Windows, [00000659CDF80E00][00000659C5207800 50] WindowsEditor, [00000659CDF82680][00000659C513A000 50] WindowsServer, [00000659CDF824C0][00000659B0A7C800 50] WindowsClient, [00000659CDF82300][00000659C5240000 50] IOS, [00000659CDF83100][00000659CDEF0000 50] iPadAir2, [00000659CDF84EC0][00000659CDEF7800 50] IPadPro, [00000659CDF85240][00000659CDEF5000 50] iPadAir3, [00000659CDF84980][00000659CDEFA000 50] iPadAir4, [00000659CDF82D80][00000659CDEFC800 50] iPadMini4, [00000659CDF81F80][00000659C5205000 50] iPadMini5, [00000659CDF85400][00000659CDF50000 50] iPadMini6, [00000659CDF87FC0][00000659CDF5A000 50] iPhone6S, [00000659CDF88340][00000659CDF57800 50] iPhone7, [00000659CDF886C0][00000659CDF55000 50] iPodTouch7, [00000659CDF83F00][00000659CDF5C800 50] iPhone6SPlus, [00000659CDF88180][00000659CDEF2800 50] iPhone7Plus, [00000659CDF81DC0][00000659CDF00000 50] iPhoneSE, [00000659CDF84B40][00000659CDF05000 50] iPhone8, [00000659CDF87A80][00000659CDF07800 50] iPhone8Plus, [00000659CDF816C0][00000659CDF0A000 50] iPhoneX, [00000659CDF85780][00000659CDF0C800 50] iPhoneXS, [00000659CDF878C0][00000659CDF52800 50] iPhoneXSMax, [00000659CDF839C0][00000659CDFF0000 50] iPhoneXR, [00000659CDF85940][00000659CDFF5000 50] iPhone11, [00000659CDF871C0][00000659CDFF7800 50] iPhone11Pro, [00000659CDF85CC0][00000659CDFFA000 50] iPhone11ProMax, [00000659CDF88C00][00000659CDFFC800 50] iPhoneSE2, [00000659CDF863C0][00000659CDF02800 50] iPhone12Mini, [00000659CDF88A40][00000659CDF90000 50] iPhone12, [00000659CDF88500][00000659CDF95000 50] iPhone12Pro, [00000659CDF84600][00000659CDF97800 50] iPhone12ProMax, [00000659CDF87000][00000659CDF9A000 50] iPhone13Mini, [00000659CDF84440][00000659CDF9C800 50] iPhone13, [00000659CDF87700][00000659CDFF2800 50] iPhone13Pro, [00000659CDF801C0][00000659CDFA0000 50] iPhone13ProMax, [00000659CDF86C80][00000659CDFA5000 50] iPadPro105, [00000659CDF88880][00000659CDFA7800 50] iPadPro129, [00000659CDF83B80][00000659CDFAA000 50] iPadPro97, [00000659CDF81A40][00000659CDFAC800 50] iPadPro2_129, [00000659CDF86580][00000659CDF92800 50] iPad5, [00000659CDF86AC0][00000659CDFC0000 50] iPad6, [00000659CDF84280][00000659CDFC5000 50] iPad7, [00000659CDF83480][00000659CDFC7800 50] iPad8, [00000659CDF80C40][00000659CDFCA000 50] iPad9, [00000659CDF80380][00000659CDFCC800 50] iPadPro11, [00000659CDF80700][00000659CDFA2800 50] iPadPro2_11, [00000659CDF87C40][00000659CE010000 50] iPadPro3_11, [00000659CDF81C00][00000659CE015000 50] iPadPro3_129, [00000659CDF83640][00000659CE017800 50] iPadPro4_129, [00000659CDF81880][00000659CE01A000 50] iPadPro5_129, [00000659CDF81180][00000659CE01C800 50] AppleTV, [00000659CDF87380][00000659CDFC2800 50] AppleTV4K, [00000659CDF82140][00000659CE020000 50] TVOS, [00000659CDF8A640][00000659CE027800 50] Mac, [00000659CDF8A9C0][00000659CE025000 50] MacEditor, [00000659CDF88DC0][00000659CE02A000 50] MacClient, [00000659CDF8AB80][00000659CE02C800 50] MacServer, [00000659CDF86E40][00000659CE060000 50] Linux, [00000659CDF85B00][00000659CE062800 50] LinuxEditor, [00000659CDF87E00][00000659CE067800 50] LinuxArm64Editor, [00000659CDF89A00][00000659CE06A000 50] LinuxArm64, [00000659CDF86740][00000659CE06C800 50] LinuxClient, [00000659CDF87540][00000659CE012800 50] LinuxArm64Client, [00000659CDF80540][00000659CE065000 50] LinuxServer, [00000659CDF85E80][00000659CE030000 50] LinuxArm64Server, [00000659CDF832C0][00000659CE035000 50] Android, [00000659CDF8A800][00000659CE037800 50] Android_Preview_OpenGL, [00000659CDF86200][00000659CE03A000 50] Android_Preview_Vulkan, [00000659CDF855C0][00000659CE03C800 50] Android_Low, [00000659CDF840C0][00000659CE022800 50] Android_Mid, [00000659CDF89BC0][00000659CE040000 50] Android_High, [00000659CDF89140][00000659CE045000 50] Android_Default, [00000659CDF8A480][00000659CE047800 50] Android_Adreno4xx, [00000659CDF89840][00000659CE04A000 50] Android_Adreno5xx_Low, [00000659CDF89F40][00000659CE04C800 50] Android_Adreno5xx, [00000659CDF80FC0][00000659CE032800 50] Android_Adreno6xx, [00000659CDF89680][00000659CE050000 50] Android_Adreno6xx_Vulkan, [00000659CDF8AF00][00000659CE055000 50] Android_Adreno7xx, [00000659CDF84D00][00000659CE057800 50] Android_Adreno7xx_Vulkan, [00000659CDF81340][00000659CE05A000 50] Android_Mali_T6xx, [00000659CDF8A2C0][00000659CE05C800 50] Android_Mali_T7xx, [00000659CDF80000][00000659CE042800 50] Android_Mali_T8xx, [00000659CDF86900][00000659CDFD0000 50] Android_Mali_G71, [00000659CDF8AD40][00000659CDFD5000 50] Android_Mali_G72, [00000659CDF847C0][00000659CDFD7800 50] Android_Mali_G72_Vulkan, [00000659CDF82A00][00000659CDFDA000 50] Android_Mali_G76, [00000659CDF8B600][00000659CDFDC800 50] Android_Mali_G76_Vulkan, [00000659CDF82840][00000659CE052800 50] Android_Mali_G77, [00000659CDF8B7C0][00000659CE070000 50] Android_Mali_G77_Vulkan, [00000659CDF81500][00000659CE075000 50] Android_Mali_G78, [00000659CDF8B440][00000659CE077800 50] Android_Mali_G78_Vulkan, [00000659CDF8B280][00000659CE07A000 50] Android_Mali_G710, [00000659CDF89300][00000659CE07C800 50] Android_Mali_G710_Vulkan, [00000659CDF86040][00000659CDFD2800 50] Android_Xclipse_920, [00000659CDF83D40][00000659CE080000 50] Android_Xclipse_920_Vulkan, [00000659CDF8C5C0][00000659CE085000 50] Android_Vulkan_SM5, [00000659CDF8C080][00000659CE087800 50] Android_PowerVR_G6xxx, [00000659CDF8C400][00000659CE08A000 50] Android_PowerVR_GT7xxx, [00000659CDF82BC0][00000659CE08C800 50] Android_PowerVR_GE8xxx, [00000659CDF89D80][00000659CE072800 50] Android_PowerVR_GM9xxx, [00000659CDF8BEC0][00000659CE090000 50] Android_PowerVR_GM9xxx_Vulkan, [00000659CDF8A100][00000659CE095000 50] Android_TegraK1, [00000659CDF8DC80][00000659CE097800 50] Android_Unknown_Vulkan, [00000659CDF8BB40][00000659CE09A000 50] Oculus_Quest, [00000659CDF8DAC0][00000659CE09C800 50] Oculus_Quest2, [00000659CDF894C0][00000659CE082800 50] HoloLens, 
+[2022.10.29-11.27.57:793][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.29-11.27.57:874][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.29-11.27.58:275][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.29-11.27.58:275][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.29-11.27.58:275][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.29-11.27.58:275][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.29-11.27.58:275][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.29-11.27.58:350][  0]LogNetVersion: UEjam17 1.0.0, NetCL: 0, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2976697773)
+[2022.10.29-11.27.58:896][  0]LogSlate: Border
+[2022.10.29-11.27.58:896][  0]LogSlate: BreadcrumbButton
+[2022.10.29-11.27.58:896][  0]LogSlate: Default
+[2022.10.29-11.27.58:896][  0]LogSlate: Icons.Save
+[2022.10.29-11.27.58:896][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.29-11.27.58:896][  0]LogSlate: ListView
+[2022.10.29-11.27.58:896][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.29-11.27.58:896][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.29-11.27.58:897][  0]LogSlate: TableView.DarkRow
+[2022.10.29-11.27.58:897][  0]LogSlate: TableView.Row
+[2022.10.29-11.27.58:897][  0]LogSlate: TreeView
+[2022.10.29-11.27.59:322][  0]SourceControl: Source control is disabled
+[2022.10.29-11.27.59:400][  0]SourceControl: Source control is disabled
+[2022.10.29-11.27.59:400][  0]SourceControl: Source control is disabled
+[2022.10.29-11.27.59:614][  0]LogUObjectArray: 20552 objects as part of root set at end of initial load.
+[2022.10.29-11.27.59:614][  0]LogUObjectAllocator: 5582856 out of 0 bytes used by permanent object pool.
+[2022.10.29-11.27.59:614][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.29-11.28.01:342][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.29-11.28.01:342][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5E4ED26A43F69D825DE3B795EB8C1555 | Instance: 9F6876074F6ACF2EE7C1268BAA20E134 (MOI-LAB03-PC15-15144).
+[2022.10.29-11.28.01:525][  0]LogPython: Using Python 3.9.7
+[2022.10.29-11.28.02:532][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.29-11.28.02:557][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.29-11.28.02:999][  0]SourceControl: Source control is disabled
+[2022.10.29-11.28.03:019][  0]SourceControl: Source control is disabled
+[2022.10.29-11.28.03:120][  0]SourceControl: Source control is disabled
+[2022.10.29-11.28.03:163][  0]LogUProjectInfo: Found projects:
+[2022.10.29-11.28.04:634][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.29-11.28.04:840][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.29-11.28.04:943][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.29-11.28.04:943][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.29-11.28.05:296][  0]LogCollectionManager: Loaded 0 collections in 0.001628 seconds
+[2022.10.29-11.28.05:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/y_perrette/Documents/GitHub/UEjam17/Saved/Collections/' took 0.00s
+[2022.10.29-11.28.05:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/y_perrette/Documents/GitHub/UEjam17/Content/Developers/yperrette/Collections/' took 0.00s
+[2022.10.29-11.28.05:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/y_perrette/Documents/GitHub/UEjam17/Content/Collections/' took 0.00s
+[2022.10.29-11.28.06:074][  0]LogEngine: Initializing Engine...
+[2022.10.29-11.28.06:083][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.29-11.28.06:100][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.29-11.28.06:690][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.29-11.28.06:690][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.29-11.28.06:721][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.28.06:758][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.29-11.28.06:759][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.29-11.28.06:806][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.29-11.28.06:809][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.29-11.28.06:809][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.29-11.28.06:811][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.29-11.28.06:811][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.29-11.28.06:811][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-11.28.06:811][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-11.28.06:811][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-11.28.06:811][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-11.28.06:811][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-11.28.06:811][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-11.28.06:811][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-11.28.06:811][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-11.28.06:811][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-11.28.06:811][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-11.28.06:811][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-11.28.06:823][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-11.28.06:849][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO X)
+[2022.10.29-11.28.06:849][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-11.28.06:866][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-11.28.06:866][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-11.28.06:867][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.29-11.28.06:867][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.29-11.28.06:868][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.29-11.28.06:868][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.29-11.28.06:868][  0]LogInit: FAudioDevice initialized.
+[2022.10.29-11.28.06:869][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.29-11.28.06:869][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.29-11.28.06:869][  0]LogInit: Texture streaming: Enabled
+[2022.10.29-11.28.06:937][  0]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.1-0+++UE5+Release-5.0
+[2022.10.29-11.28.06:954][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.29-11.28.06:987][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.29-11.28.07:015][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.29-11.28.07:015][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.29-11.28.08:580][  0]LogLiveCoding: Display: First instance in process group "UE_UEjam17_0x03fa0276", spawning console
+[2022.10.29-11.28.08:580][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.29-11.28.08:580][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.29-11.28.08:586][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.28.09:087][  0]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.28.09:088][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.28.09:590][  0]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.28.09:650][  0]LogInit: Transaction tracking system initialized
+[2022.10.29-11.28.09:836][  0]BlueprintLog: New page: Editor Load
+[2022.10.29-11.28.10:293][  0]LocalizationService: Localization service is disabled
+[2022.10.29-11.28.10:364][  0]TimingProfiler: Initialize
+[2022.10.29-11.28.10:364][  0]TimingProfiler: OnSessionChanged
+[2022.10.29-11.28.10:364][  0]LoadingProfiler: Initialize
+[2022.10.29-11.28.10:364][  0]LoadingProfiler: OnSessionChanged
+[2022.10.29-11.28.10:364][  0]NetworkingProfiler: Initialize
+[2022.10.29-11.28.10:365][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.29-11.28.10:365][  0]MemoryProfiler: Initialize
+[2022.10.29-11.28.10:365][  0]MemoryProfiler: OnSessionChanged
+[2022.10.29-11.28.10:566][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.28.11:067][  0]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.28.11:069][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.28.11:570][  0]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.28.11:668][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.28.12:168][  0]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.28.12:170][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.28.12:672][  0]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.28.13:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/y_perrette/Documents/GitHub/UEjam17/Content/' took 0.02s
+[2022.10.29-11.28.13:817][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.29-11.28.14:001][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.29-11.28.14:003][  0]SourceControl: Source control is disabled
+[2022.10.29-11.28.14:003][  0]LogUnrealEdMisc: Loading editor; pre map load, took 28.139
+[2022.10.29-11.28.14:003][  0]Cmd: MAP LOAD FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.29-11.28.14:004][  0]LightingResults: New page: Lighting Build
+[2022.10.29-11.28.14:008][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.28.14:009][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.28.14:009][  0]MapCheck: New page: Map Check
+[2022.10.29-11.28.14:009][  0]LightingResults: New page: Lighting Build
+[2022.10.29-11.28.14:016][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-11.28.14:019][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.10.29-11.28.15:466][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2022.10.29-11.28.15:472][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.28.15:473][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.10.29-11.28.15:473][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.29-11.28.15:473][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Valid, Installed=1190.9.3.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.29-11.28.15:473][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.29-11.28.15:473][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v19_clang-11.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.29-11.28.15:473][  0]LogTurnkeySupport: Turnkey Platform: Mac: (Status=Valid, Installed=1190.9.3.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.29-11.28.15:473][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Valid, Installed=1190.9.3.1, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.29-11.28.15:473][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.29-11.28.15:474][  0]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.29-11.28.15:478][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-11.28.15:478][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.29-11.28.17:204][  0]LogLinker: Warning: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\__ExternalActors__\TopDown\Maps\TopDownMap\8\G4\2YHOT28YQTN0ZGZCAEGD8F.uasset: Failed to load '/Game/Jam/Building/compenente/BP_Clickabel': Can't find file.
+[2022.10.29-11.28.17:204][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Jam/Building/compenente/BP_Clickabel'
+[2022.10.29-11.28.17:519][  0]LogWorldPartition: Display: WorldPartition initialize took 2.04 sec
+[2022.10.29-11.28.17:662][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.29-11.28.17:663][  0]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.10.29-11.28.17:676][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.29-11.28.17:676][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.29-11.28.17:677][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,32ms to complete.
+[2022.10.29-11.28.17:677][  0]LogFileHelpers: Loading map 'TopDownMap' took 3.674
+[2022.10.29-11.28.17:695][  0]LogUnrealEdMisc: Total Editor Startup Time, took 31.831
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: ================================================
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.29-11.28.17:695][  0]LogShaderCompilers: Display: ================================================
+[2022.10.29-11.28.17:806][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.28.18:307][  0]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.28.18:309][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.28.18:810][  0]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.28.18:858][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-11.28.18:865][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-11.28.18:873][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-11.28.18:883][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-11.28.18:958][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.29-11.28.18:958][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.18:966][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.29-11.28.18:966][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.18:972][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.29-11.28.18:972][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.18:978][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_Puzzle.upack', mount point: 'root:/'
+[2022.10.29-11.28.18:978][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.18:982][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_PuzzleBP.upack', mount point: 'root:/'
+[2022.10.29-11.28.18:982][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.18:989][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.29-11.28.18:989][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.18:996][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.29-11.28.18:996][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.19:000][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.29-11.28.19:000][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.19:005][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.29-11.28.19:005][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.19:009][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_VehicleAdv.upack', mount point: 'root:/'
+[2022.10.29-11.28.19:009][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.19:013][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.29-11.28.19:013][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.19:017][  0]LogPakFile: Display: Mounted Pak file 'C:/EpicGames/unreal_engine/5.0.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.29-11.28.19:018][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.29-11.28.19:221][  0]LogSlate: Took 0.003748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.29-11.28.19:226][  0]LogSlate: Took 0.003231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.29-11.28.19:231][  0]LogSlate: Took 0.003167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.29-11.28.19:238][  0]LogSlate: Took 0.005757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.29-11.28.19:977][  0]LogStall: Startup...
+[2022.10.29-11.28.19:979][  0]LogStall: Startup complete.
+[2022.10.29-11.28.20:024][  0]LogLoad: (Engine Initialization) Total time: 34.16 seconds
+[2022.10.29-11.28.20:024][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.29-11.28.20:044][  0]LogAssetRegistry: Asset discovery search completed in 22.7186 seconds
+[2022.10.29-11.28.20:053][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.10.29-11.28.20:055][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.29-11.28.22:105][122]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 6.670247 sec, no shader worker used.
+[2022.10.29-11.28.22:559][133]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.10.29-11.29.52:807][  4]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.391 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.29-11.30.08:553][257]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.10.29-11.30.08:558][257]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.10.29-11.30.14:650][622]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.30.15:876][694]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.30.20:969][ 39]LogSlate: Took 0.005116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.29-11.30.20:985][ 39]LogSlate: Took 0.003805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.29-11.30.25:685][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu.Fourmizdeu
+[2022.10.29-11.30.25:686][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.30.27:342][341]LogSlate: Took 0.003725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.29-11.30.35:155][ 68]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_class1.Fourmizdeu_class1
+[2022.10.29-11.30.35:156][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.30.35:604][ 69]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.30.37:662][307]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.30.38:163][307]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.30.38:166][307]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.30.38:667][307]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.30.38:668][307]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.30.39:169][307]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.30.39:170][307]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.30.39:170][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.30.39:232][307]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_class1.Fourmizdeu_class1
+[2022.10.29-11.30.39:232][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.30.40:433][394]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.30.40:935][394]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.30.40:935][394]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.30.41:436][394]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.30.41:437][394]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.30.41:939][394]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.30.41:939][394]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.30.41:939][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.30.46:694][753]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.29-11.30.46:694][753]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.29-11.30.49:023][936]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2
+[2022.10.29-11.30.49:023][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.30.49:487][937]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.30.50:293][ 29]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class3.Fourmizdeu_Class3
+[2022.10.29-11.30.50:293][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.30.50:741][ 30]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.30.52:249][205]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.30.52:750][205]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.30.52:752][205]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.30.53:254][205]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.30.53:255][205]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.30.53:755][205]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.30.53:755][205]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.30.53:756][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.30.53:799][205]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class3.Fourmizdeu_Class3
+[2022.10.29-11.30.53:800][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.30.55:915][394]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.30.56:415][394]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.30.56:417][394]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.30.56:918][394]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.30.56:920][394]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.30.57:422][394]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.30.57:423][394]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.30.57:423][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.30.57:474][394]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2
+[2022.10.29-11.30.57:474][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.31.01:280][620]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.31.08:579][ 80]Cmd: DELETE
+[2022.10.29-11.31.08:579][ 80]Cmd: ACTOR DELETE
+[2022.10.29-11.31.08:582][ 80]LogEditorActor: Deleted Actor: DecalActor
+[2022.10.29-11.31.08:636][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.29-11.31.08:637][ 80]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.10.29-11.31.11:509][261]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.31.12:881][367]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/fourmiz1/Fourmiz_classe1.Fourmiz_classe1
+[2022.10.29-11.31.12:882][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.31.13:364][367]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-11.31.16:194][581]LogSlate: Window 'Fourmiz_classe1' being destroyed
+[2022.10.29-11.31.37:745][ 29]BlueprintLog: New page: Compile Fourmizdeu_class1
+[2022.10.29-11.31.37:882][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.29-11.31.38:587][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz2/Fourmizdeu_class1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_class1.uasset" SILENT=true
+[2022.10.29-11.31.38:594][ 76]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.006942 seconds
+[2022.10.29-11.31.38:608][ 76]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz2/Fourmizdeu_class1
+[2022.10.29-11.31.38:611][ 76]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizdeu_class14ED017794FAA2DBB1C4FE587506FC7B5.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_class1.uasset'
+[2022.10.29-11.31.38:636][ 76]AssetCheck: New page: Asset Save: Fourmizdeu_class1
+[2022.10.29-11.31.38:636][ 76]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_class1.Fourmizdeu_class1
+[2022.10.29-11.31.39:569][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz2/Fourmizdeu_Class3" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class3.uasset" SILENT=true
+[2022.10.29-11.31.39:583][148]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz2/Fourmizdeu_Class3
+[2022.10.29-11.31.39:585][148]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizdeu_Class304CA98264CEC346F10914F84239454C9.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class3.uasset'
+[2022.10.29-11.31.39:621][148]AssetCheck: New page: Asset Save: Fourmizdeu_Class3
+[2022.10.29-11.31.39:621][148]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class3.Fourmizdeu_Class3
+[2022.10.29-11.31.40:800][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz2/Fourmizdeu_Class2" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class2.uasset" SILENT=true
+[2022.10.29-11.31.40:805][254]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz2/Fourmizdeu_Class2
+[2022.10.29-11.31.40:806][254]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizdeu_Class2FB61B4544209CA4C157C4EAF56B8B777.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class2.uasset'
+[2022.10.29-11.31.40:823][254]AssetCheck: New page: Asset Save: Fourmizdeu_Class2
+[2022.10.29-11.31.40:823][254]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2
+[2022.10.29-11.31.47:028][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz3/Fourmiztroi_class1.Fourmiztroi_class1
+[2022.10.29-11.31.47:028][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.31.47:551][770]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.31.48:712][902]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz3/Fourmiztroi_class2.Fourmiztroi_class2
+[2022.10.29-11.31.48:712][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.31.49:213][903]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.31.50:118][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz3/Fourmiztroi_class3.Fourmiztroi_class3
+[2022.10.29-11.31.50:118][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.31.50:571][  7]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.31.53:537][347]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.31.54:038][347]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.31.54:040][347]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.31.54:541][347]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.31.54:542][347]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.31.55:043][347]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.31.55:044][347]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.31.55:044][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.31.56:905][548]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.31.57:407][548]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.31.57:408][548]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.31.57:910][548]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.31.57:912][548]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.31.58:413][548]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.31.58:413][548]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-11.31.58:413][548]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.31.58:413][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.31.59:997][703]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.32.00:498][703]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.32.00:498][703]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.32.01:000][703]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.32.01:001][703]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.32.01:501][703]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.32.01:501][703]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-11.32.01:501][703]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.32.01:501][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.32.02:160][771]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.32.02:660][771]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.32.02:661][771]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.32.03:162][771]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.32.03:164][771]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.32.03:666][771]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.32.03:667][771]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-11.32.03:667][771]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.32.03:667][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.32.05:639][995]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.32.06:141][995]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.32.06:143][995]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.32.06:645][995]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.32.06:647][995]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.32.07:148][995]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.32.07:148][995]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-11.32.07:148][995]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.32.07:149][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.32.07:196][995]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz3/Fourmiztroi_class1.Fourmiztroi_class1
+[2022.10.29-11.32.07:197][995]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.32.09:551][207]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.32.10:052][207]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.32.10:053][207]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.32.10:554][207]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.32.10:556][207]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.32.11:057][207]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.32.11:057][207]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.32.11:057][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.32.11:094][207]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz3/Fourmiztroi_class3.Fourmiztroi_class3
+[2022.10.29-11.32.11:094][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.32.12:618][335]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.32.13:120][335]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.32.13:122][335]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.32.13:623][335]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.32.13:624][335]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.32.14:126][335]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.32.14:126][335]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.32.14:126][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.32.14:161][335]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz3/Fourmiztroi_class2.Fourmiztroi_class2
+[2022.10.29-11.32.14:161][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.32.33:653][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz3/Fourmiztroi_class1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz3/Fourmiztroi_class1.uasset" SILENT=true
+[2022.10.29-11.32.33:658][474]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz3/Fourmiztroi_class1
+[2022.10.29-11.32.33:659][474]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiztroi_class1DC0BD95C42CB66B9627558BCE9375B6D.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz3/Fourmiztroi_class1.uasset'
+[2022.10.29-11.32.33:672][474]AssetCheck: New page: Asset Save: Fourmiztroi_class1
+[2022.10.29-11.32.33:672][474]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz3/Fourmiztroi_class1.Fourmiztroi_class1
+[2022.10.29-11.32.34:724][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz3/Fourmiztroi_class3" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz3/Fourmiztroi_class3.uasset" SILENT=true
+[2022.10.29-11.32.34:730][568]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz3/Fourmiztroi_class3
+[2022.10.29-11.32.34:731][568]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiztroi_class3C45525404240BAD57E4EA1AF1B84CC23.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz3/Fourmiztroi_class3.uasset'
+[2022.10.29-11.32.34:752][568]AssetCheck: New page: Asset Save: Fourmiztroi_class3
+[2022.10.29-11.32.34:752][568]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz3/Fourmiztroi_class3.Fourmiztroi_class3
+[2022.10.29-11.32.35:813][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz3/Fourmiztroi_class2" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz3/Fourmiztroi_class2.uasset" SILENT=true
+[2022.10.29-11.32.35:827][665]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz3/Fourmiztroi_class2
+[2022.10.29-11.32.35:829][665]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiztroi_class248AA075F49687DB20C99158A84DBC75D.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz3/Fourmiztroi_class2.uasset'
+[2022.10.29-11.32.35:850][665]AssetCheck: New page: Asset Save: Fourmiztroi_class2
+[2022.10.29-11.32.35:850][665]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz3/Fourmiztroi_class2.Fourmiztroi_class2
+[2022.10.29-11.32.37:032][739]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.29-11.32.37:038][739]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.32.37:540][739]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.32.37:541][739]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.32.38:042][739]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.32.38:043][739]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.32.38:543][739]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.32.38:550][739]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-11.32.38:550][739]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-11.32.38:550][739]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-11.32.38:550][739]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-11.32.38:550][739]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.29-11.32.38:550][739]LogWorldPartition: Display: GetPartitionedActors took 66 us
+[2022.10.29-11.32.38:551][739]LogWorldPartition: Display: GenerateStreaming took 655 us
+[2022.10.29-11.32.38:551][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-11.32.38:552][739]PIE: New page: PIE session: TopDownMap (29 oct. 2022 à 15:32:38)
+[2022.10.29-11.32.38:555][739]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.29-11.32.38:555][739]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.29-11.32.38:555][739]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-11.32.38:577][739]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-11.32.38:577][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022137s)
+[2022.10.29-11.32.38:577][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.022205s)
+[2022.10.29-11.32.38:577][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.32.38:578][739]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.29-11.32.38:578][739]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-11.32.38:578][739]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-11.32.38:583][739]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.10.29-11.32.38:583][739]LogPlayLevel: PIE: World Init took: (0.005943s)
+[2022.10.29-11.32.38:638][739]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.29-11.32.38:639][739]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.29-11.32.38:639][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-11.32.38:639][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-11.32.38:639][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-11.32.38:639][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-11.32.38:639][739]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-11.32.38:639][739]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-11.32.38:639][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-11.32.38:639][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-11.32.38:640][739]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-11.32.38:640][739]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-11.32.38:640][739]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-11.32.38:641][739]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-11.32.38:659][739]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO X)
+[2022.10.29-11.32.38:659][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-11.32.38:659][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-11.32.38:659][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-11.32.38:660][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.29-11.32.38:660][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.29-11.32.38:662][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.29-11.32.38:662][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.29-11.32.38:662][739]LogInit: FAudioDevice initialized.
+[2022.10.29-11.32.38:662][739]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2022.10.29-11.32.38:676][739]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.29-11.32.38:799][739]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.29-13.32.38
+[2022.10.29-11.32.38:849][739]LogWorld: Bringing up level for play took: 0.173640
+[2022.10.29-11.32.38:851][739]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2022.10.29-11.32.38:865][739]LogWorldPartition: New Streaming Source: BP_control_C_0 -> Position: X=740.000 Y=1380.000 Z=280.000
+[2022.10.29-11.32.38:865][739]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-11.32.38:871][739]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.29-11.32.38:871][739]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.29-11.32.38:871][739]PIE: Server logged in
+[2022.10.29-11.32.38:872][739]PIE: Play in editor total start time 0,324 seconds.
+[2022.10.29-11.32.39:359][740]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=221.15 Y=17.77 Z=0.00 Location: X=991.33 Y=1782.62 Z=24.47 Normal: X=-0.16 Y=-0.49 Z=-0.86 PenetrationDepth:4.457 Actor:BP_control_C_0 Component:oooe BoneName:None (1 other events since notify)
+[2022.10.29-11.32.39:522][745]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] Hello
+[2022.10.29-11.32.39:523][745]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] Hello
+[2022.10.29-11.32.39:918][767]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] Hello
+[2022.10.29-11.32.39:960][770]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=206.18 Y=61.80 Z=0.00 Location: X=991.33 Y=1782.62 Z=24.47 Normal: X=-0.16 Y=-0.49 Z=-0.86 PenetrationDepth:4.457 Actor:BP_control_C_0 Component:oooe BoneName:None (29 other events since notify)
+[2022.10.29-11.32.40:026][773]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] Hello
+[2022.10.29-11.32.40:026][773]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] Hello
+[2022.10.29-11.32.40:531][801]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] Hello
+[2022.10.29-11.32.40:531][801]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] Hello
+[2022.10.29-11.32.40:532][801]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] Hello
+[2022.10.29-11.32.40:533][801]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] Hello
+[2022.10.29-11.32.40:935][824]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] Hello
+[2022.10.29-11.32.40:936][824]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] Hello
+[2022.10.29-11.32.40:961][826]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=217.34 Y=111.94 Z=0.00 Location: X=991.33 Y=1782.62 Z=24.47 Normal: X=-0.16 Y=-0.49 Z=-0.86 PenetrationDepth:4.457 Actor:BP_control_C_0 Component:oooe BoneName:None (55 other events since notify)
+[2022.10.29-11.32.41:043][830]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] Hello
+[2022.10.29-11.32.41:043][830]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] Hello
+[2022.10.29-11.32.41:044][830]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] Hello
+[2022.10.29-11.32.41:434][852]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] Hello
+[2022.10.29-11.32.41:435][852]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] Hello
+[2022.10.29-11.32.41:975][883]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=298.92 Y=25.46 Z=0.00 Location: X=991.33 Y=1782.62 Z=24.47 Normal: X=-0.16 Y=-0.49 Z=-0.86 PenetrationDepth:4.457 Actor:BP_control_C_0 Component:oooe BoneName:None (56 other events since notify)
+[2022.10.29-11.32.42:076][888]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] Hello
+[2022.10.29-11.32.42:076][888]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] Hello
+[2022.10.29-11.32.42:077][888]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] Hello
+[2022.10.29-11.32.42:594][917]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] Hello
+[2022.10.29-11.32.42:987][940]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=298.92 Y=25.46 Z=0.00 Location: X=991.33 Y=1782.62 Z=24.47 Normal: X=-0.16 Y=-0.49 Z=-0.86 PenetrationDepth:4.457 Actor:BP_control_C_0 Component:oooe BoneName:None (56 other events since notify)
+[2022.10.29-11.32.43:102][946]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747] Hello
+[2022.10.29-11.32.43:350][961]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984 is stuck and failed to move! Velocity: X=34.92 Y=-3.06 Z=0.00 Location: X=1769.95 Y=1084.60 Z=26.26 Normal: X=-0.15 Y=-0.99 Z=-0.00 PenetrationDepth:0.006 Actor:Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.10.29-11.32.43:602][975]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1258218748] Hello
+[2022.10.29-11.32.43:603][975]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1254857745] Hello
+[2022.10.29-11.32.43:603][975]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1253525744] Hello
+[2022.10.29-11.32.44:528][ 29]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984 is stuck and failed to move! Velocity: X=34.75 Y=-3.04 Z=0.00 Location: X=1769.95 Y=1084.60 Z=26.26 Normal: X=0.88 Y=-0.48 Z=0.00 PenetrationDepth:0.167 Actor:Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.10.29-11.32.44:625][ 34]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1255943746] Hello
+[2022.10.29-11.32.45:128][ 64]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743] Hello
+[2022.10.29-11.32.45:459][ 84]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmizdeu_class1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747
+	Function /Game/Jam/Fourmiz2/Fourmizdeu.Fourmizdeu_C:ExecuteUbergraph_Fourmizdeu:0077
+[2022.10.29-11.32.45:460][ 84]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-11.32.47:746][223]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmizdeu_class1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmizdeu_class1_C_UAID_186024AD2D64864401_1255943746
+	Function /Game/Jam/Fourmiz2/Fourmizdeu.Fourmizdeu_C:ExecuteUbergraph_Fourmizdeu:0077
+[2022.10.29-11.32.47:746][223]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-11.32.52:238][511]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] Hello
+[2022.10.29-11.32.52:674][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-11.32.52:674][538]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-11.32.52:675][538]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.32.52:679][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.32.52:691][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-11.32.52:697][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.32.52:745][538]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-11.32.52:746][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.29-11.32.52:748][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.29-11.32.52:751][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-11.32.52:790][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.10.29-11.32.52:802][538]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.32.53:303][538]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.32.53:305][538]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.32.53:807][538]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.32.53:809][538]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.32.54:310][538]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.32.54:549][539]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.10.29-11.32.54:587][539]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.32.56:015][656]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-11.32.56:022][656]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-11.33.34:037][134]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.33.39:617][565]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.29-11.33.39:638][565]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.29-11.33.39:654][566]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.29-11.33.44:115][952]LogContentBrowser: Attempting asset rename: NewFolder -> Fourmizméchant
+[2022.10.29-11.33.44:116][952]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.29-11.33.59:214][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant_C' ref from Metadata '/Game/Jam/Fourmizméchant.PackageMetaData'
+[2022.10.29-11.33.59:214][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant.SKEL_Fourmizméchant_C:ReceiveBeginPlay' ref from Metadata '/Game/Jam/Fourmizméchant.PackageMetaData'
+[2022.10.29-11.33.59:214][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant.SKEL_Fourmizméchant_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Jam/Fourmizméchant.PackageMetaData'
+[2022.10.29-11.33.59:214][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant.SKEL_Fourmizméchant_C:ReceiveTick' ref from Metadata '/Game/Jam/Fourmizméchant.PackageMetaData'
+[2022.10.29-11.33.59:214][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant.SKEL_Fourmizméchant_C:unitmovecommand' ref from Metadata '/Game/Jam/Fourmizméchant.PackageMetaData'
+[2022.10.29-11.33.59:214][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant.SKEL_Fourmizméchant_C:UserConstructionScript' ref from Metadata '/Game/Jam/Fourmizméchant.PackageMetaData'
+[2022.10.29-11.33.59:214][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant.SKEL_Fourmizméchant_C' ref from Metadata '/Game/Jam/Fourmizméchant.PackageMetaData'
+[2022.10.29-11.33.59:214][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant_C:unitmovecommand' ref from Metadata '/Game/Jam/Fourmizméchant.PackageMetaData'
+[2022.10.29-11.33.59:214][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant_C:OnMoveFinished_DDFC0A034161721F2E405D9446ADA86E' ref from Metadata '/Game/Jam/Fourmizméchant.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child_C' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.SKEL_Fourmizméchant_Child_C:ReceiveBeginPlay' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.SKEL_Fourmizméchant_Child_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.SKEL_Fourmizméchant_Child_C:ReceiveTick' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.SKEL_Fourmizméchant_Child_C:UserConstructionScript' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:225][191]LogMetaData: Removing '/Game/Jam/Fourmizméchant/Fourmizméchant_Child.SKEL_Fourmizméchant_Child_C' ref from Metadata '/Game/Jam/Fourmizméchant_Child.PackageMetaData'
+[2022.10.29-11.33.59:292][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz2/Fourmizdeu" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu.uasset" SILENT=true
+[2022.10.29-11.33.59:319][191]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz2/Fourmizdeu
+[2022.10.29-11.33.59:320][191]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizdeu654A0C1948A5CF68D9B3BABB6EA0B15B.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu.uasset'
+[2022.10.29-11.33.59:323][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/fourmiz1/Fourmiz" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset" SILENT=true
+[2022.10.29-11.33.59:336][191]LogSavePackage: Moving output files for package: /Game/Jam/fourmiz1/Fourmiz
+[2022.10.29-11.33.59:337][191]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiz7D04E68244F912BD1599788D0F890388.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset'
+[2022.10.29-11.33.59:338][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz3/Fourmiztroi" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz3/Fourmiztroi.uasset" SILENT=true
+[2022.10.29-11.33.59:350][191]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz3/Fourmiztroi
+[2022.10.29-11.33.59:351][191]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/FourmiztroiC0674E0345F5CAA3597B9595B0B41667.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz3/Fourmiztroi.uasset'
+[2022.10.29-11.33.59:354][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/R1/XS41EEOWGE7T34O9KINQ1J
+[2022.10.29-11.33.59:354][191]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/XS41EEOWGE7T34O9KINQ1JE9637A9D427C3BBD0F6432A3358C7A3E.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/R1/XS41EEOWGE7T34O9KINQ1J.uasset'
+[2022.10.29-11.33.59:357][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/M8/YQZPP8DDA0S8EK3MGXU435
+[2022.10.29-11.33.59:358][191]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/YQZPP8DDA0S8EK3MGXU435B279A774437FED4AEEC2DD860721A1B7.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/M8/YQZPP8DDA0S8EK3MGXU435.uasset'
+[2022.10.29-11.33.59:361][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/AE/YX8L7LDSN9IFXTALPPRG5T
+[2022.10.29-11.33.59:362][191]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/YX8L7LDSN9IFXTALPPRG5T3202242A408B6F9B3F0AFB88F091A5C2.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/AE/YX8L7LDSN9IFXTALPPRG5T.uasset'
+[2022.10.29-11.33.59:365][191]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/H8/R8MG43QI5R5MAQNNM4TRLF
+[2022.10.29-11.33.59:365][191]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/R8MG43QI5R5MAQNNM4TRLFCC59989341380403EF7B5A8274690C4E.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/H8/R8MG43QI5R5MAQNNM4TRLF.uasset'
+[2022.10.29-11.33.59:367][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmizméchant/Fourmizméchant" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset" SILENT=true
+[2022.10.29-11.33.59:374][191]LogSavePackage: Moving output files for package: /Game/Jam/Fourmizméchant/Fourmizméchant
+[2022.10.29-11.33.59:374][191]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizméchant5DD08CB04299E0635F52E5B208152F37.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset'
+[2022.10.29-11.33.59:412][191]LogSavePackage: Moving output files for package: /Game/Jam/Fourmizméchant/Fourmizméchant_Child
+[2022.10.29-11.33.59:413][191]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizméchant_ChildC16AE1E4439C16FFBD0961AE5DE42B70.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant_Child.uasset'
+[2022.10.29-11.33.59:502][191]LogWorldPartition: Warning: Actor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.DecalActor_UAID_186024AD2D645C4401_1630923166 is unreachable without properly detaching object /Game/__ExternalActors__/TopDown/Maps/TopDownMap/F/4Q/10M0HGNG5LO1Y40B0A79J4.PackageMetaData in its package
+[2022.10.29-11.33.59:524][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.29-11.33.59:575][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.29-11.33.59:622][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.29-11.33.59:647][191]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.29-11.33.59:647][191]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant
+[2022.10.29-11.33.59:647][191]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz2/Fourmizdeu.Fourmizdeu
+[2022.10.29-11.33.59:647][191]LogContentValidation: Display: Validating Blueprint /Game/Jam/fourmiz1/Fourmiz.Fourmiz
+[2022.10.29-11.33.59:647][191]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child
+[2022.10.29-11.33.59:647][191]LogContentValidation: Display: Validating Fourmizméchant_Child_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmizméchant_Child_C_UAID_186024AD2D64814401_1856082675
+[2022.10.29-11.33.59:647][191]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz3/Fourmiztroi.Fourmiztroi
+[2022.10.29-11.33.59:647][191]LogContentValidation: Display: Validating Fourmizméchant_Child_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmizméchant_Child_C_UAID_186024AD2D64814401_1858641676
+[2022.10.29-11.33.59:647][191]LogContentValidation: Display: Validating Fourmizméchant_Child_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmizméchant_Child_C_UAID_186024AD2D64824401_2015849856
+[2022.10.29-11.33.59:647][191]LogContentValidation: Display: Validating Fourmizméchant_Child_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmizméchant_Child_C_UAID_186024AD2D64814401_1783683673
+[2022.10.29-11.33.59:699][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.29-11.34.06:359][695]LogContentBrowser: Deferred new asset file creation: Fourmizméchant_Child1
+[2022.10.29-11.34.06:422][695]LogContentBrowser: Creating deferred item: Fourmizméchant_Child1
+[2022.10.29-11.34.06:440][696]LogContentBrowser: Renaming the item being created (Deferred Item: Fourmizméchant_Child1).
+[2022.10.29-11.34.19:489][811]LogContentBrowser: Attempting asset rename: Fourmizméchant_Child1 -> Fourmizméchant_class1
+[2022.10.29-11.34.19:492][811]LogContentBrowser: End creating deferred item Fourmizméchant_Child1
+[2022.10.29-11.34.22:399][ 51]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant
+[2022.10.29-11.34.22:399][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.34.41:735][465]LogSlate: Window 'Fourmizméchant' being destroyed
+[2022.10.29-11.34.41:747][465]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.34.42:249][465]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.34.42:249][465]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.34.42:751][465]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.34.42:752][465]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.34.43:253][465]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.34.43:254][465]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.34.43:254][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.34.44:542][553]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child
+[2022.10.29-11.34.44:542][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.34.45:031][554]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.34.46:594][659]LogSlate: Window 'Fourmizméchant_Child' being destroyed
+[2022.10.29-11.34.46:606][659]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.34.47:107][659]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.34.47:108][659]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.34.47:608][659]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.34.47:610][659]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.34.48:111][659]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.34.48:145][659]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.34.48:145][659]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.34.48:202][659]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant_Child.Fourmizméchant_Child
+[2022.10.29-11.34.48:203][659]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.34.56:111][201]LogSlate: Window 'Fourmizméchant_Child' being destroyed
+[2022.10.29-11.34.57:389][349]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.34.57:891][349]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.34.57:893][349]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.34.58:394][349]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.34.58:397][349]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.34.58:898][349]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.34.58:899][349]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.34.58:899][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.34.59:985][465]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.35.00:485][465]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.35.00:487][465]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.35.00:988][465]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.35.00:990][465]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.35.01:491][465]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.35.01:492][465]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-11.35.01:492][465]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.35.01:492][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.35.04:141][766]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.35.04:642][766]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.35.04:644][766]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.35.05:145][766]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.35.05:147][766]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.35.05:649][766]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.35.05:650][766]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-11.35.05:650][766]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.35.05:650][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.35.08:832][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant
+[2022.10.29-11.35.08:832][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.35.15:869][609]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/fourmiz1/Fourmiz.Fourmiz
+[2022.10.29-11.35.15:870][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.35.45:549][217]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2022.10.29-11.35.50:006][483]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2022.10.29-11.36.33:486][448]BlueprintLog: New page: Compile Fourmizméchant
+[2022.10.29-11.36.33:500][448]LogBlueprint: Error: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmizméchant\Fourmizméchant.uasset: [Compiler] Graph named 'follow ennely' already exists in 'Fourmizméchant'. Another one cannot be generated from  follow ennely
+[2022.10.29-11.36.33:709][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.29-11.36.35:007][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmizméchant/Fourmizméchant" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset" SILENT=true
+[2022.10.29-11.36.35:020][577]LogSavePackage: Moving output files for package: /Game/Jam/Fourmizméchant/Fourmizméchant
+[2022.10.29-11.36.35:020][577]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/FourmizméchantF4EB59504DF086C57B2E67827AFD7245.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset'
+[2022.10.29-11.36.35:035][577]AssetCheck: New page: Asset Save: Fourmizméchant
+[2022.10.29-11.36.35:035][577]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant
+[2022.10.29-11.36.48:902][186]LogEditorTransaction: Undo Delete current selection
+[2022.10.29-11.36.49:497][194]LogEditorTransaction: Undo Break Pin Links
+[2022.10.29-11.38.04:252][890]BlueprintLog: New page: Compile Fourmizméchant
+[2022.10.29-11.38.04:476][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.29-11.38.04:990][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmizméchant/Fourmizméchant" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset" SILENT=true
+[2022.10.29-11.38.05:002][925]LogSavePackage: Moving output files for package: /Game/Jam/Fourmizméchant/Fourmizméchant
+[2022.10.29-11.38.05:002][925]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizméchant5FA99D04466CAF386CB935B78E3B76D0.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset'
+[2022.10.29-11.38.05:015][925]AssetCheck: New page: Asset Save: Fourmizméchant
+[2022.10.29-11.38.05:015][925]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant
+[2022.10.29-11.38.20:227][686]BlueprintLog: New page: Compile Fourmizméchant
+[2022.10.29-11.38.20:417][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.29-11.38.20:940][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmizméchant/Fourmizméchant" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset" SILENT=true
+[2022.10.29-11.38.20:952][724]LogSavePackage: Moving output files for package: /Game/Jam/Fourmizméchant/Fourmizméchant
+[2022.10.29-11.38.20:953][724]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizméchant18D3CE624D11718252674996067C93AB.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset'
+[2022.10.29-11.38.20:965][724]AssetCheck: New page: Asset Save: Fourmizméchant
+[2022.10.29-11.38.20:965][724]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant
+[2022.10.29-11.38.43:129][371]LogBlueprint: Warning: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmizméchant\Fourmizméchant.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On See Pawn (PawnSensing)  and was replaced as a Custom Event!
+[2022.10.29-11.40.54:902][619]BlueprintLog: New page: Compile Fourmizméchant
+[2022.10.29-11.40.55:099][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.10.29-11.40.55:691][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmizméchant/Fourmizméchant" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset" SILENT=true
+[2022.10.29-11.40.55:705][664]LogSavePackage: Moving output files for package: /Game/Jam/Fourmizméchant/Fourmizméchant
+[2022.10.29-11.40.55:705][664]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizméchant73670F5D4E27DA112D79D78E43395F5C.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset'
+[2022.10.29-11.40.55:718][664]AssetCheck: New page: Asset Save: Fourmizméchant
+[2022.10.29-11.40.55:718][664]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant
+[2022.10.29-11.41.17:611][265]LogEditorTransaction: Undo Break Pin Links
+[2022.10.29-11.41.40:126][861]LogEditorTransaction: Undo Create Pin Link
+[2022.10.29-11.43.01:385][219]BlueprintLog: New page: Compile Fourmizméchant
+[2022.10.29-11.43.01:582][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.29-11.43.02:575][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmizméchant/Fourmizméchant" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset" SILENT=true
+[2022.10.29-11.43.02:589][311]LogSavePackage: Moving output files for package: /Game/Jam/Fourmizméchant/Fourmizméchant
+[2022.10.29-11.43.02:589][311]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/FourmizméchantC1863607462042CD5C04E18C680ED930.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset'
+[2022.10.29-11.43.02:603][311]AssetCheck: New page: Asset Save: Fourmizméchant
+[2022.10.29-11.43.02:603][311]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant
+[2022.10.29-11.43.05:983][699]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.43.41:902][432]BlueprintLog: New page: Compile Fourmizméchant
+[2022.10.29-11.43.42:089][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.10.29-11.43.42:657][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmizméchant/Fourmizméchant" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset" SILENT=true
+[2022.10.29-11.43.42:671][474]LogSavePackage: Moving output files for package: /Game/Jam/Fourmizméchant/Fourmizméchant
+[2022.10.29-11.43.42:672][474]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizméchant16598F234FFA307EACDF31AA249AB4DC.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant/Fourmizméchant.uasset'
+[2022.10.29-11.43.42:687][474]AssetCheck: New page: Asset Save: Fourmizméchant
+[2022.10.29-11.43.42:687][474]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmizméchant/Fourmizméchant.Fourmizméchant
+[2022.10.29-11.43.43:103][520]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-11.43.54:846][477]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.29-11.43.54:852][477]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-11.43.55:353][477]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-11.43.55:355][477]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-11.43.55:856][477]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-11.43.55:858][477]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-11.43.56:360][477]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-11.43.56:375][477]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-11.43.56:375][477]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-11.43.56:375][477]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-11.43.56:375][477]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-11.43.56:375][477]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.29-11.43.56:375][477]LogWorldPartition: Display: GetPartitionedActors took 187 us
+[2022.10.29-11.43.56:376][477]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.10.29-11.43.56:377][477]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.29-11.43.56:387][477]LogPlayLevel: [PlayLevel] Compiling Fourmizdeu before play...
+[2022.10.29-11.43.56:387][477]LogPlayLevel: [PlayLevel]   Compiling Fourmizdeu_class1 as a dependent...
+[2022.10.29-11.43.56:387][477]LogPlayLevel: [PlayLevel]   Compiling Fourmizdeu_Class2 as a dependent...
+[2022.10.29-11.43.56:387][477]LogPlayLevel: [PlayLevel]   Compiling Fourmizdeu_Class3 as a dependent...
+[2022.10.29-11.43.56:555][477]LogPlayLevel: [PlayLevel] Compiling Fourmiz before play...
+[2022.10.29-11.43.56:555][477]LogPlayLevel: [PlayLevel]   Compiling Fourmiz_classe1 as a dependent...
+[2022.10.29-11.43.56:555][477]LogPlayLevel: [PlayLevel]   Compiling Fourmiz_classe2 as a dependent...
+[2022.10.29-11.43.56:555][477]LogPlayLevel: [PlayLevel]   Compiling Fourmiz_classe3 as a dependent...
+[2022.10.29-11.43.56:949][477]LogPlayLevel: [PlayLevel] Compiling Fourmiztroi before play...
+[2022.10.29-11.43.56:950][477]LogPlayLevel: [PlayLevel]   Compiling Fourmiztroi_class1 as a dependent...
+[2022.10.29-11.43.56:950][477]LogPlayLevel: [PlayLevel]   Compiling Fourmiztroi_class2 as a dependent...
+[2022.10.29-11.43.56:950][477]LogPlayLevel: [PlayLevel]   Compiling Fourmiztroi_class3 as a dependent...
+[2022.10.29-11.43.57:161][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.10.29-11.43.57:165][477]LogPlayLevel: PlayLevel: Blueprint regeneration took 788 ms (12 blueprints)
+[2022.10.29-11.43.57:165][477]PIE: New page: PIE session: TopDownMap (29 oct. 2022 à 15:43:57)
+[2022.10.29-11.43.57:165][477]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-11.43.57:185][477]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-11.43.57:185][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019704s)
+[2022.10.29-11.43.57:185][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.019761s)
+[2022.10.29-11.43.57:185][477]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-11.43.57:185][477]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.29-11.43.57:186][477]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-11.43.57:186][477]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-11.43.57:191][477]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.10.29-11.43.57:191][477]LogPlayLevel: PIE: World Init took: (0.006106s)
+[2022.10.29-11.43.57:234][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.29-11.43.57:235][477]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.29-11.43.57:235][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-11.43.57:235][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-11.43.57:235][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-11.43.57:235][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-11.43.57:235][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-11.43.57:235][477]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-11.43.57:235][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-11.43.57:235][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-11.43.57:235][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-11.43.57:235][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-11.43.57:235][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-11.43.57:237][477]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-11.43.57:253][477]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO X)
+[2022.10.29-11.43.57:253][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-11.43.57:253][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-11.43.57:254][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-11.43.57:254][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.29-11.43.57:254][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.29-11.43.57:255][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.29-11.43.57:255][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.29-11.43.57:255][477]LogInit: FAudioDevice initialized.
+[2022.10.29-11.43.57:255][477]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2022.10.29-11.43.57:270][477]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.29-11.43.57:388][477]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.29-13.43.57
+[2022.10.29-11.43.57:439][477]LogWorld: Bringing up level for play took: 0.168384
+[2022.10.29-11.43.57:441][477]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2022.10.29-11.43.57:442][477]LogWorldPartition: New Streaming Source: BP_control_C_0 -> Position: X=740.000 Y=1380.000 Z=280.000
+[2022.10.29-11.43.57:442][477]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-11.43.57:444][477]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.29-11.43.57:444][477]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.29-11.43.57:444][477]PIE: Server logged in
+[2022.10.29-11.43.57:445][477]PIE: Play in editor total start time 1,078 seconds.
+[2022.10.29-11.43.57:488][478]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=232.69 Y=18.69 Z=0.00 Location: X=992.09 Y=1782.06 Z=24.49 Normal: X=-0.14 Y=-0.50 Z=-0.85 PenetrationDepth:4.306 Actor:BP_control_C_0 Component:oooe BoneName:None (1 other events since notify)
+[2022.10.29-11.43.57:591][479]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] Hello
+[2022.10.29-11.43.58:002][499]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] Hello
+[2022.10.29-11.43.58:003][499]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] Hello
+[2022.10.29-11.43.58:004][499]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] Hello
+[2022.10.29-11.43.58:004][499]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] Hello
+[2022.10.29-11.43.58:500][527]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=206.14 Y=61.92 Z=0.00 Location: X=992.09 Y=1782.06 Z=24.49 Normal: X=-0.14 Y=-0.50 Z=-0.85 PenetrationDepth:4.306 Actor:BP_control_C_0 Component:oooe BoneName:None (48 other events since notify)
+[2022.10.29-11.43.58:511][527]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] Hello
+[2022.10.29-11.43.58:512][527]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] Hello
+[2022.10.29-11.43.58:512][527]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] Hello
+[2022.10.29-11.43.58:605][532]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] Hello
+[2022.10.29-11.43.59:013][554]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] Hello
+[2022.10.29-11.43.59:015][554]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] Hello
+[2022.10.29-11.43.59:105][559]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] Hello
+[2022.10.29-11.43.59:515][582]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=120.26 Y=81.91 Z=0.00 Location: X=992.09 Y=1782.06 Z=24.49 Normal: X=-0.14 Y=-0.50 Z=-0.85 PenetrationDepth:4.306 Actor:BP_control_C_0 Component:oooe BoneName:None (54 other events since notify)
+[2022.10.29-11.43.59:526][582]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] Hello
+[2022.10.29-11.43.59:527][582]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] Hello
+[2022.10.29-11.43.59:527][582]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] Hello
+[2022.10.29-11.43.59:527][582]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] Hello
+[2022.10.29-11.44.00:038][610]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] Hello
+[2022.10.29-11.44.00:039][610]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] Hello
+[2022.10.29-11.44.00:040][610]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] Hello
+[2022.10.29-11.44.00:519][637]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=213.67 Y=-25.92 Z=0.00 Location: X=992.09 Y=1782.06 Z=24.49 Normal: X=-0.14 Y=-0.50 Z=-0.85 PenetrationDepth:4.306 Actor:BP_control_C_0 Component:oooe BoneName:None (54 other events since notify)
+[2022.10.29-11.44.00:548][638]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] Hello
+[2022.10.29-11.44.00:548][638]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] Hello
+[2022.10.29-11.44.00:549][638]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] Hello
+[2022.10.29-11.44.00:550][638]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] Hello
+[2022.10.29-11.44.00:637][643]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] Hello
+[2022.10.29-11.44.01:537][694]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063 is stuck and failed to move! Velocity: X=298.90 Y=25.63 Z=0.00 Location: X=992.09 Y=1782.06 Z=24.49 Normal: X=-0.14 Y=-0.50 Z=-0.85 PenetrationDepth:4.306 Actor:BP_control_C_0 Component:oooe BoneName:None (56 other events since notify)
+[2022.10.29-11.44.02:587][753]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1258218748] Hello
+[2022.10.29-11.44.03:088][782]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747] Hello
+[2022.10.29-11.44.03:590][812]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1253525744] Hello
+[2022.10.29-11.44.04:604][873]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743] Hello
+[2022.10.29-11.44.04:758][883]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036 is stuck and failed to move! Velocity: X=-13.70 Y=-29.10 Z=0.00 Location: X=1824.84 Y=1112.90 Z=26.45 Normal: X=-0.03 Y=-1.00 Z=0.01 PenetrationDepth:0.166 Actor:Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.10.29-11.44.04:943][894]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmizdeu_class1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747
+	Function /Game/Jam/Fourmiz2/Fourmizdeu.Fourmizdeu_C:ExecuteUbergraph_Fourmizdeu:0077
+[2022.10.29-11.44.04:943][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-11.44.05:743][943]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmizdeu_class1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmizdeu_class1_C_UAID_186024AD2D64864401_1253525744
+	Function /Game/Jam/Fourmiz2/Fourmizdeu.Fourmizdeu_C:ExecuteUbergraph_Fourmizdeu:0077
+[2022.10.29-11.44.05:743][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-11.44.10:681][266]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] Hello
+[2022.10.29-11.44.10:786][273]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] Hello
+[2022.10.29-11.44.10:933][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-11.44.10:933][280]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-11.44.10:934][280]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-11.44.10:937][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-11.44.10:954][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-11.44.10:954][280]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.29-11.44.11:581][280]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.627 s
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: 
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: Ensure condition failed: IsPackageExternal() [File:C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Engine\Classes\GameFramework\Actor.h] [Line: 2228]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: 
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: Stack: 
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ffc87cd5806 UnrealEditor-Engine.dll!UWorldPartitionRuntimeHash::ForceExternalActorLevelReference() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartitionRuntimeHash.cpp:49]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ffc87cf1ff4 UnrealEditor-Engine.dll!UWorldPartitionRuntimeHash::OnEndPlay() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartitionRuntimeHash.cpp:35]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ffc87cf1fb3 UnrealEditor-Engine.dll!UWorldPartition::OnEndPlay() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Engine\Private\WorldPartition\WorldPartition.cpp:349]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ffc87ccf13a UnrealEditor-Engine.dll!TBaseUObjectMethodDelegateInstance<0,UWorldPartition,void __cdecl(void),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:611]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ffc5a68ea1d UnrealEditor-UnrealEd.dll!TMulticastDelegate<void __cdecl(void),FDefaultDelegateUserPolicy>::Broadcast() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Core\Public\Delegates\DelegateSignatureImpl.inl:967]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ffc5b1b01cc UnrealEditor-UnrealEd.dll!UEditorEngine::EndPlayMap() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Editor\UnrealEd\Private\PlayLevel.cpp:335]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ffc5ab86760 UnrealEditor-UnrealEd.dll!UEditorEngine::Tick() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:2097]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ffc5b5064a6 UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Tick() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:474]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ff75e6682f6 UnrealEditor.exe!FEngineLoop::Tick() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5215]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ff75e680d9c UnrealEditor.exe!GuardedMain() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ff75e680e8a UnrealEditor.exe!GuardedMainWrapper() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ff75e683c4d UnrealEditor.exe!LaunchWindowsStartup() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ff75e695534 UnrealEditor.exe!WinMain() [C:\Epic Games\unreal_engine\5.0.1\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.10.29-11.44.11:581][280]LogOutputDevice: Error: [Callstack] 0x00007ff75e6986e6 UnrealEditor.exe!__scrt_common_main_seh() [D:\a\_work\1\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.10.29-11.44.11:582][280]LogOutputDevice: Error: [Callstack] 0x00007ffcb6927034 KERNEL32.DLL!UnknownFunction []
+[2022.10.29-11.44.11:582][280]LogOutputDevice: Error: [Callstack] 0x00007ffcb8022651 ntdll.dll!UnknownFunction []
+[2022.10.29-11.44.11:582][280]LogOutputDevice: Error: 
+[2022.10.29-11.44.11:594][280]LogStats:                SubmitErrorReport -  0.000 s
