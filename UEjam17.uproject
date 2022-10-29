@@ -1,6 +1,18 @@
 {
 	"FileVersion": 3,
+<<<<<<< Updated upstream
 	"EngineAssociation": "{AB2F5FD3-4409-FF6C-7292-DA87CCE35CF7}",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	"EngineAssociation": "{A9B63D11-4C83-563A-9B8C-86B96C9BACBD}",
+=======
+	"EngineAssociation": "{AB2F5FD3-4409-FF6C-7292-DA87CCE35CF7}",
+>>>>>>> pr/15
+=======
+	"EngineAssociation": "{A9B63D11-4C83-563A-9B8C-86B96C9BACBD}",
+>>>>>>> ad4621435ad6817b0fc4753ab076d4295e17c320
+>>>>>>> Stashed changes
 	"Category": "",
 	"Description": "",
 	"Plugins": [
