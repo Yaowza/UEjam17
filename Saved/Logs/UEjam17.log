@@ -690,3 +690,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.29-02.59.15:814][360]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.10.29-02.59.25:556][139]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/RTXinterface.RTXinterface
 [2022.10.29-02.59.25:556][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-03.00.57:518][458]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.369 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.29-03.26.26:534][284]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.10.29-03.26.26:539][284]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.10.29-03.26.26:548][285]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2022.10.29-03.26.27:512][330]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2022.10.29-03.26.27:515][330]LogContentBrowser: End creating deferred item NewMaterial
