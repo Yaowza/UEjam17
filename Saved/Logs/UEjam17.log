@@ -10100,3 +10100,625 @@ Fourmiz_classe1_C.ReceiveBeginPlay
 [2022.10.29-02.06.32:784][389]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Target336C42774ECE494E9FC691911D16F64D.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Target.uasset'
 [2022.10.29-02.06.32:802][389]AssetCheck: New page: Asset Save: Target
 [2022.10.29-02.06.32:802][389]LogContentValidation: Display: Validating Blueprint /Game/Jam/Target.Target
+[2022.10.29-02.07.06:866][ 98]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.07.07:367][ 98]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.07.07:370][ 98]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.07.07:871][ 98]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.07.07:874][ 98]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.07.08:375][ 98]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.07.08:511][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.10.29-02.07.08:518][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/BE/5QSEU7G0U4NMBSJV5B0MHO_Auto5
+[2022.10.29-02.07.08:519][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/5QSEU7G0U4NMBSJV5B0MHO_Auto5547A2B8F4B4BF6E7213944B567CDC33A.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/BE/5QSEU7G0U4NMBSJV5B0MHO_Auto5.uasset'
+[2022.10.29-02.07.08:521][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/NS/YT117NFXKU50PH90QQTOH3_Auto5
+[2022.10.29-02.07.08:522][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/YT117NFXKU50PH90QQTOH3_Auto522EDF905409C1F355FB421886F13B4D5.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/NS/YT117NFXKU50PH90QQTOH3_Auto5.uasset'
+[2022.10.29-02.07.08:525][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/36/227LO1V0NSY3D3QM538F70_Auto5
+[2022.10.29-02.07.08:525][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/227LO1V0NSY3D3QM538F70_Auto535E4E16F49D96AAD59C3DA8207DB46AA.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/36/227LO1V0NSY3D3QM538F70_Auto5.uasset'
+[2022.10.29-02.07.08:527][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/4M/DT1OB1PRMVITSAM28X8Q6F_Auto5
+[2022.10.29-02.07.08:528][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/DT1OB1PRMVITSAM28X8Q6F_Auto55B74B08446D995E5E6BA4798BE91853E.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/4M/DT1OB1PRMVITSAM28X8Q6F_Auto5.uasset'
+[2022.10.29-02.07.08:530][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/AH/8NID41JTH1FEG3JSVFQX2K_Auto5
+[2022.10.29-02.07.08:531][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/8NID41JTH1FEG3JSVFQX2K_Auto5AEC808FC436B33DA9EB4F981F5B15667.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/AH/8NID41JTH1FEG3JSVFQX2K_Auto5.uasset'
+[2022.10.29-02.07.08:534][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/VM/1NYQRDFRA9WNML7HDE8KE1_Auto5
+[2022.10.29-02.07.08:535][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/1NYQRDFRA9WNML7HDE8KE1_Auto52F611D294813E0CA701EF3AF3BD292B4.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/VM/1NYQRDFRA9WNML7HDE8KE1_Auto5.uasset'
+[2022.10.29-02.07.08:537][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/VI/7BE9VHTV2N00V113UMQKWP_Auto5
+[2022.10.29-02.07.08:538][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/7BE9VHTV2N00V113UMQKWP_Auto58852365E4FD56931D4FA75941D39AF5B.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/VI/7BE9VHTV2N00V113UMQKWP_Auto5.uasset'
+[2022.10.29-02.07.08:540][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/E7/55YSLXCE5VQBQI7498YNFJ_Auto5
+[2022.10.29-02.07.08:541][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/55YSLXCE5VQBQI7498YNFJ_Auto5225895054CE8DE8455D3BC953DE073E6.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/E7/55YSLXCE5VQBQI7498YNFJ_Auto5.uasset'
+[2022.10.29-02.07.08:544][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/H1/TV5ZQ5NW5QFX6HH70LMA87_Auto5
+[2022.10.29-02.07.08:544][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/TV5ZQ5NW5QFX6HH70LMA87_Auto584A362AD45BF8F49C2F3FBB27E887CF3.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/H1/TV5ZQ5NW5QFX6HH70LMA87_Auto5.uasset'
+[2022.10.29-02.07.08:547][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/EU/1Q3IF72DUZVYVKT5K8BYU2_Auto5
+[2022.10.29-02.07.08:548][ 98]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/1Q3IF72DUZVYVKT5K8BYU2_Auto51380AE7F409BB25F94E4EEBFDD45FA01.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/EU/1Q3IF72DUZVYVKT5K8BYU2_Auto5.uasset'
+[2022.10.29-02.07.08:549][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.157
+[2022.10.29-02.07.08:549][ 98]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.157
+[2022.10.29-02.07.40:245][495]BlueprintLog: New page: Compile BP_control
+[2022.10.29-02.07.40:393][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.10.29-02.07.40:828][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/BP_control" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/BP_control.uasset" SILENT=true
+[2022.10.29-02.07.40:843][522]LogSavePackage: Moving output files for package: /Game/Jam/BP_control
+[2022.10.29-02.07.40:843][522]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/BP_controlF65BBF2B4B732C595CC758960ED2EE45.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/BP_control.uasset'
+[2022.10.29-02.07.40:859][522]AssetCheck: New page: Asset Save: BP_control
+[2022.10.29-02.07.40:859][522]LogContentValidation: Display: Validating Blueprint /Game/Jam/BP_control.BP_control
+[2022.10.29-02.08.47:770][519]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.08.50:011][773]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.08.51:534][943]LogEditorTransaction: Undo Delete current selection
+[2022.10.29-02.08.51:649][943]LogMaterial: Display: Missing cached shadermap for Preview:Selected in PCD3D_SM5, Default, SM5 (DDC key hash: 5B26D1141FBB78D4F902748D171822F626DF3E18), compiling. 
+[2022.10.29-02.08.51:736][943]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.08.54:544][225]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.10.00:444][837]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.10.06:605][515]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.10.15:594][579]BlueprintLog: New page: Compile BP_control
+[2022.10.29-02.10.15:735][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.10.29-02.10.16:047][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/BP_control" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/BP_control.uasset" SILENT=true
+[2022.10.29-02.10.16:062][593]LogSavePackage: Moving output files for package: /Game/Jam/BP_control
+[2022.10.29-02.10.16:062][593]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/BP_control126D49DF474CFACB70E932A43104B291.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/BP_control.uasset'
+[2022.10.29-02.10.16:079][593]AssetCheck: New page: Asset Save: BP_control
+[2022.10.29-02.10.16:079][593]LogContentValidation: Display: Validating Blueprint /Game/Jam/BP_control.BP_control
+[2022.10.29-02.10.40:099][419]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.10.48:412][402]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.10.58:875][606]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.11.10:546][963]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: ================================================
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Total job queries 1124, among them cache hits 235 (20.91%)
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Tracking 838 distinct input hashes that result in 420 distinct outputs (50.12%)
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: RAM used: 0.99 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Shaders Compiled: 415
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Jobs assigned 838, completed 838 (100.00%)
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Average time worker was idle: 199.91 s
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Time job spent in pending queue: average 47.61 s, longest 144.76 s
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Job execution time: average 7.38 s, max 13.66 s
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Job life time (pending + execution): average 54.98 s, max 145.57
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 231.83 s
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Jobs were issued in 280 batches (only local compilation was used), average 2.99 jobs/batch
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Average processing rate: 3.61 jobs/sec
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Effective parallelization: 3.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    5 times, average 1.76 sec, max 2.28 sec, min 1.00 sec)
+[2022.10.29-02.11.22:449][348]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    5 times, average 1.67 sec, max 3.48 sec, min 0.95 sec)
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    5 times, average 1.53 sec, max 2.60 sec, min 0.80 sec)
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    9 times, average 1.50 sec, max 3.29 sec, min 0.82 sec)
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    5 times, average 1.48 sec, max 1.84 sec, min 0.87 sec)
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.24% of total time (compiled   59 times, average 1.42 sec, max 2.66 sec, min 0.74 sec)
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.12% of total time (compiled   59 times, average 1.13 sec, max 2.20 sec, min 0.61 sec)
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.98% of total time (compiled   53 times, average 1.23 sec, max 1.96 sec, min 0.58 sec)
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.83% of total time (compiled   56 times, average 1.14 sec, max 1.86 sec, min 0.74 sec)
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.42% of total time (compiled   53 times, average 1.14 sec, max 1.47 sec, min 0.74 sec)
+[2022.10.29-02.11.22:450][348]LogShaderCompilers: Display: ================================================
+[2022.10.29-02.11.43:448][766]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.11.54:845][ 99]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.12.07:672][550]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.12.11:161][933]BlueprintLog: New page: Compile Fourmiz_classe1
+[2022.10.29-02.12.11:165][933]LogBlueprint: Warning: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmiz_classe1.uasset: [Compiler] Could not find a variable named "pall" in 'Fourmiz_classe1_C'.
+Make sure 'Fourmiz_classe1_C' has been compiled for  Get pall
+[2022.10.29-02.12.11:166][933]LogBlueprint: Error: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmiz_classe1.uasset: [Compiler] The property associated with  Pall  could not be found in '/Game/Jam/Fourmiz_classe1.Fourmiz_classe1_C'
+[2022.10.29-02.12.11:379][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.10.29-02.12.11:536][933]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.13.53:407][849]BlueprintLog: New page: Compile Fourmiz_classe1
+[2022.10.29-02.13.53:410][849]LogBlueprint: Warning: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmiz_classe1.uasset: [Compiler] Could not find a variable named "pall" in 'Fourmiz_classe1_C'.
+Make sure 'Fourmiz_classe1_C' has been compiled for  Get pall
+[2022.10.29-02.13.53:411][849]LogBlueprint: Error: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmiz_classe1.uasset: [Compiler] The property associated with  Pall  could not be found in '/Game/Jam/Fourmiz_classe1.Fourmiz_classe1_C'
+[2022.10.29-02.13.53:605][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.10.29-02.13.53:738][849]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.14.54:231][722]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.10.29-02.14.57:285][ 14]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.10.29-02.14.57:290][ 14]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.10.29-02.15.30:597][674]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.10.29-02.15.32:915][929]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.10.29-02.15.32:920][929]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.10.29-02.16.55:211][566]BlueprintLog: New page: Compile BP_control
+[2022.10.29-02.16.55:346][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.10.29-02.16.59:334][  3]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.17.25:825][891]BlueprintLog: New page: Compile Fourmiz_classe1
+[2022.10.29-02.17.25:830][891]LogBlueprint: Error: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmiz_classe1.uasset: [Compiler] This blueprint (self) is not a BP_control_C, therefore ' Target ' must have a connection.
+[2022.10.29-02.17.25:831][891]LogBlueprint: Error: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmiz_classe1.uasset: [Compiler] Variable node  Get pall  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2022.10.29-02.17.26:026][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.10.29-02.17.26:178][891]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.18.09:618][910]BlueprintLog: New page: Compile Fourmiz_classe1
+[2022.10.29-02.18.09:821][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.10.29-02.18.09:970][910]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.18.11:457][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz_classe1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset" SILENT=true
+[2022.10.29-02.18.11:471][ 66]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz_classe1
+[2022.10.29-02.18.11:471][ 66]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiz_classe17B5AE6C944656C6F452ACEA23D284B20.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset'
+[2022.10.29-02.18.11:489][ 66]AssetCheck: New page: Asset Save: Fourmiz_classe1
+[2022.10.29-02.18.11:489][ 66]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz_classe1.Fourmiz_classe1
+[2022.10.29-02.18.18:465][868]BlueprintLog: New page: Compile Fourmiz_classe1
+[2022.10.29-02.18.18:661][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.10.29-02.18.18:803][868]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.18.19:225][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz_classe1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset" SILENT=true
+[2022.10.29-02.18.19:239][898]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz_classe1
+[2022.10.29-02.18.19:240][898]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiz_classe13185A4DE4BB1825F87E5F2A1C1B008CC.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset'
+[2022.10.29-02.18.19:258][898]AssetCheck: New page: Asset Save: Fourmiz_classe1
+[2022.10.29-02.18.19:258][898]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz_classe1.Fourmiz_classe1
+[2022.10.29-02.18.20:216][997]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-02.18.21:053][ 58]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.29-02.18.21:057][ 58]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.18.21:558][ 58]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.18.21:560][ 58]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.18.22:061][ 58]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.18.22:063][ 58]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.18.22:565][ 58]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.18.22:579][ 58]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-02.18.22:579][ 58]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-02.18.22:579][ 58]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-02.18.22:579][ 58]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-02.18.22:579][ 58]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.29-02.18.22:579][ 58]LogWorldPartition: Display: GetPartitionedActors took 180 us
+[2022.10.29-02.18.22:580][ 58]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.10.29-02.18.22:634][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-02.18.22:634][ 58]PIE: New page: PIE session: TopDownMap (29 oct. 2022 à 06:18:22)
+[2022.10.29-02.18.22:634][ 58]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-02.18.22:649][ 58]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-02.18.22:649][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014893s)
+[2022.10.29-02.18.22:649][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.014987s)
+[2022.10.29-02.18.22:649][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-02.18.22:650][ 58]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.29-02.18.22:650][ 58]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-02.18.22:650][ 58]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-02.18.22:652][ 58]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.29-02.18.22:652][ 58]LogPlayLevel: PIE: World Init took: (0.002846s)
+[2022.10.29-02.18.22:740][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.10.29-02.18.22:746][ 58]LogAudio: Display: Creating Audio Device:                 Id: 75, Scope: Unique, Realtime: True
+[2022.10.29-02.18.22:746][ 58]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-02.18.22:746][ 58]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-02.18.22:746][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-02.18.22:746][ 58]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-02.18.22:746][ 58]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-02.18.22:746][ 58]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-02.18.22:746][ 58]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-02.18.22:746][ 58]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-02.18.22:747][ 58]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-02.18.22:747][ 58]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-02.18.22:747][ 58]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-02.18.22:749][ 58]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-02.18.22:766][ 58]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO X)
+[2022.10.29-02.18.22:767][ 58]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-02.18.22:767][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-02.18.22:767][ 58]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-02.18.22:768][ 58]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=75
+[2022.10.29-02.18.22:768][ 58]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=75
+[2022.10.29-02.18.22:769][ 58]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=75
+[2022.10.29-02.18.22:769][ 58]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=75
+[2022.10.29-02.18.22:769][ 58]LogInit: FAudioDevice initialized.
+[2022.10.29-02.18.22:769][ 58]LogAudio: Display: Audio Device (ID: 75) registered with world 'TopDownMap'.
+[2022.10.29-02.18.22:782][ 58]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.29-02.18.22:805][ 58]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.29-04.18.22
+[2022.10.29-02.18.22:813][ 58]LogWorld: Bringing up level for play took: 0.031652
+[2022.10.29-02.18.22:816][ 58]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2022.10.29-02.18.22:817][ 58]LogWorldPartition: New Streaming Source: BP_control_C_0 -> Position: X=740.000 Y=1380.000 Z=280.000
+[2022.10.29-02.18.22:817][ 58]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-02.18.22:817][ 58]LogScript: Warning: Accessed None trying to read property chétjrpas
+	Fourmiz_classe1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983
+	Function /Game/Jam/Fourmiz_classe1.Fourmiz_classe1_C:ExecuteUbergraph_Fourmiz_classe1:022C
+[2022.10.29-02.18.22:817][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chétjrpas". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Fourmiz Classe 1 Blueprint:  Fourmiz_classe1
+[2022.10.29-02.18.22:818][ 58]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.29-02.18.22:818][ 58]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.29-02.18.22:818][ 58]PIE: Server logged in
+[2022.10.29-02.18.22:819][ 58]PIE: Play in editor total start time 0,246 seconds.
+[2022.10.29-02.18.26:900][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-02.18.26:900][427]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-02.18.26:901][427]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.18.26:901][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.18.26:962][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-02.18.26:969][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.18.27:057][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-02.18.27:057][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2022.10.29-02.18.27:059][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=75
+[2022.10.29-02.18.27:062][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-02.18.27:068][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.10.29-02.18.27:083][427]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.18.27:585][427]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.18.27:585][427]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.18.28:087][427]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.18.28:089][427]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.18.28:590][427]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.18.28:847][428]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2022.10.29-02.18.28:929][428]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-02.18.34:781][822]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-02.18.34:796][822]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-02.18.36:930][993]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.19.25:067][420]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.267 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.29-02.20.28:559][730]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.20.29:060][730]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.20.29:062][730]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.20.29:563][730]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.20.29:565][730]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.20.30:066][730]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.20.30:194][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.10.29-02.20.30:199][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/VI/7BE9VHTV2N00V113UMQKWP_Auto6
+[2022.10.29-02.20.30:199][730]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/7BE9VHTV2N00V113UMQKWP_Auto6524176DB4D21AB82365640AD2801A8E3.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/VI/7BE9VHTV2N00V113UMQKWP_Auto6.uasset'
+[2022.10.29-02.20.30:200][730]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.123
+[2022.10.29-02.20.30:200][730]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2022.10.29-02.20.30:200][730]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jam/Fourmiz_classe1] ([2] browsable assets)...
+[2022.10.29-02.20.30:235][730]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Jam/Fourmiz_classe1.Fourmiz_classe1]
+[2022.10.29-02.20.30:235][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jam/Fourmiz_classe1]
+[2022.10.29-02.20.30:248][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Jam/Fourmiz_classe1_Auto6
+[2022.10.29-02.20.30:248][730]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiz_classe1_Auto63E3600DA4E3A3928D3F96493F52C5426.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/Jam/Fourmiz_classe1_Auto6.uasset'
+[2022.10.29-02.20.30:250][730]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Jam/BP_control] ([2] browsable assets)...
+[2022.10.29-02.20.30:259][730]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Jam/BP_control.BP_control]
+[2022.10.29-02.20.30:259][730]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jam/BP_control]
+[2022.10.29-02.20.30:259][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/BP_control" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/Jam/BP_control_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.10.29-02.20.30:272][730]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Jam/BP_control_Auto6
+[2022.10.29-02.20.30:272][730]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/BP_control_Auto609C981CF4E00AB4ABBB4198C7C6D8F36.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/Jam/BP_control_Auto6.uasset'
+[2022.10.29-02.20.30:275][730]LogFileHelpers: Auto-saving content packages took 0.075
+[2022.10.29-02.20.42:573][123]BlueprintLog: New page: Compile Fourmiz_classe1
+[2022.10.29-02.20.42:778][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.10.29-02.20.42:902][123]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.20.43:342][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz_classe1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset" SILENT=true
+[2022.10.29-02.20.43:355][151]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz_classe1
+[2022.10.29-02.20.43:356][151]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiz_classe1C7400B6B4F62C4729D979285BEE0AD90.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset'
+[2022.10.29-02.20.43:375][151]AssetCheck: New page: Asset Save: Fourmiz_classe1
+[2022.10.29-02.20.43:375][151]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz_classe1.Fourmiz_classe1
+[2022.10.29-02.20.43:567][165]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-02.20.44:303][220]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.29-02.20.44:309][220]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.20.44:810][220]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.20.44:812][220]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.20.45:314][220]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.20.45:317][220]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.20.45:818][220]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.20.45:831][220]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-02.20.45:831][220]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-02.20.45:831][220]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-02.20.45:832][220]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-02.20.45:832][220]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.29-02.20.45:832][220]LogWorldPartition: Display: GetPartitionedActors took 225 us
+[2022.10.29-02.20.45:833][220]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.10.29-02.20.45:833][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-02.20.45:833][220]PIE: New page: PIE session: TopDownMap (29 oct. 2022 à 06:20:45)
+[2022.10.29-02.20.45:860][220]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-02.20.45:888][220]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-02.20.45:889][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028647s)
+[2022.10.29-02.20.45:889][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.028901s)
+[2022.10.29-02.20.45:889][220]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-02.20.45:890][220]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.29-02.20.45:891][220]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-02.20.45:891][220]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-02.20.45:897][220]LogWorldPartition: Display: WorldPartition initialize took 5 ms
+[2022.10.29-02.20.45:897][220]LogPlayLevel: PIE: World Init took: (0.008070s)
+[2022.10.29-02.20.45:996][220]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.10.29-02.20.46:002][220]LogAudio: Display: Creating Audio Device:                 Id: 76, Scope: Unique, Realtime: True
+[2022.10.29-02.20.46:002][220]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-02.20.46:002][220]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-02.20.46:002][220]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-02.20.46:002][220]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-02.20.46:002][220]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-02.20.46:002][220]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-02.20.46:002][220]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-02.20.46:002][220]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-02.20.46:002][220]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-02.20.46:002][220]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-02.20.46:002][220]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-02.20.46:004][220]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-02.20.46:021][220]LogAudioMixer: Display: Using Audio Hardware Device Speakers (PRO X)
+[2022.10.29-02.20.46:021][220]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-02.20.46:021][220]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-02.20.46:021][220]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-02.20.46:022][220]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=76
+[2022.10.29-02.20.46:022][220]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=76
+[2022.10.29-02.20.46:024][220]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=76
+[2022.10.29-02.20.46:024][220]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=76
+[2022.10.29-02.20.46:024][220]LogInit: FAudioDevice initialized.
+[2022.10.29-02.20.46:024][220]LogAudio: Display: Audio Device (ID: 76) registered with world 'TopDownMap'.
+[2022.10.29-02.20.46:034][220]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.29-02.20.46:056][220]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.29-04.20.46
+[2022.10.29-02.20.46:064][220]LogWorld: Bringing up level for play took: 0.030078
+[2022.10.29-02.20.46:066][220]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2022.10.29-02.20.46:069][220]LogWorldPartition: New Streaming Source: BP_control_C_0 -> Position: X=740.000 Y=1380.000 Z=280.000
+[2022.10.29-02.20.46:070][220]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-02.20.46:070][220]LogScript: Warning: Accessed None trying to read property chétjrpas
+	Fourmiz_classe1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983
+	Function /Game/Jam/Fourmiz_classe1.Fourmiz_classe1_C:ExecuteUbergraph_Fourmiz_classe1:022C
+[2022.10.29-02.20.46:070][220]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property chétjrpas". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Fourmiz Classe 1 Blueprint:  Fourmiz_classe1
+[2022.10.29-02.20.46:070][220]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.10.29-02.20.46:070][220]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.29-02.20.46:070][220]PIE: Server logged in
+[2022.10.29-02.20.46:071][220]PIE: Play in editor total start time 0,246 seconds.
+[2022.10.29-02.20.48:880][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-02.20.48:880][472]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-02.20.48:881][472]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.20.48:881][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.20.48:923][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-02.20.48:929][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.20.49:018][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-02.20.49:018][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2022.10.29-02.20.49:020][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=76
+[2022.10.29-02.20.49:029][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.10.29-02.20.49:044][472]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.20.49:545][472]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.20.49:546][472]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.20.50:047][472]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.20.50:049][472]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.20.50:551][472]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.20.50:779][473]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2022.10.29-02.20.50:847][473]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-02.21.03:812][596]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-02.21.03:830][596]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-02.21.06:829][888]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.24.43:434][429]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.24.45:727][683]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.24.52:778][487]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.10.29-02.24.57:053][912]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.29-02.24.57:058][912]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.29-02.30.34:747][333]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.30.35:248][333]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.30.35:250][333]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.30.35:751][333]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.30.35:753][333]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.30.36:254][333]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.30.36:390][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.10.29-02.30.36:395][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/VI/7BE9VHTV2N00V113UMQKWP_Auto7
+[2022.10.29-02.30.36:396][333]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/7BE9VHTV2N00V113UMQKWP_Auto7E61A738343806A3BD08559A4CCC1E0AD.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/VI/7BE9VHTV2N00V113UMQKWP_Auto7.uasset'
+[2022.10.29-02.30.36:397][333]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.132
+[2022.10.29-02.30.36:397][333]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.132
+[2022.10.29-02.30.36:397][333]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Jam/Fourmiz_classe1] ([2] browsable assets)...
+[2022.10.29-02.30.36:432][333]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Jam/Fourmiz_classe1.Fourmiz_classe1]
+[2022.10.29-02.30.36:432][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jam/Fourmiz_classe1]
+[2022.10.29-02.30.36:446][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Jam/Fourmiz_classe1_Auto7
+[2022.10.29-02.30.36:446][333]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiz_classe1_Auto7F4547A5E4392D828E1EC3ABCE91A146C.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/Jam/Fourmiz_classe1_Auto7.uasset'
+[2022.10.29-02.30.36:447][333]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Jam/BP_control] ([2] browsable assets)...
+[2022.10.29-02.30.36:455][333]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Jam/BP_control.BP_control]
+[2022.10.29-02.30.36:455][333]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jam/BP_control]
+[2022.10.29-02.30.36:455][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/BP_control" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/Jam/BP_control_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2022.10.29-02.30.36:470][333]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Jam/BP_control_Auto7
+[2022.10.29-02.30.36:470][333]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/BP_control_Auto726D29EDE472679A87EA4C994BFB8AB1E.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Autosaves/Game/Jam/BP_control_Auto7.uasset'
+[2022.10.29-02.30.36:471][333]LogFileHelpers: Auto-saving content packages took 0.075
+[2022.10.29-02.33.15:132][504]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.33.27:361][738]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.35.06:404][137]BlueprintLog: New page: Compile BP_control
+[2022.10.29-02.35.06:565][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.10.29-02.35.07:277][201]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.35.08:000][286]BlueprintLog: New page: Compile Fourmiz_classe1
+[2022.10.29-02.35.08:004][286]LogBlueprint: Error: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmiz_classe1.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Fourmiz_classe1  to imply a specific type.
+[2022.10.29-02.35.08:004][286]LogBlueprint: Error: [AssetLog] C:\Users\y_perrette\Documents\GitHub\UEjam17\Content\Jam\Fourmiz_classe1.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.10.29-02.35.08:221][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.10.29-02.35.08:326][286]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.35.15:167][ 72]BlueprintLog: New page: Compile Fourmiz_classe1
+[2022.10.29-02.35.15:365][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.10.29-02.35.15:516][ 72]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.35.15:760][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz_classe1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset" SILENT=true
+[2022.10.29-02.35.15:773][ 81]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz_classe1
+[2022.10.29-02.35.15:774][ 81]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiz_classe1AC49F07D4F1DE0388103A991F36EFABA.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset'
+[2022.10.29-02.35.15:793][ 81]AssetCheck: New page: Asset Save: Fourmiz_classe1
+[2022.10.29-02.35.15:793][ 81]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz_classe1.Fourmiz_classe1
+[2022.10.29-02.35.18:973][442]BlueprintLog: New page: Compile Fourmiz_classe1
+[2022.10.29-02.35.19:167][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.10.29-02.35.19:310][442]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2022.10.29-02.35.19:419][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz_classe1" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset" SILENT=true
+[2022.10.29-02.35.19:431][443]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz_classe1
+[2022.10.29-02.35.19:432][443]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiz_classe12E3E30F54A427677848FD794905A3971.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz_classe1.uasset'
+[2022.10.29-02.35.19:450][443]AssetCheck: New page: Asset Save: Fourmiz_classe1
+[2022.10.29-02.35.19:450][443]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz_classe1.Fourmiz_classe1
+[2022.10.29-02.35.20:040][501]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-02.35.21:312][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.10.29-02.35.21:409][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.10.29-02.35.21:498][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.29-02.35.21:505][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/BE/5QSEU7G0U4NMBSJV5B0MHO
+[2022.10.29-02.35.21:506][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/5QSEU7G0U4NMBSJV5B0MHO8C688D7641107B6C6A69F6930BDD97EB.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/BE/5QSEU7G0U4NMBSJV5B0MHO.uasset'
+[2022.10.29-02.35.21:516][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/8AKCSH4RXXQHHQMCR8GO6C
+[2022.10.29-02.35.21:517][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/8AKCSH4RXXQHHQMCR8GO6C3605F1B249F2979C64905485D195C3CA.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/8AKCSH4RXXQHHQMCR8GO6C.uasset'
+[2022.10.29-02.35.21:519][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/NS/YT117NFXKU50PH90QQTOH3
+[2022.10.29-02.35.21:520][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/YT117NFXKU50PH90QQTOH3DBC22E9F4A587A4B08ABB1B422168694.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/NS/YT117NFXKU50PH90QQTOH3.uasset'
+[2022.10.29-02.35.21:522][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN
+[2022.10.29-02.35.21:522][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/0FWE1XT4SIGHXZQ61E0BPND61527C7459A2611AA71E4BBBEB2A058.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/PP/0FWE1XT4SIGHXZQ61E0BPN.uasset'
+[2022.10.29-02.35.21:524][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK
+[2022.10.29-02.35.21:525][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/XOAZMB5QVL20UGXOCZ1LZK7B6EB14945936F86EB92C6A081453129.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset'
+[2022.10.29-02.35.21:528][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/36/227LO1V0NSY3D3QM538F70
+[2022.10.29-02.35.21:529][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/227LO1V0NSY3D3QM538F700570583145D7F75067F934AE5EA639D5.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/36/227LO1V0NSY3D3QM538F70.uasset'
+[2022.10.29-02.35.21:531][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW
+[2022.10.29-02.35.21:532][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/7JCMZ75LZ4IDNH7SV7SZBWE2B5E4BE4DF3C3A6BA276983D7D9BD57.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/EJ/7JCMZ75LZ4IDNH7SV7SZBW.uasset'
+[2022.10.29-02.35.21:534][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/4M/DT1OB1PRMVITSAM28X8Q6F
+[2022.10.29-02.35.21:535][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/DT1OB1PRMVITSAM28X8Q6F468B9FB044D33AFA486A8D86FA47EDCB.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/4M/DT1OB1PRMVITSAM28X8Q6F.uasset'
+[2022.10.29-02.35.21:537][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/AH/8NID41JTH1FEG3JSVFQX2K
+[2022.10.29-02.35.21:538][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/8NID41JTH1FEG3JSVFQX2KAD1C99BD4957F6331D1D649D5E36C7A0.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/AH/8NID41JTH1FEG3JSVFQX2K.uasset'
+[2022.10.29-02.35.21:540][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/VM/1NYQRDFRA9WNML7HDE8KE1
+[2022.10.29-02.35.21:541][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/1NYQRDFRA9WNML7HDE8KE135A56878450604291B524A9240607874.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/VM/1NYQRDFRA9WNML7HDE8KE1.uasset'
+[2022.10.29-02.35.21:544][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/VI/7BE9VHTV2N00V113UMQKWP
+[2022.10.29-02.35.21:544][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/7BE9VHTV2N00V113UMQKWPD7E65C1949323083CFF83881D3D4A37B.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/VI/7BE9VHTV2N00V113UMQKWP.uasset'
+[2022.10.29-02.35.21:547][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/E7/55YSLXCE5VQBQI7498YNFJ
+[2022.10.29-02.35.21:547][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/55YSLXCE5VQBQI7498YNFJ8D29C61D49CA2E87667A4F8FB320C786.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/E7/55YSLXCE5VQBQI7498YNFJ.uasset'
+[2022.10.29-02.35.21:551][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/8T/DB7M1RSWKNV4F77URLY31I
+[2022.10.29-02.35.21:551][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/DB7M1RSWKNV4F77URLY31I1D6BF4244390FA50F33A68A172C60022.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/8T/DB7M1RSWKNV4F77URLY31I.uasset'
+[2022.10.29-02.35.21:553][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/H1/TV5ZQ5NW5QFX6HH70LMA87
+[2022.10.29-02.35.21:554][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/TV5ZQ5NW5QFX6HH70LMA876CBB56404854BD9D8FC6A18A520415F4.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/H1/TV5ZQ5NW5QFX6HH70LMA87.uasset'
+[2022.10.29-02.35.21:556][582]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/EU/1Q3IF72DUZVYVKT5K8BYU2
+[2022.10.29-02.35.21:557][582]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/1Q3IF72DUZVYVKT5K8BYU2529633F04D0CB1F790670BA54B45CB62.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/EU/1Q3IF72DUZVYVKT5K8BYU2.uasset'
+[2022.10.29-02.35.21:575][582]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating NavMeshBoundsVolume /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_1
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_37
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_17
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating StaticMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_38
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Fourmiz_classe1_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Target_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Target_C_UAID_186024AD2D64644401_1865517582
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating path_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.path_C_UAID_186024AD2D646C4401_1430255995
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984
+[2022.10.29-02.35.21:575][582]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163
+[2022.10.29-02.35.25:544][796]LogSlate: Window 'Message' being destroyed
+[2022.10.29-02.35.25:552][796]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Jam/Material/Selected.Selected
+(Selecting 'No' will cause all changes to be lost!)
+[2022.10.29-02.35.26:480][796]LogMaterial: Display: Missing cached shadermap for Preview:Selected in PCD3D_SM5, Default, SM5 (DDC key hash: 90BE5257BA88A69C4AFFEDB8542CA5446949A573), compiling. 
+[2022.10.29-02.35.26:534][796]LogMaterial: Display: Missing cached shadermap for Selected in PCD3D_SM5, Default, SM5 (DDC key hash: F9CD35F765BE5F674730CE43A24464A7FD90B956), compiling. 
+[2022.10.29-02.35.26:646][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.29-02.35.26:791][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.29-02.35.26:889][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.29-02.35.28:425][796]LogSlate: Window 'Save Content' being destroyed
+[2022.10.29-02.35.28:640][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.29-02.35.28:732][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.10.29-02.35.28:819][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.29-02.35.28:844][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/BP_control" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/BP_control.uasset" SILENT=true
+[2022.10.29-02.35.28:859][796]LogSavePackage: Moving output files for package: /Game/Jam/BP_control
+[2022.10.29-02.35.28:859][796]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/BP_control0922D5634DA84223DD071AB247189437.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/BP_control.uasset'
+[2022.10.29-02.35.28:863][796]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownGameMode
+[2022.10.29-02.35.28:863][796]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/BP_TopDownGameMode202C8B2A422A909CE135BF93787FFCD7.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset'
+[2022.10.29-02.35.28:864][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Pine" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/StarterContent/Materials/M_Wood_Pine.uasset" SILENT=true
+[2022.10.29-02.35.28:875][796]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Wood_Pine
+[2022.10.29-02.35.28:875][796]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/M_Wood_PineB7283A444BA6B3F14CD5F8B7EB3B17EF.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/StarterContent/Materials/M_Wood_Pine.uasset'
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: ================================================
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: Total job queries 1157, among them cache hits 268 (23.16%)
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: Tracking 838 distinct input hashes that result in 420 distinct outputs (50.12%)
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: RAM used: 0.99 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: Shaders Compiled: 415
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: Jobs assigned 838, completed 838 (100.00%)
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: Average time worker was idle: 199.91 s
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: Time job spent in pending queue: average 47.61 s, longest 144.76 s
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: Job execution time: average 7.38 s, max 13.66 s
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: Job life time (pending + execution): average 54.98 s, max 145.57
+[2022.10.29-02.35.29:026][796]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 231.83 s
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display: Jobs were issued in 280 batches (only local compilation was used), average 2.99 jobs/batch
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display: Average processing rate: 3.61 jobs/sec
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display: Effective parallelization: 3.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    5 times, average 1.76 sec, max 2.28 sec, min 1.00 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    5 times, average 1.67 sec, max 3.48 sec, min 0.95 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    5 times, average 1.53 sec, max 2.60 sec, min 0.80 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    9 times, average 1.50 sec, max 3.29 sec, min 0.82 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    5 times, average 1.48 sec, max 1.84 sec, min 0.87 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.24% of total time (compiled   59 times, average 1.42 sec, max 2.66 sec, min 0.74 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.12% of total time (compiled   59 times, average 1.13 sec, max 2.20 sec, min 0.61 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.98% of total time (compiled   53 times, average 1.23 sec, max 1.96 sec, min 0.58 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.83% of total time (compiled   56 times, average 1.14 sec, max 1.86 sec, min 0.74 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.42% of total time (compiled   53 times, average 1.14 sec, max 1.47 sec, min 0.74 sec)
+[2022.10.29-02.35.29:027][796]LogShaderCompilers: Display: ================================================
+[2022.10.29-02.35.29:040][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Material/Selected" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Material/Selected.uasset" SILENT=true
+[2022.10.29-02.35.29:042][796]LogSavePackage: Moving output files for package: /Game/Jam/Material/Selected
+[2022.10.29-02.35.29:043][796]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/SelectedE973AD4F4234B8436A66E4840CD1125B.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Material/Selected.uasset'
+[2022.10.29-02.35.29:055][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.29:555][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.29:558][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.30:059][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.30:062][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.30:563][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.30:563][796]LogStall: Shutdown...
+[2022.10.29-02.35.30:583][796]LogStall: Shutdown complete.
+[2022.10.29-02.35.30:664][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.31:166][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.31:169][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.31:670][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.31:671][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.32:172][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.32:218][796]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.32:218][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.32:489][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.32:990][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.32:991][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.33:492][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.33:494][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.33:995][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.33:996][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-02.35.33:996][796]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.33:996][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.34:768][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.35:269][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.35:272][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.35:772][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.35:774][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.36:276][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.36:341][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.36:841][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.36:843][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.37:345][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.37:348][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.37:849][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.38:038][796]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.38:039][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.38:204][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.38:705][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.38:708][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.39:209][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.39:212][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.39:713][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.39:713][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-02.35.39:713][796]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.39:713][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.40:129][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.40:629][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.40:631][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.41:133][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.41:136][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.41:637][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.41:638][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-02.35.41:638][796]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.41:638][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.42:093][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.42:593][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.42:595][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.43:097][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.43:099][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.43:600][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.43:601][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-02.35.43:601][796]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.43:601][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.43:998][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.44:499][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.44:501][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.45:002][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.45:005][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.45:506][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.45:508][796]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.45:508][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.45:831][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.46:333][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.46:334][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.46:836][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.46:839][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.47:340][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.47:341][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-02.35.47:341][796]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.47:341][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.47:768][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.48:268][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.48:269][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.48:769][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.48:770][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.49:272][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.49:273][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-02.35.49:273][796]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.49:273][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.49:477][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.49:979][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.49:980][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.50:480][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.50:483][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.50:984][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.50:985][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-02.35.50:985][796]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.50:985][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.51:168][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.51:669][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.51:671][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.52:173][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.52:176][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.52:676][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.52:677][796]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-02.35.52:677][796]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-02.35.52:677][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-02.35.52:807][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.53:308][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.53:308][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.53:809][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.53:812][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.54:313][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.54:330][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.54:831][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.54:834][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.55:335][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.55:338][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.55:838][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.55:849][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.56:351][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.56:353][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-02.35.56:854][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-02.35.56:855][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-02.35.57:356][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-02.35.57:364][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-02.35.57:865][796]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-02.35.57:866][796]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
