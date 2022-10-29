@@ -11144,3 +11144,1183 @@ Make sure 'cam_C' has been compiled for  Set Money
 [2022.10.29-19.54.10:770][696]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Jam/fourmiz1/Fourmiz_Auto6
 [2022.10.29-19.54.10:770][696]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/Fourmiz_Auto655087CAF43B2F1F94EB8028F8A3F6BC3.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/Autosaves/Game/Jam/fourmiz1/Fourmiz_Auto6.uasset'
 [2022.10.29-19.54.10:771][696]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.10.29-20.11.25:422][373]BlueprintLog: New page: Compile Fourmiz
+[2022.10.29-20.11.25:884][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.29-20.11.26:635][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/fourmiz1/Fourmiz" FILE="../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset" SILENT=true
+[2022.10.29-20.11.26:651][444]LogSavePackage: Moving output files for package: /Game/Jam/fourmiz1/Fourmiz
+[2022.10.29-20.11.26:652][444]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/FourmizE9ABA2BB496ADF5713F42D98585B941A.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset'
+[2022.10.29-20.11.26:667][444]AssetCheck: New page: Asset Save: Fourmiz
+[2022.10.29-20.11.26:667][444]LogContentValidation: Display: Validating Blueprint /Game/Jam/fourmiz1/Fourmiz.Fourmiz
+[2022.10.29-20.11.28:592][599]LogDebuggerCommands: Repeating last play command: Simulate
+[2022.10.29-20.11.28:598][599]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-20.11.29:099][599]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-20.11.29:100][599]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-20.11.29:601][599]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-20.11.29:604][599]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-20.11.30:106][599]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-20.11.30:124][599]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-20.11.30:124][599]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-20.11.30:124][599]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-20.11.30:124][599]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-20.11.30:125][599]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.29-20.11.30:125][599]LogWorldPartition: Display: GetPartitionedActors took 184 us
+[2022.10.29-20.11.30:126][599]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.10.29-20.11.30:126][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-20.11.30:126][599]PIE: New page: SIE session: TopDownMap (30 oct. 2022 à 00:11:30)
+[2022.10.29-20.11.30:127][599]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-20.11.30:162][599]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.11.30:162][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034988s)
+[2022.10.29-20.11.30:162][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.035135s)
+[2022.10.29-20.11.30:162][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.11.30:163][599]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.29-20.11.30:164][599]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.11.30:164][599]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.11.30:169][599]LogWorldPartition: Display: WorldPartition initialize took 5 ms
+[2022.10.29-20.11.30:169][599]LogPlayLevel: PIE: World Init took: (0.007068s)
+[2022.10.29-20.11.30:205][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.10.29-20.11.30:212][599]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2022.10.29-20.11.30:212][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.11.30:212][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.11.30:212][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.11.30:212][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.11.30:212][599]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.11.30:212][599]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.11.30:212][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.11.30:212][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.11.30:212][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.11.30:212][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.11.30:212][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.11.30:214][599]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.11.30:236][599]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.29-20.11.30:236][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.11.30:236][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.11.30:236][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.11.30:238][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2022.10.29-20.11.30:238][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2022.10.29-20.11.30:240][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2022.10.29-20.11.30:240][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2022.10.29-20.11.30:240][599]LogInit: FAudioDevice initialized.
+[2022.10.29-20.11.30:240][599]LogAudio: Display: Audio Device (ID: 52) registered with world 'TopDownMap'.
+[2022.10.29-20.11.30:250][599]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.29-20.11.30:380][599]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.29-22.11.30
+[2022.10.29-20.11.30:429][599]LogWorld: Bringing up level for play took: 0.178544
+[2022.10.29-20.11.30:431][599]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2022.10.29-20.11.30:432][599]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1000.000 Y=1810.000 Z=92.013
+[2022.10.29-20.11.30:432][599]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-20.11.30:434][599]PIE: Server logged in
+[2022.10.29-20.11.30:435][599]PIE: Play in editor total start time 0,322 seconds.
+[2022.10.29-20.11.30:467][599]LogWorldPartition: New Streaming Source: SIE -> Position: X=446.422 Y=2318.350 Z=1285.012
+[2022.10.29-20.11.31:134][628]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 5
+[2022.10.29-20.11.32:127][686]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 10
+[2022.10.29-20.11.33:124][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] PassageDuCode
+[2022.10.29-20.11.33:124][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] PassageDuCode
+[2022.10.29-20.11.33:124][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] PassageDuCode
+[2022.10.29-20.11.33:124][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] PassageDuCode
+[2022.10.29-20.11.33:124][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] PassageDuCode
+[2022.10.29-20.11.33:124][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] PassageDuCode
+[2022.10.29-20.11.33:125][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 15
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] PassageDuCode
+[2022.10.29-20.11.33:126][745]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] PassageDuCode
+[2022.10.29-20.11.34:106][786]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] Hello
+[2022.10.29-20.11.34:128][787]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 20
+[2022.10.29-20.11.34:225][792]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] Hello
+[2022.10.29-20.11.34:225][792]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1258218748] Hello
+[2022.10.29-20.11.34:225][792]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] Hello
+[2022.10.29-20.11.34:614][808]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] Hello
+[2022.10.29-20.11.34:615][808]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1255943746] Hello
+[2022.10.29-20.11.34:615][808]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] Hello
+[2022.10.29-20.11.34:617][808]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] Hello
+[2022.10.29-20.11.34:618][808]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] Hello
+[2022.10.29-20.11.34:760][814]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747] Hello
+[2022.10.29-20.11.34:761][814]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1254857745] Hello
+[2022.10.29-20.11.35:129][833]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1253525744] Hello
+[2022.10.29-20.11.35:129][833]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] Hello
+[2022.10.29-20.11.35:130][833]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] Hello
+[2022.10.29-20.11.35:130][833]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] Hello
+[2022.10.29-20.11.35:131][833]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] Hello
+[2022.10.29-20.11.35:131][833]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] Hello
+[2022.10.29-20.11.35:132][833]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 25
+[2022.10.29-20.11.35:136][833]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.11.35:629][853]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743] Hello
+[2022.10.29-20.11.35:631][853]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] Hello
+[2022.10.29-20.11.36:132][875]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 30
+[2022.10.29-20.11.36:326][881]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmiz_classe1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983
+	Function /Game/Jam/fourmiz1/Fourmiz.Fourmiz_C:ExecuteUbergraph_Fourmiz:0249
+[2022.10.29-20.11.36:326][881]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmiz Blueprint:  Fourmiz
+[2022.10.29-20.11.37:137][918]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 35
+[2022.10.29-20.11.37:301][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-20.11.37:978][963]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmizdeu_class1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmizdeu_class1_C_UAID_186024AD2D64864401_1254857745
+	Function /Game/Jam/Fourmiz2/Fourmizdeu.Fourmizdeu_C:ExecuteUbergraph_Fourmizdeu:0077
+[2022.10.29-20.11.37:979][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-20.11.38:128][971]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 40
+[2022.10.29-20.11.38:128][971]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] PassageDuCode
+[2022.10.29-20.11.39:134][ 26]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 45
+[2022.10.29-20.11.40:161][ 77]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.11.40:161][ 77]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 50
+[2022.10.29-20.11.41:134][120]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 55
+[2022.10.29-20.11.42:133][161]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 60
+[2022.10.29-20.11.43:129][218]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 65
+[2022.10.29-20.11.43:165][220]LogBlueprintUserMessages: [Fourmiz_classe2_C_1] PassageDuCode
+[2022.10.29-20.11.44:120][275]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 70
+[2022.10.29-20.11.45:133][327]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.11.45:133][327]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 75
+[2022.10.29-20.11.46:120][384]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 80
+[2022.10.29-20.11.46:833][426]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] Hello
+[2022.10.29-20.11.47:128][444]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 85
+[2022.10.29-20.11.47:303][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.11.47:303][453]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-20.11.47:305][453]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.11.47:308][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.11.47:317][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-20.11.47:323][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.11.47:364][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-20.11.47:365][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2022.10.29-20.11.47:366][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2022.10.29-20.11.47:370][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.11.47:389][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.29-20.11.47:404][453]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-20.11.47:906][453]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-20.11.47:909][453]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-20.11.48:409][453]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-20.11.48:412][453]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-20.11.48:913][453]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-20.11.49:139][454]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2022.10.29-20.11.50:894][581]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-20.11.50:912][581]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-20.13.11:809][821]BlueprintLog: New page: Compile Fourmiz
+[2022.10.29-20.13.12:247][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.29-20.13.12:769][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/fourmiz1/Fourmiz" FILE="../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset" SILENT=true
+[2022.10.29-20.13.12:785][864]LogSavePackage: Moving output files for package: /Game/Jam/fourmiz1/Fourmiz
+[2022.10.29-20.13.12:785][864]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/Fourmiz225A289F4AA6F164C430CAAF29538713.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset'
+[2022.10.29-20.13.12:800][864]AssetCheck: New page: Asset Save: Fourmiz
+[2022.10.29-20.13.12:800][864]LogContentValidation: Display: Validating Blueprint /Game/Jam/fourmiz1/Fourmiz.Fourmiz
+[2022.10.29-20.13.14:238][978]LogDebuggerCommands: Repeating last play command: Simulate
+[2022.10.29-20.13.14:244][978]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-20.13.14:745][978]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-20.13.14:746][978]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-20.13.15:247][978]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-20.13.15:249][978]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-20.13.15:749][978]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-20.13.15:778][978]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-20.13.15:778][978]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-20.13.15:779][978]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-20.13.15:779][978]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-20.13.15:779][978]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.29-20.13.15:779][978]LogWorldPartition: Display: GetPartitionedActors took 272 us
+[2022.10.29-20.13.15:781][978]LogWorldPartition: Display: GenerateStreaming took 2 ms
+[2022.10.29-20.13.15:781][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-20.13.15:781][978]PIE: New page: SIE session: TopDownMap (30 oct. 2022 à 00:13:15)
+[2022.10.29-20.13.15:782][978]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-20.13.15:826][978]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.13.15:826][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043313s)
+[2022.10.29-20.13.15:826][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.043490s)
+[2022.10.29-20.13.15:826][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.13.15:827][978]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.29-20.13.15:827][978]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.13.15:827][978]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.13.15:832][978]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.10.29-20.13.15:832][978]LogPlayLevel: PIE: World Init took: (0.005709s)
+[2022.10.29-20.13.15:868][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.29-20.13.15:875][978]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2022.10.29-20.13.15:875][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.13.15:875][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.13.15:875][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.13.15:875][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.13.15:875][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.13.15:875][978]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.13.15:875][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.13.15:875][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.13.15:875][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.13.15:875][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.13.15:875][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.13.15:877][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.13.15:897][978]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.29-20.13.15:897][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.13.15:897][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.13.15:897][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.13.15:898][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2022.10.29-20.13.15:898][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2022.10.29-20.13.15:899][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2022.10.29-20.13.15:899][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2022.10.29-20.13.15:899][978]LogInit: FAudioDevice initialized.
+[2022.10.29-20.13.15:899][978]LogAudio: Display: Audio Device (ID: 53) registered with world 'TopDownMap'.
+[2022.10.29-20.13.15:913][978]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.29-20.13.16:033][978]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.29-22.13.16
+[2022.10.29-20.13.16:084][978]LogWorld: Bringing up level for play took: 0.170968
+[2022.10.29-20.13.16:086][978]LogOnline: OSS: Created online subsystem instance for: :Context_122
+[2022.10.29-20.13.16:087][978]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1000.000 Y=1810.000 Z=92.013
+[2022.10.29-20.13.16:087][978]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-20.13.16:089][978]PIE: Server logged in
+[2022.10.29-20.13.16:089][978]PIE: Play in editor total start time 0,33 seconds.
+[2022.10.29-20.13.16:118][978]LogWorldPartition: New Streaming Source: SIE -> Position: X=578.186 Y=2246.392 Z=694.071
+[2022.10.29-20.13.16:773][  6]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 5
+[2022.10.29-20.13.17:775][ 71]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 10
+[2022.10.29-20.13.18:772][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] PassageDuCode
+[2022.10.29-20.13.18:772][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] I can move but...
+[2022.10.29-20.13.18:772][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] PassageDuCode
+[2022.10.29-20.13.18:772][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] I can move but...
+[2022.10.29-20.13.18:772][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] PassageDuCode
+[2022.10.29-20.13.18:772][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] I can move but...
+[2022.10.29-20.13.18:772][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] PassageDuCode
+[2022.10.29-20.13.18:772][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] I can move but...
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] PassageDuCode
+[2022.10.29-20.13.18:773][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 15
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] PassageDuCode
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] I can move but...
+[2022.10.29-20.13.18:774][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] PassageDuCode
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] I can move but...
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] PassageDuCode
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] I can move but...
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] PassageDuCode
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] I can move but...
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] PassageDuCode
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] I can move but...
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] PassageDuCode
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] I can move but...
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] PassageDuCode
+[2022.10.29-20.13.18:775][135]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] I can move but...
+[2022.10.29-20.13.19:740][186]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] Hello
+[2022.10.29-20.13.19:741][186]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] Hello
+[2022.10.29-20.13.19:783][188]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 20
+[2022.10.29-20.13.19:859][192]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1258218748] Hello
+[2022.10.29-20.13.20:243][212]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] Hello
+[2022.10.29-20.13.20:243][212]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] Hello
+[2022.10.29-20.13.20:245][212]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] Hello
+[2022.10.29-20.13.20:245][212]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1255943746] Hello
+[2022.10.29-20.13.20:246][212]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747] Hello
+[2022.10.29-20.13.20:246][212]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] Hello
+[2022.10.29-20.13.20:361][218]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] Hello
+[2022.10.29-20.13.20:362][218]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] Hello
+[2022.10.29-20.13.20:362][218]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] Hello
+[2022.10.29-20.13.20:749][238]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] Hello
+[2022.10.29-20.13.20:751][238]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] Hello
+[2022.10.29-20.13.20:751][238]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] Hello
+[2022.10.29-20.13.20:771][239]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 25
+[2022.10.29-20.13.20:775][239]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.13.21:260][264]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] Hello
+[2022.10.29-20.13.21:261][264]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1253525744] Hello
+[2022.10.29-20.13.21:550][279]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmiz_classe1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983
+	Function /Game/Jam/fourmiz1/Fourmiz.Fourmiz_C:ExecuteUbergraph_Fourmiz:01BC
+[2022.10.29-20.13.21:550][279]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmiz Blueprint:  Fourmiz
+[2022.10.29-20.13.21:769][290]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1254857745] Hello
+[2022.10.29-20.13.21:770][290]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743] Hello
+[2022.10.29-20.13.21:790][291]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 30
+[2022.10.29-20.13.22:596][333]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmiz_classe2_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060
+	Function /Game/Jam/fourmiz1/Fourmiz.Fourmiz_C:ExecuteUbergraph_Fourmiz:01BC
+[2022.10.29-20.13.22:596][333]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmiz Blueprint:  Fourmiz
+[2022.10.29-20.13.22:783][343]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 35
+[2022.10.29-20.13.23:520][381]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-20.13.23:613][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-20.13.23:782][395]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 40
+[2022.10.29-20.13.23:782][395]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] PassageDuCode
+[2022.10.29-20.13.23:782][395]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] I can move but...
+[2022.10.29-20.13.24:773][449]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 45
+[2022.10.29-20.13.25:781][505]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.13.25:781][505]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 50
+[2022.10.29-20.13.26:787][561]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 55
+[2022.10.29-20.13.27:779][616]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 60
+[2022.10.29-20.13.28:775][673]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 65
+[2022.10.29-20.13.28:793][674]LogBlueprintUserMessages: [Fourmiz_classe2_C_1] PassageDuCode
+[2022.10.29-20.13.28:793][674]LogBlueprintUserMessages: [Fourmiz_classe2_C_1] I can move but...
+[2022.10.29-20.13.29:779][731]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 70
+[2022.10.29-20.13.30:780][789]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 75
+[2022.10.29-20.13.30:785][789]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.13.31:785][848]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 80
+[2022.10.29-20.13.32:463][889]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] Hello
+[2022.10.29-20.13.32:463][889]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] Hello
+[2022.10.29-20.13.32:575][895]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] Hello
+[2022.10.29-20.13.32:773][907]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 85
+[2022.10.29-20.13.32:968][919]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] Hello
+[2022.10.29-20.13.33:510][942]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] Hello
+[2022.10.29-20.13.33:627][945]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] Hello
+[2022.10.29-20.13.33:628][945]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] Hello
+[2022.10.29-20.13.33:774][954]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 90
+[2022.10.29-20.13.33:790][955]LogBlueprintUserMessages: [Fourmiz_classe2_C_2] PassageDuCode
+[2022.10.29-20.13.33:790][955]LogBlueprintUserMessages: [Fourmiz_classe2_C_2] I can move but...
+[2022.10.29-20.13.34:019][969]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] Hello
+[2022.10.29-20.13.34:534][991]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] Hello
+[2022.10.29-20.13.34:534][991]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] Hello
+[2022.10.29-20.13.34:780][  6]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 95
+[2022.10.29-20.13.35:034][ 22]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] Hello
+[2022.10.29-20.13.35:034][ 22]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] Hello
+[2022.10.29-20.13.35:477][ 41]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055 is stuck and failed to move! Velocity: X=-3.96 Y=32.62 Z=0.00 Location: X=3855.57 Y=2148.89 Z=26.45 Normal: X=-0.55 Y=0.83 Z=0.00 PenetrationDepth:0.060 Actor:Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.10.29-20.13.35:541][ 43]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] Hello
+[2022.10.29-20.13.35:637][ 46]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] Hello
+[2022.10.29-20.13.35:637][ 46]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] Hello
+[2022.10.29-20.13.35:835][ 53]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.13.35:835][ 53]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 100
+[2022.10.29-20.13.36:065][ 61]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] Hello
+[2022.10.29-20.13.36:065][ 61]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] Hello
+[2022.10.29-20.13.36:066][ 61]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] Hello
+[2022.10.29-20.13.36:563][ 88]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] Hello
+[2022.10.29-20.13.36:785][ 96]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 105
+[2022.10.29-20.13.37:079][106]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] Hello
+[2022.10.29-20.13.37:079][106]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] Hello
+[2022.10.29-20.13.37:595][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] Hello
+[2022.10.29-20.13.37:596][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] Hello
+[2022.10.29-20.13.37:596][130]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] Hello
+[2022.10.29-20.13.37:687][136]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] Hello
+[2022.10.29-20.13.37:801][142]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 110
+[2022.10.29-20.13.38:143][153]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] Hello
+[2022.10.29-20.13.38:771][172]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 115
+[2022.10.29-20.13.38:838][174]LogBlueprintUserMessages: [Fourmiz_classe2_C_3] PassageDuCode
+[2022.10.29-20.13.38:838][174]LogBlueprintUserMessages: [Fourmiz_classe2_C_3] I can move but...
+[2022.10.29-20.13.39:788][206]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 120
+[2022.10.29-20.13.40:766][247]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 125
+[2022.10.29-20.13.40:770][247]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.13.41:777][293]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 130
+[2022.10.29-20.13.43:444][395]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 135
+[2022.10.29-20.13.44:436][441]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 140
+[2022.10.29-20.13.44:436][441]LogBlueprintUserMessages: [Fourmiz_classe2_C_4] PassageDuCode
+[2022.10.29-20.13.44:436][441]LogBlueprintUserMessages: [Fourmiz_classe2_C_4] I can move but...
+[2022.10.29-20.13.45:446][489]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 145
+[2022.10.29-20.13.46:441][537]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 150
+[2022.10.29-20.13.46:445][537]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.13.47:444][585]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 155
+[2022.10.29-20.13.48:434][632]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 160
+[2022.10.29-20.13.49:444][677]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 165
+[2022.10.29-20.13.49:444][677]LogBlueprintUserMessages: [Fourmiz_classe2_C_5] PassageDuCode
+[2022.10.29-20.13.49:444][677]LogBlueprintUserMessages: [Fourmiz_classe2_C_5] I can move but...
+[2022.10.29-20.13.50:441][725]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 170
+[2022.10.29-20.13.51:440][773]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.13.51:440][773]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 175
+[2022.10.29-20.13.52:443][821]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 180
+[2022.10.29-20.13.53:451][869]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 185
+[2022.10.29-20.13.54:433][916]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 190
+[2022.10.29-20.13.54:453][917]LogBlueprintUserMessages: [Fourmiz_classe2_C_6] PassageDuCode
+[2022.10.29-20.13.54:453][917]LogBlueprintUserMessages: [Fourmiz_classe2_C_6] I can move but...
+[2022.10.29-20.13.55:440][963]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 195
+[2022.10.29-20.13.56:444][ 11]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 200
+[2022.10.29-20.13.56:447][ 11]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.13.57:445][ 58]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 205
+[2022.10.29-20.13.58:438][105]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 210
+[2022.10.29-20.13.59:439][152]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 215
+[2022.10.29-20.13.59:462][153]LogBlueprintUserMessages: [Fourmiz_classe2_C_7] PassageDuCode
+[2022.10.29-20.13.59:462][153]LogBlueprintUserMessages: [Fourmiz_classe2_C_7] I can move but...
+[2022.10.29-20.14.00:448][200]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 220
+[2022.10.29-20.14.01:440][247]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 225
+[2022.10.29-20.14.01:444][247]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.02:434][294]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 230
+[2022.10.29-20.14.03:441][341]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 235
+[2022.10.29-20.14.04:442][388]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 240
+[2022.10.29-20.14.04:442][388]LogBlueprintUserMessages: [Fourmiz_classe2_C_8] PassageDuCode
+[2022.10.29-20.14.04:442][388]LogBlueprintUserMessages: [Fourmiz_classe2_C_8] I can move but...
+[2022.10.29-20.14.05:448][435]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 245
+[2022.10.29-20.14.06:443][481]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.06:443][481]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.06:443][481]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 250
+[2022.10.29-20.14.07:541][535]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 255
+[2022.10.29-20.14.08:555][581]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 260
+[2022.10.29-20.14.09:547][628]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 265
+[2022.10.29-20.14.10:579][664]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 270
+[2022.10.29-20.14.11:566][704]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.11:566][704]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 275
+[2022.10.29-20.14.12:552][744]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 280
+[2022.10.29-20.14.13:558][786]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 285
+[2022.10.29-20.14.14:556][829]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 290
+[2022.10.29-20.14.14:602][830]LogBlueprintUserMessages: [Fourmiz_classe2_C_10] PassageDuCode
+[2022.10.29-20.14.14:602][830]LogBlueprintUserMessages: [Fourmiz_classe2_C_10] I can move but...
+[2022.10.29-20.14.15:551][869]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 295
+[2022.10.29-20.14.16:557][938]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 300
+[2022.10.29-20.14.16:562][938]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.16:562][938]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.17:551][992]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 305
+[2022.10.29-20.14.18:547][ 23]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 310
+[2022.10.29-20.14.19:542][ 59]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 315
+[2022.10.29-20.14.20:564][100]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 320
+[2022.10.29-20.14.21:548][139]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 325
+[2022.10.29-20.14.21:552][139]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.21:552][139]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.22:563][175]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 330
+[2022.10.29-20.14.23:629][221]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 335
+[2022.10.29-20.14.24:630][263]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 340
+[2022.10.29-20.14.25:631][305]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 345
+[2022.10.29-20.14.26:634][348]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 350
+[2022.10.29-20.14.26:638][348]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.26:638][348]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.27:637][390]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 355
+[2022.10.29-20.14.28:630][426]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 360
+[2022.10.29-20.14.29:384][462]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-20.14.29:758][480]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 365
+[2022.10.29-20.14.30:748][527]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 370
+[2022.10.29-20.14.31:743][575]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 375
+[2022.10.29-20.14.31:747][575]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.31:747][575]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.32:751][622]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 380
+[2022.10.29-20.14.33:749][670]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 385
+[2022.10.29-20.14.34:754][719]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 390
+[2022.10.29-20.14.35:754][767]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 395
+[2022.10.29-20.14.36:756][815]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 400
+[2022.10.29-20.14.36:760][815]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.36:760][815]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.37:754][863]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 405
+[2022.10.29-20.14.38:746][909]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 410
+[2022.10.29-20.14.39:743][958]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 415
+[2022.10.29-20.14.40:755][  8]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 420
+[2022.10.29-20.14.41:744][ 55]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.41:745][ 55]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.41:745][ 55]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 425
+[2022.10.29-20.14.42:747][104]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 430
+[2022.10.29-20.14.43:747][153]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 435
+[2022.10.29-20.14.44:744][202]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 440
+[2022.10.29-20.14.45:748][251]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 445
+[2022.10.29-20.14.46:774][290]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.46:775][290]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.46:775][290]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 450
+[2022.10.29-20.14.47:756][329]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 455
+[2022.10.29-20.14.48:738][377]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 460
+[2022.10.29-20.14.49:745][425]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 465
+[2022.10.29-20.14.50:738][461]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 470
+[2022.10.29-20.14.51:798][510]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 475
+[2022.10.29-20.14.51:802][510]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.51:802][510]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.52:745][548]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 480
+[2022.10.29-20.14.53:745][584]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 485
+[2022.10.29-20.14.54:747][631]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 490
+[2022.10.29-20.14.55:748][678]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 495
+[2022.10.29-20.14.56:756][719]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 500
+[2022.10.29-20.14.56:760][719]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.14.56:760][719]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.14.57:749][767]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 505
+[2022.10.29-20.14.58:753][816]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 510
+[2022.10.29-20.14.59:747][856]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 515
+[2022.10.29-20.15.00:749][905]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 520
+[2022.10.29-20.15.01:738][954]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 525
+[2022.10.29-20.15.01:742][954]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.01:742][954]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.02:740][993]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 530
+[2022.10.29-20.15.03:781][ 31]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 535
+[2022.10.29-20.15.04:755][ 70]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 540
+[2022.10.29-20.15.05:759][115]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 545
+[2022.10.29-20.15.06:750][161]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.06:750][161]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.06:750][161]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 550
+[2022.10.29-20.15.07:757][201]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 555
+[2022.10.29-20.15.08:769][245]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 560
+[2022.10.29-20.15.09:757][290]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 565
+[2022.10.29-20.15.10:743][334]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 570
+[2022.10.29-20.15.11:746][381]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 575
+[2022.10.29-20.15.11:750][381]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.11:750][381]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.12:745][430]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 580
+[2022.10.29-20.15.13:764][470]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 585
+[2022.10.29-20.15.14:756][511]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 590
+[2022.10.29-20.15.15:746][548]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 595
+[2022.10.29-20.15.16:806][587]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.16:807][587]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.16:807][587]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 600
+[2022.10.29-20.15.17:745][621]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 605
+[2022.10.29-20.15.18:755][651]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 610
+[2022.10.29-20.15.19:748][688]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 615
+[2022.10.29-20.15.20:756][724]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 620
+[2022.10.29-20.15.21:769][751]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 625
+[2022.10.29-20.15.21:773][751]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.21:773][751]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.22:766][776]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 630
+[2022.10.29-20.15.23:786][803]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 635
+[2022.10.29-20.15.24:744][844]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 640
+[2022.10.29-20.15.25:756][890]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 645
+[2022.10.29-20.15.26:742][934]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 650
+[2022.10.29-20.15.26:747][934]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.26:747][934]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.27:750][974]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 655
+[2022.10.29-20.15.28:748][  9]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 660
+[2022.10.29-20.15.29:776][ 53]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 665
+[2022.10.29-20.15.30:756][ 92]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 670
+[2022.10.29-20.15.31:741][138]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 675
+[2022.10.29-20.15.31:744][138]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.31:745][138]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.32:748][181]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 680
+[2022.10.29-20.15.33:766][238]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 685
+[2022.10.29-20.15.34:774][272]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 690
+[2022.10.29-20.15.35:742][314]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 695
+[2022.10.29-20.15.36:741][351]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 700
+[2022.10.29-20.15.36:745][351]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.36:745][351]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.36:890][352]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-20.15.37:719][375]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-20.15.37:749][376]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 705
+[2022.10.29-20.15.38:775][401]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 710
+[2022.10.29-20.15.38:933][403]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-20.15.39:774][420]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 715
+[2022.10.29-20.15.40:076][426]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-20.15.40:756][448]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 720
+[2022.10.29-20.15.41:748][491]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 725
+[2022.10.29-20.15.41:752][491]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.41:753][491]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.42:751][529]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 730
+[2022.10.29-20.15.43:763][567]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 735
+[2022.10.29-20.15.44:749][624]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 740
+[2022.10.29-20.15.45:742][683]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 745
+[2022.10.29-20.15.46:755][742]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.46:755][742]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.46:755][742]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 750
+[2022.10.29-20.15.47:741][800]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 755
+[2022.10.29-20.15.48:744][859]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 760
+[2022.10.29-20.15.49:752][918]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 765
+[2022.10.29-20.15.50:741][976]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 770
+[2022.10.29-20.15.51:740][ 35]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 775
+[2022.10.29-20.15.51:744][ 35]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.51:744][ 35]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.52:743][ 92]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 780
+[2022.10.29-20.15.53:751][151]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 785
+[2022.10.29-20.15.54:754][210]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 790
+[2022.10.29-20.15.55:750][267]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 795
+[2022.10.29-20.15.56:751][323]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 800
+[2022.10.29-20.15.56:755][323]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.15.56:755][323]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.15.57:753][377]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 805
+[2022.10.29-20.15.58:754][436]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 810
+[2022.10.29-20.15.59:756][493]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 815
+[2022.10.29-20.16.00:743][550]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 820
+[2022.10.29-20.16.01:743][609]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 825
+[2022.10.29-20.16.01:747][609]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.16.01:747][609]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.16.02:744][668]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 830
+[2022.10.29-20.16.03:753][728]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 835
+[2022.10.29-20.16.04:743][786]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 840
+[2022.10.29-20.16.05:742][845]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 845
+[2022.10.29-20.16.06:751][904]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.16.06:751][904]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.16.06:751][904]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 850
+[2022.10.29-20.16.07:748][963]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 855
+[2022.10.29-20.16.08:742][ 22]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 860
+[2022.10.29-20.16.09:752][ 81]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 865
+[2022.10.29-20.16.10:745][140]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 870
+[2022.10.29-20.16.11:743][199]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.16.11:743][199]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.16.11:743][199]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 875
+[2022.10.29-20.16.12:752][259]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 880
+[2022.10.29-20.16.13:751][318]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 885
+[2022.10.29-20.16.14:765][357]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 890
+[2022.10.29-20.16.15:740][403]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 895
+[2022.10.29-20.16.16:203][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.16.16:203][431]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-20.16.16:204][431]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-20.16.16:207][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.16.16:222][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.29-20.16.16:231][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-20.16.16:272][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.29-20.16.16:273][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2022.10.29-20.16.16:274][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2022.10.29-20.16.16:278][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.29-20.16.16:299][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.29-20.16.16:318][431]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-20.16.16:819][431]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-20.16.16:819][431]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-20.16.17:321][431]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-20.16.17:324][431]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-20.16.17:825][431]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-20.16.18:034][432]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2022.10.29-20.16.19:740][559]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-20.16.19:745][559]LogSlate: Window 'Message Log' being destroyed
+[2022.10.29-20.16.42:636][666]BlueprintLog: New page: Compile Fourmiz
+[2022.10.29-20.16.43:078][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.29-20.16.43:254][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/fourmiz1/Fourmiz" FILE="../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset" SILENT=true
+[2022.10.29-20.16.43:269][668]LogSavePackage: Moving output files for package: /Game/Jam/fourmiz1/Fourmiz
+[2022.10.29-20.16.43:270][668]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/Fourmiz56235FC74FD301D447DEA781E84041BD.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset'
+[2022.10.29-20.16.43:286][668]AssetCheck: New page: Asset Save: Fourmiz
+[2022.10.29-20.16.43:286][668]LogContentValidation: Display: Validating Blueprint /Game/Jam/fourmiz1/Fourmiz.Fourmiz
+[2022.10.29-20.21.21:738][424]LogWindows: LaunchFileInExternalEditor C:/EpicGames/unreal_engine/5.0.1/Engine/Source/Runtime/Engine/Private/KismetSystemLibrary.cpp 
+[2022.10.29-20.21.21:779][424]LogWindows: Launch application code for C:/EpicGames/unreal_engine/5.0.1/Engine/Source/Runtime/Engine/Private/KismetSystemLibrary.cpp : 42
+[2022.10.29-20.21.21:779][424]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.10.29-20.21.21:785][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:785][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:785][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:786][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:787][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:788][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:789][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:790][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:791][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:792][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:793][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:794][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:794][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:794][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:794][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:794][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:794][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:794][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:804][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:808][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:813][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:816][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:816][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:819][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:820][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:849][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:863][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:864][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:864][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:864][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:864][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:864][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:877][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:877][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:888][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:888][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:889][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:889][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:912][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:912][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.21.21:921][424]LogVSAccessor: Warning: Couldn't access module table
+[2022.10.29-20.25.09:430][619]BlueprintLog: New page: Compile Fourmiz
+[2022.10.29-20.25.09:885][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.29-20.25.10:603][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/fourmiz1/Fourmiz" FILE="../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset" SILENT=true
+[2022.10.29-20.25.10:619][684]LogSavePackage: Moving output files for package: /Game/Jam/fourmiz1/Fourmiz
+[2022.10.29-20.25.10:620][684]LogSavePackage: Moving '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Saved/FourmizA37A1AD84340DFD87C37CEB87D8F5E3E.tmp' to '../../../../../../Users/r_grosman/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz.uasset'
+[2022.10.29-20.25.10:636][684]AssetCheck: New page: Asset Save: Fourmiz
+[2022.10.29-20.25.10:636][684]LogContentValidation: Display: Validating Blueprint /Game/Jam/fourmiz1/Fourmiz.Fourmiz
+[2022.10.29-20.25.12:112][810]LogDebuggerCommands: Repeating last play command: Simulate
+[2022.10.29-20.25.12:117][810]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-20.25.12:619][810]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-20.25.12:621][810]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-20.25.13:123][810]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-20.25.13:126][810]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-20.25.13:626][810]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-20.25.13:656][810]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.29-20.25.13:656][810]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.29-20.25.13:656][810]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-20.25.13:656][810]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.29-20.25.13:656][810]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.29-20.25.13:656][810]LogWorldPartition: Display: GetPartitionedActors took 274 us
+[2022.10.29-20.25.13:658][810]LogWorldPartition: Display: GenerateStreaming took 2 ms
+[2022.10.29-20.25.13:659][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.29-20.25.13:659][810]PIE: New page: SIE session: TopDownMap (30 oct. 2022 à 00:25:13)
+[2022.10.29-20.25.13:660][810]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.10.29-20.25.13:698][810]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.29-20.25.13:698][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037771s)
+[2022.10.29-20.25.13:698][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.037956s)
+[2022.10.29-20.25.13:698][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-20.25.13:699][810]LogAIModule: Creating AISystem for world TopDownMap
+[2022.10.29-20.25.13:699][810]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.29-20.25.13:699][810]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.29-20.25.13:704][810]LogWorldPartition: Display: WorldPartition initialize took 4 ms
+[2022.10.29-20.25.13:704][810]LogPlayLevel: PIE: World Init took: (0.005923s)
+[2022.10.29-20.25.13:739][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.29-20.25.13:744][810]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2022.10.29-20.25.13:744][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.29-20.25.13:744][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.29-20.25.13:744][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.29-20.25.13:744][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.29-20.25.13:744][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.29-20.25.13:744][810]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.29-20.25.13:744][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.29-20.25.13:744][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.29-20.25.13:744][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.29-20.25.13:744][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.29-20.25.13:744][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.29-20.25.13:747][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.29-20.25.13:767][810]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2022.10.29-20.25.13:767][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.29-20.25.13:767][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.29-20.25.13:767][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.29-20.25.13:768][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2022.10.29-20.25.13:768][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2022.10.29-20.25.13:770][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2022.10.29-20.25.13:770][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2022.10.29-20.25.13:770][810]LogInit: FAudioDevice initialized.
+[2022.10.29-20.25.13:770][810]LogAudio: Display: Audio Device (ID: 54) registered with world 'TopDownMap'.
+[2022.10.29-20.25.13:779][810]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.10.29-20.25.13:901][810]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.10.29-22.25.13
+[2022.10.29-20.25.13:952][810]LogWorld: Bringing up level for play took: 0.172724
+[2022.10.29-20.25.13:954][810]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2022.10.29-20.25.13:955][810]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1000.000 Y=1810.000 Z=92.013
+[2022.10.29-20.25.13:955][810]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.29-20.25.13:957][810]PIE: Server logged in
+[2022.10.29-20.25.13:957][810]PIE: Play in editor total start time 0,321 seconds.
+[2022.10.29-20.25.13:999][810]LogWorldPartition: New Streaming Source: SIE -> Position: X=3701.412 Y=1808.448 Z=210.617
+[2022.10.29-20.25.14:662][828]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 5
+[2022.10.29-20.25.15:661][866]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 10
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 15
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] PassageDuCode
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] I can move but...
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] PassageDuCode
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] I can move but...
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] PassageDuCode
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] I can move but...
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] PassageDuCode
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] I can move but...
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] PassageDuCode
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] I can move but...
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] PassageDuCode
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] I can move but...
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] PassageDuCode
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] I can move but...
+[2022.10.29-20.25.16:673][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] I can move but...
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] PassageDuCode
+[2022.10.29-20.25.16:674][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] I can move but...
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] PassageDuCode
+[2022.10.29-20.25.16:675][922]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] I can move but...
+[2022.10.29-20.25.16:676][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] PassageDuCode
+[2022.10.29-20.25.16:676][922]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] I can move but...
+[2022.10.29-20.25.17:637][947]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D645B4401_1741978983] Hello
+[2022.10.29-20.25.17:638][947]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1176696105] Hello
+[2022.10.29-20.25.17:686][948]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 20
+[2022.10.29-20.25.18:136][967]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1257016747] Hello
+[2022.10.29-20.25.18:137][967]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060] Hello
+[2022.10.29-20.25.18:137][967]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749] Hello
+[2022.10.29-20.25.18:138][967]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750] Hello
+[2022.10.29-20.25.18:138][967]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1180197107] Hello
+[2022.10.29-20.25.18:138][967]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1255943746] Hello
+[2022.10.29-20.25.18:139][967]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64874401_2063682928] Hello
+[2022.10.29-20.25.18:284][974]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064] Hello
+[2022.10.29-20.25.18:643][988]LogBlueprintUserMessages: [Fourmiz_classe1_C_UAID_186024AD2D64884401_1178544106] Hello
+[2022.10.29-20.25.18:643][988]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984] Hello
+[2022.10.29-20.25.18:644][988]LogBlueprintUserMessages: [Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320] Hello
+[2022.10.29-20.25.18:644][988]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052] Hello
+[2022.10.29-20.25.18:645][988]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1254857745] Hello
+[2022.10.29-20.25.18:646][988]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1258218748] Hello
+[2022.10.29-20.25.18:666][989]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 25
+[2022.10.29-20.25.18:670][989]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.25.19:161][  9]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036] Hello
+[2022.10.29-20.25.19:162][  9]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743] Hello
+[2022.10.29-20.25.19:163][  9]LogBlueprintUserMessages: [Fourmizdeu_class1_C_UAID_186024AD2D64864401_1253525744] Hello
+[2022.10.29-20.25.19:727][ 34]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 30
+[2022.10.29-20.25.20:486][ 61]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-20.25.20:704][ 67]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 35
+[2022.10.29-20.25.20:964][ 79]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-20.25.21:681][108]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 40
+[2022.10.29-20.25.21:681][108]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] PassageDuCode
+[2022.10.29-20.25.21:681][108]LogBlueprintUserMessages: [Fourmiz_classe2_C_0] I can move but...
+[2022.10.29-20.25.22:698][151]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 45
+[2022.10.29-20.25.22:837][156]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant
+	Fourmizdeu_class1_C /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.Fourmizdeu_class1_C_UAID_186024AD2D64864401_1251229743
+	Function /Game/Jam/Fourmiz2/Fourmizdeu.Fourmizdeu_C:ExecuteUbergraph_Fourmizdeu:0077
+[2022.10.29-20.25.22:837][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFourmizm_chant". Node:  Set Actor Rotation Graph:  EventGraph Function:  Execute Ubergraph Fourmizdeu Blueprint:  Fourmizdeu
+[2022.10.29-20.25.23:663][201]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 50
+[2022.10.29-20.25.23:667][201]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.25.24:681][239]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 55
+[2022.10.29-20.25.25:679][286]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 60
+[2022.10.29-20.25.26:677][334]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 65
+[2022.10.29-20.25.26:677][334]LogBlueprintUserMessages: [Fourmiz_classe2_C_1] PassageDuCode
+[2022.10.29-20.25.26:677][334]LogBlueprintUserMessages: [Fourmiz_classe2_C_1] I can move but...
+[2022.10.29-20.25.27:664][388]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 70
+[2022.10.29-20.25.28:679][444]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 75
+[2022.10.29-20.25.28:683][444]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.25.29:679][497]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 80
+[2022.10.29-20.25.30:031][516]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059] Hello
+[2022.10.29-20.25.30:545][544]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062] Hello
+[2022.10.29-20.25.30:546][544]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055] Hello
+[2022.10.29-20.25.30:675][551]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 85
+[2022.10.29-20.25.31:065][572]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063] Hello
+[2022.10.29-20.25.31:066][572]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403] Hello
+[2022.10.29-20.25.31:580][600]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054] Hello
+[2022.10.29-20.25.31:581][600]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051] Hello
+[2022.10.29-20.25.31:673][605]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 90
+[2022.10.29-20.25.31:692][606]LogBlueprintUserMessages: [Fourmiz_classe2_C_2] PassageDuCode
+[2022.10.29-20.25.31:692][606]LogBlueprintUserMessages: [Fourmiz_classe2_C_2] I can move but...
+[2022.10.29-20.25.32:098][628]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050] Hello
+[2022.10.29-20.25.32:098][628]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402] Hello
+[2022.10.29-20.25.32:099][628]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039] Hello
+[2022.10.29-20.25.32:679][659]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 95
+[2022.10.29-20.25.33:115][683]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035] Hello
+[2022.10.29-20.25.33:170][686]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061] Hello
+[2022.10.29-20.25.33:170][686]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038] Hello
+[2022.10.29-20.25.33:623][711]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400] Hello
+[2022.10.29-20.25.33:623][711]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037] Hello
+[2022.10.29-20.25.33:689][714]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 100
+[2022.10.29-20.25.33:693][714]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.25.34:135][738]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401] Hello
+[2022.10.29-20.25.34:135][738]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399] Hello
+[2022.10.29-20.25.34:647][766]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057] Hello
+[2022.10.29-20.25.34:647][766]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049] Hello
+[2022.10.29-20.25.34:648][766]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058] Hello
+[2022.10.29-20.25.34:667][767]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 105
+[2022.10.29-20.25.35:163][794]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163] Hello
+[2022.10.29-20.25.35:163][794]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162] Hello
+[2022.10.29-20.25.35:164][794]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053] Hello
+[2022.10.29-20.25.35:164][794]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033] Hello
+[2022.10.29-20.25.35:675][822]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040] Hello
+[2022.10.29-20.25.35:675][822]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 110
+[2022.10.29-20.25.36:183][848]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056] Hello
+[2022.10.29-20.25.36:183][848]LogBlueprintUserMessages: [Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034] Hello
+[2022.10.29-20.25.36:668][874]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 115
+[2022.10.29-20.25.36:686][875]LogBlueprintUserMessages: [Fourmiz_classe2_C_3] PassageDuCode
+[2022.10.29-20.25.36:686][875]LogBlueprintUserMessages: [Fourmiz_classe2_C_3] I can move but...
+[2022.10.29-20.25.37:668][929]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 120
+[2022.10.29-20.25.38:682][982]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.25.38:682][982]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 125
+[2022.10.29-20.25.39:467][ 22]LogCharacterMovement: Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035 is stuck and failed to move! Velocity: X=34.81 Y=11.14 Z=0.00 Location: X=3817.98 Y=2170.54 Z=26.44 Normal: X=0.99 Y=-0.14 Z=0.00 PenetrationDepth:0.042 Actor:Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.10.29-20.25.39:677][ 33]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 130
+[2022.10.29-20.25.40:698][ 36]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 135
+[2022.10.29-20.25.41:703][ 39]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 140
+[2022.10.29-20.25.41:703][ 39]LogBlueprintUserMessages: [Fourmiz_classe2_C_4] PassageDuCode
+[2022.10.29-20.25.41:703][ 39]LogBlueprintUserMessages: [Fourmiz_classe2_C_4] I can move but...
+[2022.10.29-20.25.42:705][ 42]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 145
+[2022.10.29-20.25.43:714][ 45]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 150
+[2022.10.29-20.25.43:730][ 45]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.25.44:718][ 48]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 155
+[2022.10.29-20.25.45:718][ 51]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 160
+[2022.10.29-20.25.46:709][ 54]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 165
+[2022.10.29-20.25.46:709][ 54]LogBlueprintUserMessages: [Fourmiz_classe2_C_5] PassageDuCode
+[2022.10.29-20.25.46:709][ 54]LogBlueprintUserMessages: [Fourmiz_classe2_C_5] I can move but...
+[2022.10.29-20.25.47:722][ 57]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 170
+[2022.10.29-20.25.48:732][ 60]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 175
+[2022.10.29-20.25.48:747][ 60]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.25.49:743][ 63]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 180
+[2022.10.29-20.25.50:746][ 66]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 185
+[2022.10.29-20.25.51:754][ 69]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 190
+[2022.10.29-20.25.51:754][ 69]LogBlueprintUserMessages: [Fourmiz_classe2_C_6] PassageDuCode
+[2022.10.29-20.25.51:754][ 69]LogBlueprintUserMessages: [Fourmiz_classe2_C_6] I can move but...
+[2022.10.29-20.25.52:756][ 72]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 195
+[2022.10.29-20.25.53:777][ 75]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.25.53:777][ 75]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 200
+[2022.10.29-20.25.54:772][ 78]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 205
+[2022.10.29-20.25.55:785][ 81]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 210
+[2022.10.29-20.25.56:795][ 84]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 215
+[2022.10.29-20.25.56:796][ 84]LogBlueprintUserMessages: [Fourmiz_classe2_C_7] PassageDuCode
+[2022.10.29-20.25.56:796][ 84]LogBlueprintUserMessages: [Fourmiz_classe2_C_7] I can move but...
+[2022.10.29-20.25.57:802][ 87]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 220
+[2022.10.29-20.25.58:823][ 90]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.25.58:824][ 90]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 225
+[2022.10.29-20.25.59:804][ 93]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 230
+[2022.10.29-20.26.00:807][ 96]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 235
+[2022.10.29-20.26.01:815][ 99]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 240
+[2022.10.29-20.26.01:815][ 99]LogBlueprintUserMessages: [Fourmiz_classe2_C_8] PassageDuCode
+[2022.10.29-20.26.01:815][ 99]LogBlueprintUserMessages: [Fourmiz_classe2_C_8] I can move but...
+[2022.10.29-20.26.02:824][102]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 245
+[2022.10.29-20.26.03:818][105]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 250
+[2022.10.29-20.26.03:826][105]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.03:826][105]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.04:831][108]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 255
+[2022.10.29-20.26.05:849][111]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 260
+[2022.10.29-20.26.06:849][114]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 265
+[2022.10.29-20.26.07:850][117]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 270
+[2022.10.29-20.26.08:856][120]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 275
+[2022.10.29-20.26.08:871][120]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.08:871][120]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.09:851][123]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 280
+[2022.10.29-20.26.10:856][126]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 285
+[2022.10.29-20.26.11:862][129]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 290
+[2022.10.29-20.26.12:865][132]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 295
+[2022.10.29-20.26.13:876][135]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 300
+[2022.10.29-20.26.13:890][135]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.13:891][135]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.14:880][138]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 305
+[2022.10.29-20.26.15:883][141]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 310
+[2022.10.29-20.26.16:883][144]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 315
+[2022.10.29-20.26.17:884][147]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 320
+[2022.10.29-20.26.18:889][150]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 325
+[2022.10.29-20.26.18:898][150]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.18:899][150]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.19:901][153]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 330
+[2022.10.29-20.26.20:905][156]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 335
+[2022.10.29-20.26.21:917][159]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 340
+[2022.10.29-20.26.22:913][162]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 345
+[2022.10.29-20.26.23:927][165]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 350
+[2022.10.29-20.26.23:935][165]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.23:935][165]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.24:930][168]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 355
+[2022.10.29-20.26.25:935][171]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 360
+[2022.10.29-20.26.26:935][174]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 365
+[2022.10.29-20.26.27:940][177]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 370
+[2022.10.29-20.26.28:943][180]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 375
+[2022.10.29-20.26.28:957][180]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.28:957][180]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.29:940][183]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 380
+[2022.10.29-20.26.30:948][186]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 385
+[2022.10.29-20.26.31:949][189]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 390
+[2022.10.29-20.26.32:953][192]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 395
+[2022.10.29-20.26.33:960][195]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 400
+[2022.10.29-20.26.33:974][195]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.33:975][195]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.34:964][198]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 405
+[2022.10.29-20.26.35:967][201]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 410
+[2022.10.29-20.26.36:965][204]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 415
+[2022.10.29-20.26.37:979][207]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 420
+[2022.10.29-20.26.38:981][210]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 425
+[2022.10.29-20.26.38:991][210]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.38:991][210]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.39:984][213]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 430
+[2022.10.29-20.26.40:988][216]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 435
+[2022.10.29-20.26.41:988][219]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 440
+[2022.10.29-20.26.42:984][222]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 445
+[2022.10.29-20.26.43:995][225]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 450
+[2022.10.29-20.26.44:011][225]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.44:012][225]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.44:997][228]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 455
+[2022.10.29-20.26.46:003][231]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 460
+[2022.10.29-20.26.47:007][234]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 465
+[2022.10.29-20.26.47:676][236]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 470
+[2022.10.29-20.26.48:680][239]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 475
+[2022.10.29-20.26.48:689][239]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.48:690][239]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.49:689][242]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 480
+[2022.10.29-20.26.50:695][245]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 485
+[2022.10.29-20.26.51:699][248]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 490
+[2022.10.29-20.26.52:687][251]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 495
+[2022.10.29-20.26.53:708][254]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 500
+[2022.10.29-20.26.53:723][254]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.53:724][254]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.54:709][257]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 505
+[2022.10.29-20.26.55:704][260]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 510
+[2022.10.29-20.26.56:712][263]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 515
+[2022.10.29-20.26.57:710][266]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 520
+[2022.10.29-20.26.58:716][269]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 525
+[2022.10.29-20.26.58:726][269]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.26.58:726][269]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.26.59:721][272]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 530
+[2022.10.29-20.27.00:732][275]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 535
+[2022.10.29-20.27.01:731][278]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 540
+[2022.10.29-20.27.02:728][281]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 545
+[2022.10.29-20.27.03:735][284]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 550
+[2022.10.29-20.27.03:750][284]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.27.03:750][284]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.27.04:738][287]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 555
+[2022.10.29-20.27.05:749][290]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 560
+[2022.10.29-20.27.06:752][293]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 565
+[2022.10.29-20.27.07:747][296]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 570
+[2022.10.29-20.27.08:754][299]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 575
+[2022.10.29-20.27.08:769][299]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.27.08:769][299]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.27.09:757][302]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 580
+[2022.10.29-20.27.10:756][305]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 585
+[2022.10.29-20.27.11:757][308]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 590
+[2022.10.29-20.27.12:765][311]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 595
+[2022.10.29-20.27.13:777][314]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 600
+[2022.10.29-20.27.13:789][314]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=562.830 Y=2338.587 Z=-8.911] for [Fourmiz_classe2_C]
+[2022.10.29-20.27.13:789][314]LogBlueprintUserMessages: [bp_SoldierHouse_C_UAID_186024ADA7119F4401_1807964951] Spawned
+[2022.10.29-20.27.14:778][317]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 605
+[2022.10.29-20.27.15:776][320]LogBlueprintUserMessages: [NewBlueprint1_C_UAID_186024AD2D64584401_1312858455] 610
