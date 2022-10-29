@@ -13564,3 +13564,265 @@ Make sure 'TopDownMap_C' has been compiled for  Get waypoint2
 [2022.10.29-09.47.29:923][573]LogContentValidation: Display: Validating World /Game/TopDown/Maps/TopDownMap.TopDownMap
 [2022.10.29-09.47.29:923][573]LogContentValidation: Display: Validating TargetPoint /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.TargetPoint_UAID_186024AD2D64844401_1793292378
 [2022.10.29-09.47.29:923][573]LogContentValidation: Display: Validating TargetPoint /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.TargetPoint_UAID_186024AD2D64844401_1789589377
+[2022.10.29-09.50.29:367][324]LogContentBrowser: Attempting asset rename: Fourmizdeu_Child1 -> Fourmizdeu_Class2
+[2022.10.29-09.50.29:386][324]LogMetaData: Removing '/Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Jam/Fourmiz2/Fourmizdeu_Child1.PackageMetaData'
+[2022.10.29-09.50.29:386][324]LogMetaData: Removing '/Game/Jam/Fourmiz2/Fourmizdeu_Class2.SKEL_Fourmizdeu_Class2_C:UserConstructionScript' ref from Metadata '/Game/Jam/Fourmiz2/Fourmizdeu_Child1.PackageMetaData'
+[2022.10.29-09.50.29:387][324]LogMetaData: Removing '/Game/Jam/Fourmiz2/Fourmizdeu_Class2.SKEL_Fourmizdeu_Class2_C' ref from Metadata '/Game/Jam/Fourmiz2/Fourmizdeu_Child1.PackageMetaData'
+[2022.10.29-09.50.29:387][324]LogMetaData: Removing '/Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2_C' ref from Metadata '/Game/Jam/Fourmiz2/Fourmizdeu_Child1.PackageMetaData'
+[2022.10.29-09.50.29:387][324]LogMetaData: Removing '/Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Jam/Fourmiz2/Fourmizdeu_Child1.PackageMetaData'
+[2022.10.29-09.50.29:387][324]LogMetaData: Removing '/Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Jam/Fourmiz2/Fourmizdeu_Child1.PackageMetaData'
+[2022.10.29-09.50.29:387][324]LogMetaData: Removing '/Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Jam/Fourmiz2/Fourmizdeu_Child1.PackageMetaData'
+[2022.10.29-09.50.29:387][324]LogMetaData: Removing '/Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Jam/Fourmiz2/Fourmizdeu_Child1.PackageMetaData'
+[2022.10.29-09.50.29:446][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz2/Fourmizdeu_Class2" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class2.uasset" SILENT=true
+[2022.10.29-09.50.29:450][324]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz2/Fourmizdeu_Class2
+[2022.10.29-09.50.29:450][324]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizdeu_Class236F8C44C43494A08C693619E3704DE9F.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class2.uasset'
+[2022.10.29-09.50.29:568][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.29-09.50.29:654][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.10.29-09.50.29:732][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.29-09.50.29:742][324]AssetCheck: New page: Asset Save: Fourmizdeu_Class2
+[2022.10.29-09.50.29:742][324]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2
+[2022.10.29-09.50.32:467][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.10.29-09.50.33:529][522]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.29-09.50.33:616][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.10.29-09.50.35:328][645]LogContentBrowser: Deferred new asset file creation: Fourmizdeu_Class3
+[2022.10.29-09.50.35:335][645]LogContentBrowser: Creating deferred item: Fourmizdeu_Class3
+[2022.10.29-09.50.35:352][646]LogContentBrowser: Renaming the item being created (Deferred Item: Fourmizdeu_Class3).
+[2022.10.29-09.50.36:578][741]LogContentBrowser: Attempting asset rename: Fourmizdeu_Class3 -> Fourmizdeu_Class3
+[2022.10.29-09.50.36:664][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.10.29-09.50.36:676][741]LogContentBrowser: End creating deferred item Fourmizdeu_Class3
+[2022.10.29-09.50.37:680][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2
+[2022.10.29-09.50.37:680][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-09.50.40:366][ 43]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.50.56:934][738]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.51.03:168][379]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.51.15:067][503]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.51.17:453][683]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.51.27:180][677]BlueprintLog: New page: Compile Fourmizdeu_Class2
+[2022.10.29-09.51.27:333][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.10.29-09.51.27:793][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz2/Fourmizdeu_Class2" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class2.uasset" SILENT=true
+[2022.10.29-09.51.27:797][715]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz2/Fourmizdeu_Class2
+[2022.10.29-09.51.27:798][715]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizdeu_Class249F9DC45407FF088D00ACA98C5F4176A.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class2.uasset'
+[2022.10.29-09.51.27:815][715]AssetCheck: New page: Asset Save: Fourmizdeu_Class2
+[2022.10.29-09.51.27:815][715]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2
+[2022.10.29-09.51.29:025][853]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.51.49:031][111]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.51.52:714][513]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.52.02:243][563]BlueprintLog: New page: Compile Fourmizdeu_Class2
+[2022.10.29-09.52.02:430][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.10.29-09.52.02:954][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz2/Fourmizdeu_Class2" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class2.uasset" SILENT=true
+[2022.10.29-09.52.02:959][611]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz2/Fourmizdeu_Class2
+[2022.10.29-09.52.02:959][611]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizdeu_Class20F4AFB854F9985427F53679ED32220E9.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class2.uasset'
+[2022.10.29-09.52.02:977][611]AssetCheck: New page: Asset Save: Fourmizdeu_Class2
+[2022.10.29-09.52.02:977][611]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class2.Fourmizdeu_Class2
+[2022.10.29-09.52.23:040][263]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.52.32:470][973]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class3.Fourmizdeu_Class3
+[2022.10.29-09.52.32:470][973]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-09.52.32:968][974]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.52.40:538][816]BlueprintLog: New page: Compile Fourmizdeu_Class3
+[2022.10.29-09.52.40:719][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.10.29-09.52.40:801][817]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.52.42:863][ 53]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-09.52.43:364][ 53]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-09.52.43:366][ 53]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-09.52.43:867][ 53]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-09.52.43:870][ 53]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-09.52.44:370][ 53]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-09.52.44:371][ 53]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-09.52.44:371][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-09.52.44:438][ 53]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class3.Fourmizdeu_Class3
+[2022.10.29-09.52.44:438][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.29-09.52.45:891][167]BlueprintLog: New page: Compile Fourmizdeu_Class3
+[2022.10.29-09.52.46:054][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.10.29-09.52.46:401][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmiz2/Fourmizdeu_Class3" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class3.uasset" SILENT=true
+[2022.10.29-09.52.46:405][177]LogSavePackage: Moving output files for package: /Game/Jam/Fourmiz2/Fourmizdeu_Class3
+[2022.10.29-09.52.46:405][177]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizdeu_Class353924C4C4116393B6A362BB02AE24CA4.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmiz2/Fourmizdeu_Class3.uasset'
+[2022.10.29-09.52.46:423][177]AssetCheck: New page: Asset Save: Fourmizdeu_Class3
+[2022.10.29-09.52.46:423][177]LogContentValidation: Display: Validating Blueprint /Game/Jam/Fourmiz2/Fourmizdeu_Class3.Fourmizdeu_Class3
+[2022.10.29-09.52.49:645][548]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.29-09.53.13:783][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/JR/C6V455XX0QO4AJZ4DBBH37
+[2022.10.29-09.53.13:783][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/C6V455XX0QO4AJZ4DBBH37E18A10F14E25802791EB709AA35A59E4.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/JR/C6V455XX0QO4AJZ4DBBH37.uasset'
+[2022.10.29-09.53.13:786][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/8K/8EOQ83TXMBUAK191MWRMQT
+[2022.10.29-09.53.13:787][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/8EOQ83TXMBUAK191MWRMQTFEAC8F5A434560C7AE0116837B9C29E1.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/8K/8EOQ83TXMBUAK191MWRMQT.uasset'
+[2022.10.29-09.53.13:790][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/WL/XIT72R3SST199ZGCARKMPN
+[2022.10.29-09.53.13:791][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/XIT72R3SST199ZGCARKMPNC793D1D147C17720502BEABCA9CF9FC1.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/WL/XIT72R3SST199ZGCARKMPN.uasset'
+[2022.10.29-09.53.13:794][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/EJ/QGLXNLYJGQ2KAKZM5GL6JP
+[2022.10.29-09.53.13:794][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/QGLXNLYJGQ2KAKZM5GL6JPEFC3BF6542F1D48CC028CD8351EB00BB.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/EJ/QGLXNLYJGQ2KAKZM5GL6JP.uasset'
+[2022.10.29-09.53.13:797][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/LL/RZWF9UGOT90F31AVLWR7NZ
+[2022.10.29-09.53.13:798][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/RZWF9UGOT90F31AVLWR7NZ4D9A25D146E518E6C387AC8A02EE0783.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/LL/RZWF9UGOT90F31AVLWR7NZ.uasset'
+[2022.10.29-09.53.13:800][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/36/227LO1V0NSY3D3QM538F70
+[2022.10.29-09.53.13:801][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/227LO1V0NSY3D3QM538F70912AFBA84E6C9A8DDFA08FAE76CD68D7.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/36/227LO1V0NSY3D3QM538F70.uasset'
+[2022.10.29-09.53.13:804][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/RP/3TQK6YGQYTXWHJ04STI475
+[2022.10.29-09.53.13:805][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/3TQK6YGQYTXWHJ04STI4753BE0B7AB41207E584A615D9B7F5D4907.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/RP/3TQK6YGQYTXWHJ04STI475.uasset'
+[2022.10.29-09.53.13:808][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/E7/55YSLXCE5VQBQI7498YNFJ
+[2022.10.29-09.53.13:809][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/55YSLXCE5VQBQI7498YNFJD542C36E4879AB7516E723AD1C4ADA7C.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/E7/55YSLXCE5VQBQI7498YNFJ.uasset'
+[2022.10.29-09.53.13:812][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/SL/HFMMXYRMQ0I70N96H3AU5Y
+[2022.10.29-09.53.13:813][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/HFMMXYRMQ0I70N96H3AU5Y4109FBE947DF71860804039169EEC875.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/SL/HFMMXYRMQ0I70N96H3AU5Y.uasset'
+[2022.10.29-09.53.13:816][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/H1/TV5ZQ5NW5QFX6HH70LMA87
+[2022.10.29-09.53.13:816][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/TV5ZQ5NW5QFX6HH70LMA876DBF83D947DE30175B2BE3BA7D731276.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/H1/TV5ZQ5NW5QFX6HH70LMA87.uasset'
+[2022.10.29-09.53.13:819][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/UF/N9ZWG07E9X1QN98I0M3X48
+[2022.10.29-09.53.13:820][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/N9ZWG07E9X1QN98I0M3X487F2740DF4ABFD11610A3A9A91A18DE7F.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/UF/N9ZWG07E9X1QN98I0M3X48.uasset'
+[2022.10.29-09.53.13:823][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/RN/SJ1R17DTCJ28Q2FX22DHVF
+[2022.10.29-09.53.13:824][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/SJ1R17DTCJ28Q2FX22DHVF12416EA6482FF4F800FD69953C1F82A4.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/RN/SJ1R17DTCJ28Q2FX22DHVF.uasset'
+[2022.10.29-09.53.13:827][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/EU/1Q3IF72DUZVYVKT5K8BYU2
+[2022.10.29-09.53.13:827][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/1Q3IF72DUZVYVKT5K8BYU2988C5DB445E0517D03B2C08ED2719B97.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/EU/1Q3IF72DUZVYVKT5K8BYU2.uasset'
+[2022.10.29-09.53.13:831][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/6S/7DLNHSQD6APB9LT91IRTZI
+[2022.10.29-09.53.13:831][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/7DLNHSQD6APB9LT91IRTZI869F2CDC4132BDFDF9151FAF2497EC5E.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/6S/7DLNHSQD6APB9LT91IRTZI.uasset'
+[2022.10.29-09.53.13:833][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/BE/5QSEU7G0U4NMBSJV5B0MHO
+[2022.10.29-09.53.13:834][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/5QSEU7G0U4NMBSJV5B0MHO2ADC0D8F4453323317B6FEA49DA1A209.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/BE/5QSEU7G0U4NMBSJV5B0MHO.uasset'
+[2022.10.29-09.53.13:838][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/LP/2NSN9DKJ5GJ0K36DRB3NO7
+[2022.10.29-09.53.13:838][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/2NSN9DKJ5GJ0K36DRB3NO72DBAAF5E44DE619BFD3609B83832EFBC.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/LP/2NSN9DKJ5GJ0K36DRB3NO7.uasset'
+[2022.10.29-09.53.13:841][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/AH/8NID41JTH1FEG3JSVFQX2K
+[2022.10.29-09.53.13:842][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/8NID41JTH1FEG3JSVFQX2K1D9BD21546F55E58AE4C6E8F882314FA.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/AH/8NID41JTH1FEG3JSVFQX2K.uasset'
+[2022.10.29-09.53.13:845][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/55/VLEUHF73GFMKU07D65C1Q8
+[2022.10.29-09.53.13:845][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/VLEUHF73GFMKU07D65C1Q874FAA2A54F252A0817CE24AAD6E73427.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/55/VLEUHF73GFMKU07D65C1Q8.uasset'
+[2022.10.29-09.53.13:849][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/NS/YT117NFXKU50PH90QQTOH3
+[2022.10.29-09.53.13:849][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/YT117NFXKU50PH90QQTOH3918F4CB647C1DE006EF261993EB072FF.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/NS/YT117NFXKU50PH90QQTOH3.uasset'
+[2022.10.29-09.53.13:853][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/VM/1NYQRDFRA9WNML7HDE8KE1
+[2022.10.29-09.53.13:854][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/1NYQRDFRA9WNML7HDE8KE1DBA5F05647A4C4B410E7709A643007B2.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/VM/1NYQRDFRA9WNML7HDE8KE1.uasset'
+[2022.10.29-09.53.13:857][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/0Z/1R8L578BCWJD4AHE5Y4UIV
+[2022.10.29-09.53.13:857][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/1R8L578BCWJD4AHE5Y4UIV2337FD6049B792C8A9CB0484F78DA45A.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/0Z/1R8L578BCWJD4AHE5Y4UIV.uasset'
+[2022.10.29-09.53.13:860][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/UG/1YEYP5DV01C5NN0PJM6AVH
+[2022.10.29-09.53.13:861][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/1YEYP5DV01C5NN0PJM6AVH013670144C7DE940B0B9D1956CA48F5D.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/UG/1YEYP5DV01C5NN0PJM6AVH.uasset'
+[2022.10.29-09.53.13:864][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/JJ/9FZKKJ2GIV8N89JRCU00PF
+[2022.10.29-09.53.13:865][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/9FZKKJ2GIV8N89JRCU00PF46DD8CBF4B373356479CA987D04826AF.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/JJ/9FZKKJ2GIV8N89JRCU00PF.uasset'
+[2022.10.29-09.53.13:869][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/9R/AFO43P2CYE5T8NJJZKW9B8
+[2022.10.29-09.53.13:870][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/AFO43P2CYE5T8NJJZKW9B8DBA159AA4DAB89EEDF317F88B8014C05.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/9R/AFO43P2CYE5T8NJJZKW9B8.uasset'
+[2022.10.29-09.53.13:873][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/D4/3JOV3Y2ECN77T8NTH4P9LL
+[2022.10.29-09.53.13:873][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/3JOV3Y2ECN77T8NTH4P9LL30FFD6CD4A038AD3764C4AB57467C6CB.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/D4/3JOV3Y2ECN77T8NTH4P9LL.uasset'
+[2022.10.29-09.53.13:876][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/3W/RZIC9SWCG8QHQLH8LCEHS4
+[2022.10.29-09.53.13:877][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/RZIC9SWCG8QHQLH8LCEHS43F666E154F6CFEEA39B86D9D4995A0C1.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/3W/RZIC9SWCG8QHQLH8LCEHS4.uasset'
+[2022.10.29-09.53.13:879][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/93/W8H3Y2LB9WCM8V28GU6925
+[2022.10.29-09.53.13:880][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/W8H3Y2LB9WCM8V28GU692592B611554DF0FD1F24DE47B980577D3D.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/93/W8H3Y2LB9WCM8V28GU6925.uasset'
+[2022.10.29-09.53.13:883][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/2T/0IZCPJD83EUO8400N8AHWQ
+[2022.10.29-09.53.13:884][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/0IZCPJD83EUO8400N8AHWQ3E4439674257B9297804FE9D11B4AB16.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/2T/0IZCPJD83EUO8400N8AHWQ.uasset'
+[2022.10.29-09.53.13:887][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/OJ/UB6KBSI9NEXJTFPVX5DNAJ
+[2022.10.29-09.53.13:888][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/UB6KBSI9NEXJTFPVX5DNAJ67DFFB1B4AF720E32C4ABA84BAB048FC.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/OJ/UB6KBSI9NEXJTFPVX5DNAJ.uasset'
+[2022.10.29-09.53.13:891][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/O2/W7ZIQ1TS94PC8PIB2U5E1J
+[2022.10.29-09.53.13:891][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/W7ZIQ1TS94PC8PIB2U5E1J3CC0B9A8487BCCCDB5AB93AE4317FDF8.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/O2/W7ZIQ1TS94PC8PIB2U5E1J.uasset'
+[2022.10.29-09.53.13:894][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/HV/U3X70YDN11B4UOLQB9VBWA
+[2022.10.29-09.53.13:894][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/U3X70YDN11B4UOLQB9VBWA3FFCCA844E31F25D60060F97D7F162F9.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/HV/U3X70YDN11B4UOLQB9VBWA.uasset'
+[2022.10.29-09.53.13:897][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/OD/9V0AL1AR9MKB8KXEWM1YGG
+[2022.10.29-09.53.13:898][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/9V0AL1AR9MKB8KXEWM1YGG536CA5234BC6916AC69BA4B2DB8B2426.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/OD/9V0AL1AR9MKB8KXEWM1YGG.uasset'
+[2022.10.29-09.53.13:901][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/JE/H5MF45545UQ9ID80NSZPDO
+[2022.10.29-09.53.13:902][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/H5MF45545UQ9ID80NSZPDO65A088454020C058EE7C0CB59A4CCBFE.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/JE/H5MF45545UQ9ID80NSZPDO.uasset'
+[2022.10.29-09.53.13:905][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/DB/XRQ7D19TVSKOMRUP0TJ1Q5
+[2022.10.29-09.53.13:906][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/XRQ7D19TVSKOMRUP0TJ1Q59BC7B4DF46425D869EF1F081A5D58896.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/DB/XRQ7D19TVSKOMRUP0TJ1Q5.uasset'
+[2022.10.29-09.53.13:909][220]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/X9/WS2WJUYT9YLNSLYP6UNXWD
+[2022.10.29-09.53.13:909][220]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/WS2WJUYT9YLNSLYP6UNXWDDA6962624653E1E53F9873B874FB178F.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/X9/WS2WJUYT9YLNSLYP6UNXWD.uasset'
+[2022.10.29-09.53.13:928][220]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.29-09.53.13:928][220]LogContentValidation: Display: Validating Fourmiz_classe3_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe3_C_UAID_186024AD2D647F4401_2026626320
+[2022.10.29-09.53.13:928][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64864401_1658322750
+[2022.10.29-09.53.13:928][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64864401_1388215749
+[2022.10.29-09.53.13:928][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1534577056
+[2022.10.29-09.53.13:928][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1534572055
+[2022.10.29-09.53.13:928][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1534566054
+[2022.10.29-09.53.13:928][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1534561053
+[2022.10.29-09.53.13:928][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1534555052
+[2022.10.29-09.53.13:928][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1534548051
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1534537050
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1534530049
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1537012057
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1537019058
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1537025059
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1537031060
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1537037061
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1537043062
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1537049063
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1537056064
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1529059040
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1529055039
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1529050038
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1529047037
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1529042036
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1529038035
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1529034034
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64834401_1529029033
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D645C4401_1076928162
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1289584403
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1286641401
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1284454400
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D645B4401_1971994984
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1288389402
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D64634401_1282840399
+[2022.10.29-09.53.13:929][220]LogContentValidation: Display: Validating Fourmiz_classe2_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.Fourmiz_classe2_C_UAID_186024AD2D645C4401_1078432163
+[2022.10.29-09.53.15:039][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.10.29-09.53.18:868][294]LogSlate: Window 'Save Content' being destroyed
+[2022.10.29-09.53.19:091][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.10.29-09.53.19:184][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.10.29-09.53.19:280][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.29-09.53.19:282][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/fourmiz1/Fourmiz_classe2" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz_classe2.uasset" SILENT=true
+[2022.10.29-09.53.19:287][294]LogSavePackage: Moving output files for package: /Game/Jam/fourmiz1/Fourmiz_classe2
+[2022.10.29-09.53.19:287][294]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmiz_classe204D8BE4B467ACF534F278DAEEBFDB6DD.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/fourmiz1/Fourmiz_classe2.uasset'
+[2022.10.29-09.53.19:289][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/Fourmizméchant" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant.uasset" SILENT=true
+[2022.10.29-09.53.19:295][294]LogSavePackage: Moving output files for package: /Game/Jam/Fourmizméchant
+[2022.10.29-09.53.19:295][294]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/Fourmizméchant2097C6C94118FDFE4181EE8FC7A0B667.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/Fourmizméchant.uasset'
+[2022.10.29-09.53.19:299][294]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Tech_Hex_Tile
+[2022.10.29-09.53.19:299][294]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/M_Tech_Hex_TileA0F3938445699C0C61DB6EA6CE837C0B.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset'
+[2022.10.29-09.53.19:305][294]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse
+[2022.10.29-09.53.19:305][294]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/M_Tech_Hex_Tile_Pulse95E5AE99445AA13FB29ECB867F5BB5BC.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset'
+[2022.10.29-09.53.19:328][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam/NewMaterial" FILE="../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/NewMaterial.uasset" SILENT=true
+[2022.10.29-09.53.19:329][294]LogSavePackage: Moving output files for package: /Game/Jam/NewMaterial
+[2022.10.29-09.53.19:329][294]LogSavePackage: Moving '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Saved/NewMaterial23F9544842A2194E6A4ED396E4CCAE55.tmp' to '../../../../../../Users/y_perrette/Documents/GitHub/UEjam17/Content/Jam/NewMaterial.uasset'
+[2022.10.29-09.53.19:338][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-09.53.19:840][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-09.53.19:843][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-09.53.20:344][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-09.53.20:345][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-09.53.20:846][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-09.53.20:847][294]LogStall: Shutdown...
+[2022.10.29-09.53.20:860][294]LogStall: Shutdown complete.
+[2022.10.29-09.53.20:943][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-09.53.21:445][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-09.53.21:445][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-09.53.21:946][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-09.53.21:947][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-09.53.22:448][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-09.53.22:493][294]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-09.53.22:493][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-09.53.22:630][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-09.53.23:131][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-09.53.23:134][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-09.53.23:634][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-09.53.23:635][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-09.53.24:136][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-09.53.24:136][294]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-09.53.24:136][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-09.53.24:232][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-09.53.24:733][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-09.53.24:734][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-09.53.25:235][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-09.53.25:235][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-09.53.25:736][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-09.53.25:736][294]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-09.53.25:736][294]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-09.53.25:737][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-09.53.25:876][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-09.53.26:377][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-09.53.26:377][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-09.53.26:879][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-09.53.26:880][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-09.53.27:381][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-09.53.27:382][294]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-09.53.27:382][294]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-09.53.27:382][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-09.53.27:488][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-09.53.27:988][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-09.53.27:990][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-09.53.28:492][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-09.53.28:494][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-09.53.28:995][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-09.53.28:996][294]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-09.53.28:996][294]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-09.53.28:996][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-09.53.29:131][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-09.53.29:632][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-09.53.29:635][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.10.29-09.53.30:135][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.10.29-09.53.30:138][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.10.29-09.53.30:639][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.10.29-09.53.30:640][294]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.29-09.53.30:640][294]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2022.10.29-09.53.30:640][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.29-09.53.30:743][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.10.29-09.53.31:243][294]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.10.29-09.53.31:243][294]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
